@@ -1,0 +1,429 @@
+<script type="application/json" class="meta">
+{"ch": 13, "part": "D",
+ "title": "Leukaemias &amp; Myeloproliferative Neoplasms",
+ "short": "Leukaemias and MPNs",
+ "hook": "Every leukaemia is a marrow that has lost a brake. Acute leukaemias cannot mature, so blasts pile up and the marrow fails within weeks; chronic leukaemias mature but cannot stop, so the blood fills with cells that look almost normal.",
+ "objectives": ["Classify leukaemias and myeloid neoplasms, and explain why acute and chronic leukaemias behave so differently", "Differentiate ALL from AML by morphology, cytochemistry, immunophenotype and genetics", "Explain why acute promyelocytic leukaemia causes DIC and why it responds to retinoic acid", "Describe CLL and CML: smear findings, key genetic lesions, phases and complications", "Explain how JAK2-pathway mutations produce polycythaemia vera, essential thrombocythaemia and primary myelofibrosis", "Distinguish CML from a leukaemoid reaction and outline the myelodysplastic syndromes"],
+ "radar": {"SEQ": 3, "BCQ": 3, "Viva": 3, "OSPE": 3},
+ "radar_note": "AML vs ALL, CML vs leukaemoid reaction and the translocations are favourite long and short questions; leukaemia smears are a standard OSPE station.",
+ "robbins": "Robbins Basic Pathology — <i>Diseases of White Blood Cells, Lymph Nodes, Spleen, and Thymus</i>: reactive leukocytosis, precursor lymphoid neoplasms, CLL, acute myeloid leukaemia, myelodysplastic syndromes, myeloproliferative neoplasms."}
+</script>
+
+<div class="mm" data-cap="<b>Chapter at a glance.</b> Two questions (which lineage? how mature?) sort every leukaemia.">
+{"center": "Leukaemias and MPNs",
+ "branches": [
+  {"t": "Classification", "items": ["Acute (blasts) vs chronic (mature)", "Myeloid vs lymphoid lineage", "WHO myeloid: **AML, MDS, MPN**"]},
+  {"t": "ALL", "items": ["Children; **TdT+** lymphoblasts", "t(12;21) good; **Ph+** bad", "CNS, testis; T-ALL mediastinum"]},
+  {"t": "AML", "items": ["**≥ 20%** myeloid blasts", "**Auer rods**, MPO+", "**t(15;17) APL** → DIC; ATRA", "t(8;21), inv(16): good outlook"]},
+  {"t": "CLL", "items": ["Elderly; **smudge cells**", "**CD5+ CD23+** B cells", "Low IgG, AIHA, Richter"]},
+  {"t": "CML", "items": ["**t(9;22) BCR–ABL**", "Myelocyte bulge, basophils", "Chronic → accelerated → blast", "**Imatinib**"]},
+  {"t": "JAK2 MPNs and MDS", "items": ["**PV**: red cells, low EPO", "**ET** platelets; **PMF** teardrops", "MDS: dysplasia + cytopenias"]}
+ ]}
+</div>
+
+<h2><span class="sn">13.1</span> Classifying leukaemias</h2>
+<p>White-cell neoplasms are named by <b>where they live</b> and <b>how far they mature</b>. A <span class="kw">leukaemia</span> arises in the marrow and spills into the blood; a <span class="kw">lymphoma</span> forms masses in lymph nodes or other tissues (Chapter 14). The line is blurred: one tumour can present either way (ALL vs lymphoblastic lymphoma; CLL vs SLL).</p>
+
+<div class="box def"><p><span class="term">Leukaemia</span> is a malignant, clonal proliferation of haematopoietic stem or progenitor cells that replaces the normal bone marrow and usually appears in large numbers in the peripheral blood.</p></div>
+
+<p>Two questions name a leukaemia: <b>which lineage</b> (myeloid or lymphoid) and <b>how mature</b> (acute = blasts that cannot mature; chronic = cells that mature but proliferate to excess). Together they give the classic four: <b>ALL, AML, CLL, CML</b>. The WHO sorts myeloid neoplasms by what happens to maturation: <b>AML</b> (blocked; blasts ≥ 20%), <b>MDS</b> (disordered and ineffective → cytopenias) and <b>MPN</b> (normal, but production excessive → high counts: CML, PV, ET, PMF). Lymphoid neoplasms are covered in Chapter 14.</p>
+
+<table class="t vs">
+<caption>Acute vs chronic leukaemia</caption>
+<thead><tr><th>Feature</th><th>Acute leukaemia</th><th>Chronic leukaemia</th></tr></thead>
+<tbody>
+<tr><td>Dominant cell</td><td><b>Blasts</b> (immature)</td><td><b>Mature or maturing</b> cells</td></tr>
+<tr><td>Onset</td><td>Abrupt: days to weeks</td><td>Insidious; often found on a routine count</td></tr>
+<tr><td>Usual age</td><td>ALL: children; AML: adults</td><td>Adults (CLL: elderly)</td></tr>
+<tr><td>WBC count</td><td>High, normal or even low</td><td>Usually very high</td></tr>
+<tr><td>Marrow failure</td><td><b>Early and severe</b>: anaemia, infection, bleeding</td><td>Late</td></tr>
+<tr><td>Untreated survival</td><td>Weeks to months</td><td>Years</td></tr>
+</tbody></table>
+
+<div class="flow" data-cap="<b>Figure 13.1 · How an acute leukaemia makes the patient ill.</b> Symptoms come from what is missing, and from where blasts settle." data-dir="LR" data-w="20">
+!Mutations: maturation block + growth -> *Blasts fill the marrow -> Normal haematopoiesis suppressed -> Anaemia, infections, bleeding
+*Blasts fill the marrow -> Tissue infiltration -> Bone pain, nodes, spleen, liver, CNS, gums
+</div>
+
+<div class="two">
+<div>
+<h4>Risk factors</h4>
+<ul class="tight">
+<li><b>Inherited:</b> Down syndrome, Fanconi anaemia, Bloom syndrome, ataxia–telangiectasia</li>
+<li><b>Radiation</b>, <b>benzene</b>, smoking</li>
+<li><b>Chemotherapy:</b> alkylating agents, topoisomerase II inhibitors → therapy-related AML/MDS</li>
+<li><b>Viruses:</b> HTLV-1 → adult T-cell leukaemia/lymphoma</li>
+<li><b>Prior MDS or MPN</b> → AML</li>
+</ul>
+</div>
+<div class="box concept"><p><b>Why does a leukaemic child bleed with a “normal” WBC?</b> Symptoms come from what is <b>missing</b>. Blasts crowd out normal stem cells, so neutrophils, red cells and platelets fall. A normal count made of blasts protects nobody: read the smear.</p></div>
+</div>
+
+<h2><span class="sn">13.2</span> Acute leukaemias: ALL and AML</h2>
+<p>An acute leukaemia needs two classes of mutation working together. One hits <b>transcription factors</b> that drive differentiation, so cells stay as blasts. The other switches on <b>growth signals</b> (tyrosine kinases, RAS), so blasts keep dividing. Cells that cannot mature and will not stop accumulate, and the marrow fails.</p>
+
+<h3>Acute lymphoblastic leukaemia (ALL)</h3>
+<div class="box def"><p><span class="term">ALL</span> is a neoplasm of precursor B or T cells (<b>lymphoblasts</b>) that mainly involves the marrow and blood. When the same cells form a mass (usually thymic) with little marrow disease, it is called <b>lymphoblastic lymphoma</b>.</p></div>
+
+<div class="two">
+<div>
+<h4>Who and why</h4>
+<ul class="tight">
+<li><b>Commonest cancer of childhood</b>; peak about 3 years; about <b>85% are B-ALL</b></li>
+<li><b>T-ALL:</b> adolescent boys with a <b>mediastinal (thymic) mass</b></li>
+<li>B-ALL: loss-of-function mutations in B-cell transcription factors (<i>PAX5</i>, <i>E2A</i>, <i>EBF</i>); T-ALL: activating <i>NOTCH1</i> mutations (over 70%)</li>
+<li><b>Hyperdiploidy</b> and <b>t(12;21) ETV6–RUNX1</b> in children; <b>t(9;22) BCR–ABL</b> (Ph+) in about a quarter of adults</li>
+</ul>
+</div>
+<div>
+<h4>Clinical picture</h4>
+<ul class="tight">
+<li>Abrupt <b>fatigue, fever, bleeding</b> (marrow failure)</li>
+<li><b>Bone pain and sternal tenderness</b> (marrow expansion, subperiosteal infiltration)</li>
+<li>Generalised lymphadenopathy, splenomegaly, hepatomegaly, testicular swelling</li>
+<li><b>CNS spread</b> (headache, vomiting, cranial nerve palsies): commoner than in AML</li>
+<li>T-ALL: mediastinal mass compresses SVC or airway</li>
+</ul>
+</div>
+</div>
+
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li>WBC high, normal or low; anaemia, thrombocytopenia</li><li><b>Lymphoblasts</b>: small to medium, high N:C ratio</li><li><b>Condensed</b> chromatin, <b>inconspicuous nucleoli</b></li><li>Scant blue <b>agranular</b> cytoplasm; <b>no Auer rods</b></li></ul></div>
+<div class="micro" data-label="Marrow and markers"><ul><li>Marrow hypercellular, <b>packed with lymphoblasts</b></li><li><b>TdT positive</b> (&gt; 95%); MPO negative; PAS coarse block positivity</li><li>B-ALL: CD19, PAX5, <b>CD10</b> (CALLA); T-ALL: CD3, CD7, CD1</li></ul></div>
+</div>
+
+<p><b>Prognosis:</b> <b>good</b> with age 2–10 years, low WBC, hyperdiploidy (trisomy 4, 7, 10), t(12;21) and rapid blast clearance; <b>poor</b> with age under 2 (often <i>KMT2A</i>/11q23 rearranged), adolescence or adulthood, WBC over 100,000/µL, t(9;22), hypodiploidy and minimal residual disease after induction. About <b>95% of children</b> remit and <b>75–85% are cured</b>; adults fare much worse. Drugs reach the CNS and testes poorly (“sanctuary sites”), so CNS-directed therapy is standard.</p>
+
+<h3>Acute myeloid leukaemia (AML)</h3>
+<div class="box def"><p><span class="term">AML</span> is a neoplasm of myeloid progenitors in which <b>at least 20% of the cells in the marrow (or blood) are myeloid blasts</b>. Maturation is arrested, so blasts accumulate and normal haematopoiesis fails.</p></div>
+<p>Mainly adults; incidence rises with age, peaking after 60. Mutations that <b>block differentiation</b> (<i>RUNX1</i>, <i>CBFB</i> and <i>RARA</i> fusions, <i>NPM1</i>) combine with mutations that <b>drive growth</b> (<i>FLT3</i>, <i>KIT</i>, <i>RAS</i>). Epigenetic genes (<i>DNMT3A</i>, <i>TET2</i>, <i>IDH1/2</i>) are often mutated too.</p>
+
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li><b>Myeloblasts</b>: larger, <b>delicate (fine) chromatin</b>, <b>3–5 nucleoli</b></li><li>Fine azurophilic granules; <b>Auer rods</b>: red, needle-like, specific for myeloid lineage</li><li>Monoblasts: folded, lobulated nuclei; no Auer rods</li><li><b>Aleukaemic leukaemia:</b> few or no blasts in the blood</li></ul></div>
+<div class="micro" data-label="Marrow and markers"><ul><li>Hypercellular; <b>≥ 20% blasts</b></li><li><b>MPO</b> and <b>Sudan black B</b> positive; non-specific esterase (NSE) in monocytic types</li><li>CD13, CD33, CD117 (KIT), CD34; CD14, CD64 in monocytic types</li><li><b>Myeloid sarcoma (chloroma):</b> a tissue mass of myeloblasts</li></ul></div>
+</div>
+
+<table class="t">
+<caption>WHO classification of AML, with the FAB labels still asked in viva</caption>
+<thead><tr><th>Category</th><th>Genetics / example</th><th>FAB</th><th>Point to remember</th></tr></thead>
+<tbody>
+<tr><td rowspan="4">AML with recurrent genetic abnormalities</td><td><b>t(8;21)</b> <i>RUNX1–RUNX1T1</i></td><td>M2</td><td>Good prognosis; Auer rods</td></tr>
+<tr><td><b>inv(16)</b> <i>CBFB–MYH11</i></td><td>M4Eo</td><td>Abnormal marrow eosinophils; good</td></tr>
+<tr><td><b>t(15;17)</b> <i>PML–RARA</i></td><td>M3</td><td>APL: DIC; responds to ATRA and arsenic</td></tr>
+<tr><td>11q23 <i>KMT2A</i>; <i>NPM1</i> mutation</td><td>M4/M5</td><td>KMT2A poor; NPM1 good (no FLT3-ITD)</td></tr>
+<tr><td>AML with myelodysplasia-related changes</td><td>Follows MDS; −5, −7, complex</td><td>—</td><td>Older patients; poor</td></tr>
+<tr><td>Therapy-related AML</td><td>Alkylators, radiation; topoisomerase II inhibitors</td><td>—</td><td>Very poor</td></tr>
+<tr><td>AML, not otherwise specified</td><td>By lineage and maturation</td><td>M0–M7</td><td>M5: gums and skin; M7: Down syndrome, marrow fibrosis</td></tr>
+</tbody></table>
+
+<div class="two">
+<div class="box hook" data-label="Memory Hook: FAB M0–M7"><p>M0 minimally differentiated · M1 without maturation · M2 with maturation · <b>M3 promyelocytic</b> · M4 myelomonocytic · M5 monocytic · M6 erythroid · M7 megakaryoblastic.</p><p><b>“3 bleeds, 4–5 chew, 7 has Down”</b>: M3 = DIC; M4/M5 = gum infiltration; M7 = Down syndrome.</p></div>
+<div>
+<h4>Clinical features of AML</h4>
+<ul class="tight">
+<li><b>Marrow failure:</b> anaemia, infections (bacterial and fungal), bleeding</li>
+<li><b>DIC</b> in APL</li>
+<li>Monocytic types: <b>gum hypertrophy</b>, skin infiltration (leukaemia cutis)</li>
+<li>Very high counts: <b>leukostasis</b> in lungs and brain; hyperuricaemia</li>
+<li>Most adults remit, but only about <b>15–30%</b> stay disease-free for 5 years; APL, t(8;21), inv(16) do best</li>
+</ul>
+</div>
+</div>
+
+<h4>Acute promyelocytic leukaemia (APL): the leukaemia that bleeds</h4>
+<div class="two">
+<div class="flow" data-cap="<b>Figure 13.2 · APL: one fusion gene, two consequences.</b>" data-w="20">
+!t(15;17): PML–RARA fusion -> Retinoic acid receptor blocked -> *Arrest at promyelocyte stage
+*Arrest at promyelocyte stage -> Granules release procoagulants + fibrinolytics -> !DIC: bleeding
+*Arrest at promyelocyte stage -[ATRA, arsenic]-> Cells mature and die
+</div>
+<div>
+<ul class="tight">
+<li><b>t(15;17)(q24;q21)</b> fuses <i>PML</i> with the retinoic acid receptor-α gene (<i>RARA</i>). The fusion protein represses genes needed for maturation, so cells stop at the <b>promyelocyte</b> stage.</li>
+<li>Smear/marrow: abnormal promyelocytes with heavy azurophilic granules, often bilobed nuclei, and <b>bundles of Auer rods (“faggot cells”)</b>.</li>
+<li>The granules release <b>tissue factor-like procoagulants and fibrinolytic activators</b> → <b>DIC</b>, often present at diagnosis. Haemorrhage is the main early cause of death.</li>
+<li><b>All-trans retinoic acid (ATRA)</b> in high doses overrides the block and forces maturation; <b>arsenic trioxide</b> degrades PML–RARA. Most patients are now cured.</li>
+</ul>
+</div>
+</div>
+
+<table class="t vs">
+<caption>ALL vs AML: the most-asked comparison in leukaemia</caption>
+<thead><tr><th>Feature</th><th>ALL</th><th>AML</th></tr></thead>
+<tbody>
+<tr><td>Age</td><td>Children (peak about 3 years)</td><td>Adults; rises with age</td></tr>
+<tr><td>Chromatin, nucleoli</td><td>Condensed; nucleoli inconspicuous</td><td>Fine, delicate; <b>3–5 nucleoli</b></td></tr>
+<tr><td>Cytoplasm</td><td>Scant, agranular</td><td>More; azurophilic granules</td></tr>
+<tr><td>Auer rods</td><td>Absent</td><td><b>Present</b> in many</td></tr>
+<tr><td>MPO / Sudan black B</td><td>Negative</td><td><b>Positive</b></td></tr>
+<tr><td>PAS</td><td><b>Coarse block</b> positivity</td><td>Negative or fine diffuse (erythroid type positive)</td></tr>
+<tr><td>Non-specific esterase</td><td>Negative</td><td>Positive in monocytic types (M4, M5)</td></tr>
+<tr><td>TdT</td><td><b>Positive</b> (&gt; 95%)</td><td>Usually negative</td></tr>
+<tr><td>Surface markers</td><td>B: CD19, CD10, PAX5 · T: CD3, CD7</td><td>CD13, CD33, CD117, CD34</td></tr>
+<tr><td>Special features</td><td>CNS, testis, mediastinum (T-ALL)</td><td>Gums, skin (monocytic); <b>DIC in APL</b></td></tr>
+<tr><td>Outcome</td><td>Most children cured</td><td>Poor overall; APL does well</td></tr>
+</tbody></table>
+
+<div class="box trap"><p><b>Three classic traps.</b> (1) A <b>normal or low WBC does not exclude acute leukaemia</b> (aleukaemic leukaemia): examine the marrow. (2) Auer rods prove a myeloid blast, but monoblasts lack them, so their <b>absence does not exclude AML</b>. (3) <b>Down syndrome</b> raises the risk of both: acute megakaryoblastic leukaemia (M7) in children under 5, ALL in older children.</p></div>
+
+<h2><span class="sn">13.3</span> Chronic lymphocytic leukaemia (CLL)</h2>
+<div class="box def"><p><span class="term">CLL</span> is a neoplasm of small, mature-looking B cells involving the blood, marrow and lymphoid organs, diagnosed when the absolute count of clonal B lymphocytes in the blood exceeds <b>5000/µL</b>. When the same tumour lives mainly in lymph nodes it is called <b>small lymphocytic lymphoma (SLL)</b>: one disease, two addresses.</p></div>
+
+<div class="two">
+<div>
+<h4>Who and why</h4>
+<ul class="tight">
+<li>Commonest leukaemia of adults in Western countries; less common in Asia</li>
+<li>Median age about <b>60</b>; men twice as often as women</li>
+<li>Deletion of <b>13q14</b> removes miR-15/16, which normally restrain <b>BCL2</b> → BCL2 overexpression; also del(11q) (<i>ATM</i>), del(17p) (<i>TP53</i>), trisomy 12</li>
+<li>Survival signals flow through the B-cell receptor via <b>BTK</b> (the target of ibrutinib)</li>
+</ul>
+</div>
+<div>
+<h4>Clinical picture</h4>
+<ul class="tight">
+<li>Often <b>asymptomatic</b>; found on a routine count</li>
+<li>Fatigue, weight loss; generalised painless lymphadenopathy, hepatosplenomegaly</li>
+<li><b>Hypogammaglobulinaemia</b> → bacterial infections</li>
+<li><b>Warm autoimmune haemolytic anaemia</b> and immune thrombocytopenia</li>
+<li><b>Richter transformation</b> to diffuse large B-cell lymphoma: a rapidly enlarging mass, poor outlook</li>
+</ul>
+</div>
+</div>
+
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li>Lymphocytosis (&gt; 5000/µL, often far higher)</li><li><b>Small round lymphocytes</b> with dense clumped chromatin and scant cytoplasm</li><li>Many <b>smudge (basket) cells</b>: fragile cells crushed during smearing</li><li>A few larger prolymphocytes</li></ul></div>
+<div class="micro" data-label="Node and marrow"><ul><li>Node diffusely effaced by small lymphocytes</li><li>Pale <b>proliferation centres</b> of prolymphocytes and paraimmunoblasts: pathognomonic</li><li>Marrow, splenic pulp and hepatic portal tracts infiltrated</li></ul></div>
+</div>
+
+<div class="two">
+<div class="box concept"><p><b>CLL accumulates; it does not race.</b> BCL2 keeps the cells alive long after they should have died, but they divide slowly: hence the indolent course (many patients live over 10 years) and the success of the BCL2 inhibitor venetoclax.</p></div>
+<div class="box molec"><p><b>Immunophenotype:</b> CD19+, CD20 dim, <b>CD5+</b>, <b>CD23+</b>, dim surface Ig with one light chain. Mantle cell lymphoma is CD5+ but <b>CD23− and cyclin D1+</b>. <b>Bad markers:</b> del(17p)/<i>TP53</i>, del(11q), unmutated <i>IGHV</i>, ZAP-70, CD38.</p></div>
+</div>
+
+<h2><span class="sn">13.4</span> Myeloproliferative neoplasms (MPN)</h2>
+<div class="box concept"><p><b>The MPN idea.</b> The stem cell carries a <b>constitutively active tyrosine kinase</b>, so it overproduces without waiting for growth factors, but <b>maturation is normal</b>: the blood fills with <b>mature</b> cells, the opposite of AML. Four shared features follow: (1) raised counts of one or more lineages; (2) <b>extramedullary haematopoiesis</b> → hepatosplenomegaly; (3) a late <b>“spent phase”</b> of marrow fibrosis with falling counts; (4) transformation to <b>acute leukaemia</b> (common in CML, uncommon in the rest). High cell turnover adds <b>hyperuricaemia and gout</b>.</p></div>
+
+<table class="t">
+<caption>The four classic MPNs and their drivers</caption>
+<thead><tr><th>MPN</th><th>Driver lesion</th><th>Main lineage expanded</th><th>Hallmark</th></tr></thead>
+<tbody>
+<tr><td><b>CML</b></td><td><b>BCR–ABL</b> [t(9;22)] in all cases</td><td>Granulocytes</td><td>Ph chromosome, basophilia, massive spleen</td></tr>
+<tr><td><b>Polycythaemia vera</b></td><td><b>JAK2 V617F</b> in &gt; 95%</td><td>Red cells (plus WBC, platelets)</td><td>High haematocrit, <b>low EPO</b>, itching</td></tr>
+<tr><td><b>Essential thrombocythaemia</b></td><td>JAK2 in about half; CALR or MPL</td><td>Megakaryocytes</td><td>Platelets persistently &gt; 450,000/µL</td></tr>
+<tr><td><b>Primary myelofibrosis</b></td><td>JAK2 in about half; CALR or MPL</td><td>Atypical megakaryocytes → fibrosis</td><td>Teardrops, leukoerythroblastosis, dry tap</td></tr>
+</tbody></table>
+
+<h3>Chronic myeloid leukaemia (CML)</h3>
+<div class="box def"><p><span class="term">CML</span> is an MPN of the pluripotent haematopoietic stem cell defined by the <b>BCR–ABL fusion gene</b>, usually created by the balanced translocation <b>t(9;22)(q34;q11)</b>. The shortened chromosome 22 is the <b>Philadelphia (Ph) chromosome</b>.</p></div>
+
+<div class="flow" data-cap="<b>Figure 13.3 · Pathogenesis of CML.</b> A kinase stuck in the ‘on’ position; imatinib switches it off." data-dir="LR" data-w="17">
+!t(9;22): ABL joins BCR -> BCR–ABL fusion gene -> *Tyrosine kinase always on -> Growth-factor-independent proliferation -> !Granulocytosis, big spleen
+*Tyrosine kinase always on -[blocked by]-> ~Imatinib (TKI)
+</div>
+
+<p>Adults aged 25–60 (peak in the 40s and 50s). BCR–ABL drives growth <b>without blocking maturation</b>, so the blood contains every stage of granulocyte. A later hit that does block maturation produces blast crisis. Onset is insidious: fatigue, weight loss, anorexia and a <b>dragging sensation</b> from a massive spleen; sudden left-upper-quadrant pain means <b>splenic infarction</b>.</p>
+
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li>WBC usually <b>&gt; 100,000/µL</b></li><li><b>Full spectrum</b> of granulocytes; <b>myelocytes and neutrophils</b> dominate (“myelocyte bulge”)</li><li>Blasts usually &lt; 10% (chronic phase)</li><li><b>Basophilia</b> and eosinophilia; platelets often high</li><li>Mild normocytic anaemia; <b>LAP score low</b></li></ul></div>
+<div class="micro" data-label="Marrow and spleen"><ul><li>Marrow <b>almost 100% cellular</b>: granulocytic and megakaryocytic hyperplasia, high M:E ratio</li><li>Small (“dwarf”) megakaryocytes; <b>sea-blue histiocytes</b> (pseudo-Gaucher cells)</li><li>Spleen <b>massive</b>: red-pulp extramedullary haematopoiesis, infarcts</li><li>Reticulin fibrosis increases with time</li></ul></div>
+</div>
+
+<div class="stages" data-cap="<b>Figure 13.4 · Natural history of CML.</b> Untreated, progression comes after a median of about 3 years.">
+{"items": [{"t": "Chronic phase", "s": "Blasts under 10%; lasts years; controlled by TKIs"}, {"t": "Accelerated phase", "s": "Blasts 10–19%; rising basophils, anaemia, falling platelets; new karyotype changes"}, {"t": "Blast crisis", "s": "Blasts 20% or more; about 70% myeloid, 30% lymphoid (pre-B); behaves as acute leukaemia"}]}
+</div>
+
+<p>About half of untreated patients pass through an accelerated phase; the rest enter blast crisis abruptly. <b>Imatinib</b> and later BCR–ABL tyrosine kinase inhibitors give lasting remissions in most patients but do not eradicate the stem cell; resistance can arise from ABL kinase mutations (e.g. T315I). Allogeneic stem-cell transplantation can cure.</p>
+
+<p>A <span class="kw">leukaemoid reaction</span> is a <b>reactive, non-neoplastic</b> leukocytosis so high (usually &gt; 50,000/µL) or so immature that it mimics leukaemia: severe infection and sepsis, tuberculosis, burns, severe haemolysis or haemorrhage, and marrow infiltration by cancer.</p>
+<table class="t vs">
+<caption>Leukaemoid reaction vs CML: a favourite “differentiate between”</caption>
+<thead><tr><th>Feature</th><th>Leukaemoid reaction</th><th>CML</th></tr></thead>
+<tbody>
+<tr><td>Nature, cause</td><td>Reactive: severe infection, burns, haemolysis</td><td>Clonal neoplasm: t(9;22) BCR–ABL</td></tr>
+<tr><td>WBC</td><td>Usually 50,000–100,000/µL</td><td>Often &gt; 100,000/µL</td></tr>
+<tr><td>Differential</td><td>Mostly <b>bands and metamyelocytes</b></td><td>Full spectrum; <b>myelocyte bulge</b></td></tr>
+<tr><td>Toxic changes</td><td><b>Toxic granulation, Döhle bodies</b>, vacuoles</td><td>Absent</td></tr>
+<tr><td>Basophils, eosinophils</td><td>Not increased</td><td><b>Increased</b></td></tr>
+<tr><td>LAP score</td><td><b>High</b></td><td><b>Low</b></td></tr>
+<tr><td>Spleen</td><td>Normal or slightly enlarged</td><td>Massive</td></tr>
+<tr><td>Ph chromosome / BCR–ABL</td><td>Absent</td><td><b>Present</b></td></tr>
+<tr><td>Course</td><td>Settles when the cause is treated</td><td>Progressive; needs TKI</td></tr>
+</tbody></table>
+
+<div class="box trap"><p><b>LAP or BCR–ABL?</b> Many teachers still expect the <b>leukocyte alkaline phosphatase (LAP) score</b> (low in CML, high in a leukaemoid reaction). Write it, but add that the <b>definitive test is BCR–ABL</b> by karyotype (Ph chromosome), FISH or PCR; PCR also monitors response to imatinib.</p></div>
+
+<h3>The JAK2 family: PV, ET and primary myelofibrosis</h3>
+<p><i>JAK2</i> is the tyrosine kinase behind the receptors for erythropoietin (EPO), thrombopoietin (TPO) and G-CSF. The <b>V617F</b> mutation leaves it permanently on, so precursors grow without their growth factors; <i>CALR</i> and <i>MPL</i> mutations act on the same pathway.</p>
+
+<div class="flow" data-cap="<b>Figure 13.5 · One pathway, three diseases.</b> Which lineage dominates decides the name." data-dir="LR" data-w="18">
+!JAK2 V617F (or CALR, MPL) -> *JAK–STAT signalling always on -> Growth without EPO or TPO
+Growth without EPO or TPO -> PV: red cells (+ WBC, platelets)
+Growth without EPO or TPO -> ET: platelets
+Growth without EPO or TPO -> PMF: atypical megakaryocytes -> PDGF, TGF-β: marrow fibrosis -> Extramedullary haematopoiesis: huge spleen
+</div>
+
+<div class="box hook"><p><b class="big">One Philadelphia cousin, three JAK2 sisters.</b> CML alone has <b>BCR–ABL</b>. <b>P</b>V makes <b>P</b>acked red cells, <b>E</b>T makes <b>E</b>xcess platelets, PM<b>F</b> makes <b>F</b>ibrosis. JAK2: nearly all PV, about half of ET and PMF.</p></div>
+
+<h4>Polycythaemia vera (PV)</h4>
+<p>An MPN with marked overproduction of <b>red cells</b>, usually with raised granulocytes and platelets too (panmyelosis). Precursors grow without EPO, so <b>serum EPO is low</b>: the key difference from secondary polycythaemia.</p>
+<div class="two">
+<div>
+<ul class="tight">
+<li>Hb and haematocrit high (haematocrit may exceed 60%); WBC and platelets raised; basophilia</li>
+<li>Marrow hypercellular (all three lineages); large, clustered megakaryocytes</li>
+<li>Moderate splenomegaly (extramedullary haematopoiesis); congested organs</li>
+<li>Late <b>spent phase</b>: post-polycythaemic myelofibrosis; transformation to AML is uncommon</li>
+</ul>
+</div>
+<div>
+<ul class="tight">
+<li>Older adults: <b>plethora</b>, ruddy cyanosis, headache, dizziness, hypertension (hyperviscosity)</li>
+<li><b>Itching after a warm bath</b> and peptic ulcer: histamine from basophils</li>
+<li><b>Gout</b> from high cell turnover</li>
+<li><b>Thrombosis</b> (stroke, MI, DVT, hepatic vein: Budd–Chiari) and, paradoxically, bleeding</li>
+<li>Phlebotomy with low-dose aspirin: median survival over 10 years</li>
+</ul>
+</div>
+</div>
+
+<div class="box trap"><p><b>A raised haematocrit has three explanations.</b> <b>Relative</b>: plasma volume is low (dehydration, “stress” polycythaemia); red cell mass is normal. <b>Secondary</b>: EPO is <b>high</b>, from hypoxia (high altitude, COPD, cyanotic heart disease, heavy smoking) or an EPO-secreting tumour (renal cell carcinoma, hepatocellular carcinoma, cerebellar haemangioblastoma). <b>Primary (PV)</b>: EPO is <b>low</b>, JAK2 is mutated, and WBC, platelets and spleen are usually raised too.</p></div>
+
+<h4>Essential thrombocythaemia (ET)</h4>
+<p>An MPN of megakaryocytes with a <b>persistent platelet count above 450,000/µL</b>. The marrow shows increased, <b>large, hyperlobated megakaryocytes</b> in clusters, with little fibrosis. Often asymptomatic; some have thrombosis, bleeding or <b>erythromelalgia</b> (burning hands and feet from platelet plugs in arterioles, relieved by aspirin). A <b>diagnosis of exclusion</b>: first rule out reactive thrombocytosis (iron deficiency, infection, inflammation, cancer, splenectomy) and other MPNs. Indolent, with long survival.</p>
+
+<h4>Primary myelofibrosis (PMF)</h4>
+<p>An MPN in which <b>obliterative marrow fibrosis</b> develops early and dominates. The fibroblasts are <b>not neoplastic</b>: they respond to <b>PDGF and TGF-β</b> released by neoplastic megakaryocytes. As the marrow scars, haematopoiesis moves to the spleen, liver and nodes.</p>
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li>Normocytic anaemia</li><li><b>Leukoerythroblastosis</b>: nucleated red cells + immature granulocytes</li><li><b>Teardrop cells (dacrocytes)</b>: squeezed out of a scarred marrow</li><li>Large abnormal platelets; basophilia</li></ul></div>
+<div class="micro" data-label="Marrow (trephine biopsy)"><ul><li>Aspiration gives a <b>dry tap</b></li><li>Diffuse <b>reticulin, then collagen, fibrosis</b>; marrow becomes hypocellular</li><li>Clusters of <b>atypical megakaryocytes</b> with cloud-like nuclei; dilated sinusoids</li><li>Late new bone formation (osteosclerosis)</li></ul></div>
+<div class="full"><b>Clinical:</b> usually over 60; progressive anaemia and <b>massive splenomegaly</b> (fullness, early satiety, splenic infarcts); fatigue, weight loss, night sweats, gout. Median survival is about 3–5 years and some patients transform to AML. JAK2 inhibitors (ruxolitinib) shrink the spleen and relieve symptoms; only stem-cell transplantation cures.</div>
+</div>
+
+<h2><span class="sn">13.5</span> Myelodysplastic syndromes (MDS)</h2>
+<div class="box def"><p><span class="term">MDS</span> is a group of clonal stem-cell disorders with <b>dysplastic, ineffective haematopoiesis</b>: the marrow is usually hypercellular, yet the blood shows cytopenias, because many precursors die in the marrow. Blasts are <b>below 20%</b>, and the risk of transformation to <b>AML</b> is high.</p></div>
+<p><b>Primary</b> MDS affects older adults (median about 70); <b>therapy-related</b> MDS follows alkylating drugs or radiation by 2–8 years and does worse. Mutations hit epigenetic regulators (<i>TET2</i>, <i>DNMT3A</i>), RNA-splicing genes (<i>SF3B1</i>: ring sideroblasts) and <i>TP53</i> (bad); typical karyotypes are monosomy 5 or 7, del(5q), del(7q), trisomy 8. Patients have weakness, infections and bleeding; about 10–40% progress to AML and median survival is short (a few years at most). The <b>5q− syndrome</b> of older women does better and responds to lenalidomide.</p>
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li>Cytopenias; oval macrocytes</li><li><b>Pseudo-Pelger–Huët</b> neutrophils (bilobed), hypogranular neutrophils</li><li>Giant, abnormal platelets</li></ul></div>
+<div class="micro" data-label="Marrow"><ul><li><b>Ring sideroblasts</b> (Prussian blue): iron-laden mitochondria ringing the nucleus</li><li>Megaloblastoid erythroid precursors, nuclear budding</li><li><b>Micromegakaryocytes</b>; blasts &lt; 20%</li></ul></div>
+</div>
+
+<div class="box spot"><p><b>Leukaemia smears in 10 seconds.</b> (1) Mostly <b>blasts</b>? Acute leukaemia: look for <b>Auer rods</b> (AML) or small agranular blasts with scant cytoplasm (ALL). (2) <b>Every stage</b> of granulocyte plus <b>basophils</b>? CML. (3) Sheets of <b>small mature lymphocytes</b> and <b>smudge cells</b> in an older adult? CLL. (4) <b>Teardrops</b> and nucleated red cells? Marrow fibrosis or infiltration. (5) Left shift with <b>toxic granulation</b> and Döhle bodies? A leukaemoid reaction, not leukaemia.</p></div>
+
+<div class="box pk"><p>Leukaemia, mainly <b>ALL</b>, is the <b>commonest childhood cancer</b> in Pakistan, as it is worldwide. A child with fever, pallor, bone pain and bruising needs a blood count and smear review before being treated empirically for typhoid or malaria. Cousin marriage is common, which raises the risk of <b>autosomal recessive</b> marrow-failure syndromes such as <b>Fanconi anaemia</b>, a recognised predisposition to AML.</p></div>
+
+<section class="exam-zone">
+<div class="zone-title"><span class="tag">EXAM ZONE</span> Past-Paper Pattern SEQs — Solved</div>
+
+<div class="seq"><div class="q"><span class="src">Prof pattern</span><span class="mk">2 + 3 marks</span><b>a)</b> Classify leukaemias. <b>b)</b> Differentiate between acute lymphoblastic and acute myeloid leukaemia.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> By maturity (acute vs chronic) and lineage (myeloid vs lymphoid): ALL, AML, CLL, CML. WHO: myeloid neoplasms = AML, MDS, MPN (CML, PV, ET, PMF); lymphoid neoplasms = precursor B/T (ALL/LBL), mature B (CLL), T/NK. <b>b)</b> Table of 6–8 points: age; blast morphology (chromatin, nucleoli, granules); Auer rods; MPO/Sudan black (AML+); PAS block and TdT (ALL+); markers (CD10/CD19 vs CD13/CD33/CD117); CNS/testis vs gums/skin; DIC in APL; prognosis.</p>
+<div class="tip"><b>Score booster:</b> name one translocation for each (t(12;21) in ALL; t(15;17) in AML-M3) to show depth.</div></div></div>
+
+<div class="seq"><div class="q"><span class="src">Module pattern</span><span class="mk">1 + 2 + 2 marks</span>A 50-year-old man has fatigue and a dragging sensation in the left hypochondrium. The spleen is palpable 12 cm below the costal margin. WBC 180,000/µL with myelocytes, metamyelocytes and neutrophils; basophils 6%; blasts 3%. <b>a)</b> Most likely diagnosis? <b>b)</b> Name the cytogenetic abnormality and explain its molecular effect. <b>c)</b> Give four features that distinguish this from a leukaemoid reaction.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> CML, chronic phase. <b>b)</b> t(9;22)(q34;q11): Philadelphia chromosome; <i>ABL</i> fuses with <i>BCR</i> → BCR–ABL, a constitutively active tyrosine kinase → growth-factor-independent proliferation of a pluripotent stem cell; maturation preserved; inhibited by imatinib. <b>c)</b> Basophilia/eosinophilia; myelocyte bulge; low LAP; no toxic granulation; massive spleen; Ph/BCR–ABL positive.</p></div></div>
+
+<div class="seq"><div class="q"><span class="src">Prof pattern</span><span class="mk">1 + 2 + 2 marks</span>A 28-year-old woman has gum bleeding, bruises and fever. Hb 7.5 g/dL, WBC 3,000/µL, platelets 18,000/µL; PT and aPTT prolonged, fibrinogen low, D-dimer high. The marrow is replaced by abnormal granular promyelocytes with bundles of Auer rods. <b>a)</b> Diagnosis and genetic lesion? <b>b)</b> Explain her bleeding. <b>c)</b> State the principle of specific treatment.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> Acute promyelocytic leukaemia (AML-M3), t(15;17) <i>PML–RARA</i>. <b>b)</b> Thrombocytopenia from marrow replacement plus <b>DIC</b>: granules release tissue factor-like procoagulants and fibrinolytic activators → consumption of platelets and factors, low fibrinogen, raised D-dimer. <b>c)</b> ATRA overcomes the differentiation block (cells mature and die); arsenic trioxide degrades PML–RARA; supportive platelets/cryoprecipitate.</p>
+<div class="tip"><b>Score booster:</b> say that APL is a medical emergency because early haemorrhage is the main cause of death, yet with ATRA it is the most curable AML.</div></div></div>
+
+<div class="zone-title a"><span class="tag">BCQs</span> One-Best-Answer Practice</div>
+<div class="mcqset">
+[
+{"q": "A 4-year-old boy has fever, pallor, bone pain and petechiae. The smear shows many small blasts with scant agranular cytoplasm and inconspicuous nucleoli. Which marker best confirms that these are precursor lymphoid cells?", "o": ["Myeloperoxidase", "CD117", "TdT", "Non-specific esterase", "CD13"], "a": "C", "e": "TdT is expressed by pre-B and pre-T lymphoblasts in over 95% of ALL."},
+{"q": "A 32-year-old woman has gum bleeding and ecchymoses. PT and aPTT are prolonged and fibrinogen is low. The marrow is full of heavily granular cells containing bundles of Auer rods. The genetic lesion is:", "o": ["t(9;22)", "t(8;21)", "inv(16)", "t(15;17)", "t(12;21)"], "a": "D", "e": "APL: PML–RARA fusion from t(15;17), with DIC."},
+{"q": "The drug that makes the leukaemic cells in the previous patient mature is:", "o": ["Imatinib", "All-trans retinoic acid", "Rituximab", "Hydroxyurea", "Ruxolitinib"], "a": "B", "e": "Pharmacological doses of ATRA overcome the PML–RARA block."},
+{"q": "Which finding on a Romanowsky-stained smear establishes that blasts are myeloid?", "o": ["Auer rods", "Smudge cells", "Döhle bodies", "Teardrop cells", "Rouleaux"], "a": "A", "e": "Auer rods are aggregates of azurophilic granules found only in myeloid blasts."},
+{"q": "A 68-year-old man has a lymphocyte count of 42,000/µL. The smear shows small mature lymphocytes and many smudge cells. Flow cytometry will most likely show:", "o": ["CD10+, CD19+, TdT+", "CD5+, CD23−, cyclin D1+", "CD3+, CD4+, CD7+", "CD13+, CD33+, CD117+", "CD5+, CD23+, CD19+"], "a": "E", "e": "CLL: B cells that co-express CD5 and CD23."},
+{"q": "The BCR–ABL protein of chronic myeloid leukaemia acts as a:", "o": ["Repressor of retinoic acid target genes", "Constitutively active tyrosine kinase", "Mitochondrial anti-apoptotic protein", "Cyclin driving G1 to S transition", "Defective DNA mismatch-repair enzyme"], "a": "B", "e": "Permanent kinase activity drives growth-factor-independent proliferation."},
+{"q": "A 40-year-old man with severe pneumonia has WBC 62,000/µL with many band forms and metamyelocytes. Which finding favours a leukaemoid reaction over CML?", "o": ["Basophilia", "Massive splenomegaly", "High LAP score with toxic granulation", "Myelocytes outnumbering metamyelocytes", "Philadelphia chromosome"], "a": "C", "e": "Reactive neutrophils show toxic changes and a high LAP score."},
+{"q": "A 62-year-old man has itching after hot baths, a ruddy face, Hb 20.5 g/dL, platelets 640,000/µL, splenomegaly and a low serum erythropoietin. The most likely mutation is:", "o": ["BCR–ABL", "PML–RARA", "KIT", "JAK2 V617F", "NPM1"], "a": "D", "e": "Polycythaemia vera: JAK2 V617F in over 95%; EPO is suppressed."},
+{"q": "The smear shows teardrop cells, nucleated red cells and myelocytes. Marrow aspiration yields a dry tap and the spleen is massive. The diagnosis is:", "o": ["Primary myelofibrosis", "Chronic lymphocytic leukaemia", "Immune thrombocytopenic purpura", "Iron deficiency anaemia", "Acute promyelocytic leukaemia"], "a": "A", "e": "Marrow fibrosis gives leukoerythroblastosis, dacrocytes and a dry tap."},
+{"q": "Which is a favourable prognostic feature in childhood ALL?", "o": ["Age under 1 year", "WBC over 100,000/µL", "t(9;22)", "Hypodiploidy", "t(12;21) ETV6–RUNX1"], "a": "E", "e": "t(12;21) and hyperdiploidy predict an excellent outcome."},
+{"q": "A 70-year-old has pancytopenia. The marrow is hypercellular with ring sideroblasts, pseudo-Pelger–Huët neutrophils, micromegakaryocytes and 6% blasts. The diagnosis is:", "o": ["Acute myeloid leukaemia", "Aplastic anaemia", "Myelodysplastic syndrome", "Vitamin B12 deficiency", "CML in blast crisis"], "a": "C", "e": "Dysplasia in several lineages with blasts below 20% = MDS."},
+{"q": "A 55-year-old with AML has swollen, bleeding gums and nodular skin infiltrates. The blasts are most likely:", "o": ["Monoblasts, non-specific esterase positive", "Lymphoblasts, TdT positive", "Promyelocytes with t(15;17)", "Megakaryoblasts with marrow fibrosis", "Erythroblasts, PAS positive"], "a": "A", "e": "Monocytic AML (M4/M5) infiltrates gums and skin; NSE positive."}
+]
+</div>
+
+<div class="zone-title"><span class="tag">VIVA</span> Rapid-Fire Viva Voce</div>
+<div class="vivaset">
+[
+["Define leukaemia.", "A clonal malignant proliferation of haematopoietic cells that replaces the marrow and usually floods the blood."],
+["What blast count defines AML?", "At least 20% myeloid blasts in marrow or blood."],
+["What are Auer rods?", "Red, needle-like aggregates of azurophilic granules in myeloblasts; MPO-positive and specific for the myeloid lineage."],
+["What is a faggot cell?", "An abnormal promyelocyte with bundles of Auer rods, typical of APL."],
+["Why does APL cause DIC?", "Its granules release tissue factor-like procoagulants and fibrinolytic activators."],
+["What is the Philadelphia chromosome?", "The shortened chromosome 22 produced by t(9;22), carrying the BCR–ABL fusion gene."],
+["What are smudge cells?", "Fragile CLL lymphocytes crushed during smear preparation."],
+["What are proliferation centres?", "Pale nodal foci of prolymphocytes and paraimmunoblasts; pathognomonic of CLL/SLL."],
+["What is Richter transformation?", "Transformation of CLL into diffuse large B-cell lymphoma, presenting as a rapidly enlarging mass."],
+["Name the phases of CML.", "Chronic, accelerated (blasts 10–19%) and blast crisis (blasts 20% or more)."],
+["What is a dry tap?", "Failed marrow aspiration because of fibrosis (myelofibrosis) or packed marrow; a trephine biopsy is needed."],
+["What is a pseudo-Pelger–Huët cell?", "A bilobed, hypogranular neutrophil: a dysplastic feature of MDS."]
+]
+</div>
+
+<div class="zone-title a"><span class="tag">OSPE</span> Practice Stations</div>
+<div class="osce"><div class="hd"><span>Station 1 · Peripheral smear</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>A 5-year-old: Hb 6.8 g/dL, WBC 58,000/µL, platelets 22,000/µL. Most cells are small blasts with scant agranular cytoplasm, condensed chromatin and inconspicuous nucleoli; no Auer rods. (a) Diagnosis? (b) Two tests to confirm the lineage. (c) One favourable genetic finding.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Acute lymphoblastic leukaemia. (b) TdT positive; flow cytometry CD19/CD10 (B) or CD3/CD7 (T); MPO negative. (c) t(12;21) ETV6–RUNX1 or hyperdiploidy.</p></div></div></div>
+
+<div class="osce"><div class="hd"><span>Station 2 · Smear + coagulation data</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>An adult with gum bleeding. Platelets 20,000/µL; PT 21 s (control 13); aPTT 52 s (control 32); fibrinogen 80 mg/dL; D-dimer markedly raised. Smear: large cells with dense purple granules, bilobed nuclei and bundles of rod-like inclusions. (a) Diagnosis? (b) What are the inclusions? (c) Interpret the coagulation profile.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Acute promyelocytic leukaemia, t(15;17). (b) Auer rods (faggot cells). (c) DIC: consumption of platelets and factors (long PT/aPTT, low fibrinogen) with fibrinolysis (high D-dimer).</p></div></div></div>
+
+<div class="osce"><div class="hd"><span>Station 3 · Peripheral smear</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>A 45-year-old with a massive spleen; WBC 186,000/µL. Granulocytes at every stage, myelocytes and neutrophils most numerous; basophils and eosinophils increased; platelets 510,000/µL. (a) Diagnosis? (b) Confirmatory test. (c) One drug and its target.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Chronic myeloid leukaemia, chronic phase. (b) Karyotype for the Ph chromosome, or FISH/PCR for BCR–ABL. (c) Imatinib, a tyrosine kinase inhibitor of BCR–ABL.</p></div></div></div>
+
+</section>
+
+<section class="revision">
+<div class="zone-title a"><span class="tag">RAPID REVISION</span> The Night-Before Page</div>
+<div class="rr-grid">
+<div class="rr"><h4>15 one-liners</h4>
+<ol class="oneliners">
+<li>Acute = blasts that cannot mature; chronic = mature cells that cannot stop.</li>
+<li>AML needs ≥ 20% myeloid blasts in marrow or blood.</li>
+<li>ALL: children, TdT+, PAS block, MPO−, CNS and testis relapse.</li>
+<li>T-ALL: adolescent boy with a mediastinal mass; NOTCH1.</li>
+<li>Childhood ALL: t(12;21) and hyperdiploidy good; Ph+ and age under 2 bad.</li>
+<li>AML: fine chromatin, 3–5 nucleoli, Auer rods, MPO+.</li>
+<li>APL: t(15;17) PML–RARA, faggot cells, DIC; ATRA + arsenic.</li>
+<li>Monocytic AML (M4/M5): gums and skin, NSE+.</li>
+<li>t(8;21) and inv(16): good-prognosis AML.</li>
+<li>CLL: elderly, smudge cells, CD5+ CD23+, proliferation centres.</li>
+<li>CLL complications: infections, AIHA, Richter (DLBCL).</li>
+<li>CML: t(9;22) BCR–ABL, myelocyte bulge, basophils, huge spleen.</li>
+<li>CML vs leukaemoid: low vs high LAP; basophils; Ph chromosome.</li>
+<li>PV: JAK2 V617F, low EPO, pruritus, thrombosis.</li>
+<li>PMF: teardrops, leukoerythroblastosis, dry tap; MDS: ring sideroblasts.</li>
+</ol></div>
+<div>
+<div class="rr dark"><h4>Memory hooks</h4>
+<ul class="tight">
+<li><b>“3 bleeds, 4–5 chew, 7 has Down”</b>: M3 DIC, M4/M5 gums, M7 Down syndrome</li>
+<li><b>One Philadelphia cousin, three JAK2 sisters</b>: CML vs PV, ET, PMF</li>
+<li><b>P</b>V packed cells · <b>E</b>T excess platelets · PM<b>F</b> fibrosis</li>
+<li><b>CLL accumulates</b>; it does not race (BCL2)</li>
+</ul></div>
+<div class="rr grey"><h4>Test yourself: fill the gaps</h4>
+<ol class="recall">
+<li>TdT is positive in <span class="blank"></span> blasts.</li>
+<li>APL fusion gene: <span class="blank"></span>.</li>
+<li>CLL B cells co-express CD5 and <span class="blank"></span>.</li>
+<li>LAP score in CML is <span class="blank"></span>.</li>
+<li>Blast crisis: blasts ≥ <span class="blank"></span>%.</li>
+<li>Teardrop cells + dry tap = <span class="blank"></span>.</li>
+</ol>
+<p class="small muted">Answers: lymphoid (ALL) · PML–RARA · CD23 · low · 20 · primary myelofibrosis</p></div>
+</div>
+</div>
+<div class="draw-grid">
+<div class="draw">Draw from memory<span>A myeloblast with an Auer rod beside a lymphoblast; label five differences.</span></div>
+<div class="draw">Draw from memory<span>The CML pathway from t(9;22) to massive spleen, and the three phases (Figures 13.3–13.4).</span></div>
+</div>
+<div class="tracker"><span class="t">Spaced revision</span><span class="b"><i></i>Day 1</span><span class="b"><i></i>Day 3</span><span class="b"><i></i>Day 7</span><span class="b"><i></i>Day 14</span><span class="b"><i></i>Day 30</span></div>
+</section>

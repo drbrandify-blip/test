@@ -1,0 +1,378 @@
+<script type="application/json" class="meta">
+{"ch": 12, "part": "D",
+ "title": "Anaemias II: Haemolytic Anaemias &amp; Thalassaemias",
+ "short": "Anaemias II: haemolysis, thalassaemia",
+ "hook": "In haemolysis the marrow is working flat out and still losing. Find out whether the red cell is faulty from within or attacked from outside, and whether it dies in the bloodstream or in the spleen, and the diagnosis is half made.",
+ "objectives": ["List the general features of haemolytic anaemia and classify the haemolytic anaemias", "Differentiate intravascular from extravascular haemolysis clinically and in the laboratory", "Describe the pathogenesis and laboratory diagnosis of hereditary spherocytosis and G6PD deficiency", "Explain the pathogenesis, morphology and crises of sickle cell disease", "Explain the genetics and pathogenesis of α- and β-thalassaemia and interpret haemoglobin electrophoresis", "Classify autoimmune haemolytic anaemias and interpret the Coombs test", "Outline PNH and microangiopathic haemolytic anaemia"],
+ "radar": {"SEQ": 3, "BCQ": 3, "Viva": 3, "OSPE": 3},
+ "radar_note": "β-thalassaemia major (pathogenesis, blood picture, complications) and sickle cell anaemia are favourite long questions; intra- vs extravascular haemolysis and HS are common short notes.",
+ "robbins": "Robbins Basic Pathology — <i>Hematopoietic and Lymphoid Systems</i>: haemolytic anaemias (hereditary spherocytosis, G6PD deficiency, sickle cell disease, thalassaemias, PNH, immunohaemolytic and mechanical haemolytic anaemias)."}
+</script>
+
+<div class="mm" data-cap="<b>Chapter at a glance.</b> Faulty cell or hostile environment; spleen or bloodstream.">
+{"center": "Haemolytic anaemias",
+ "branches": [
+  {"t": "Common features", "items": ["Reticulocytosis, erythroid hyperplasia", "Unconjugated bilirubin, pigment stones", "Intravascular vs **extravascular**"]},
+  {"t": "Membrane and enzyme", "items": ["**Spherocytosis**: ankyrin, osmotic fragility", "**G6PD**: oxidant stress, bite cells", "Heinz bodies on supravital stain"]},
+  {"t": "Sickle cell disease", "items": ["**Glu6Val** in β-globin", "Polymerises when deoxygenated", "Crises; **autosplenectomy**"]},
+  {"t": "β-thalassaemia", "items": ["Too few β chains, excess α", "**Ineffective erythropoiesis**", "Major: HbF high, iron overload"]},
+  {"t": "α-thalassaemia", "items": ["Gene **deletions** (4 genes)", "3 lost: **HbH** (β4)", "4 lost: **Hb Barts**, hydrops"]},
+  {"t": "Acquired", "items": ["**AIHA**: warm IgG, cold IgM; Coombs", "**PNH**: CD55/CD59 loss", "MAHA: schistocytes"]}
+ ]}
+</div>
+
+<h2><span class="sn">12.1</span> Haemolytic anaemias: common ground</h2>
+<div class="box def"><p><span class="term">Haemolytic anaemia</span> is anaemia caused by <b>premature destruction of red cells</b> (life span shorter than the normal <b>120 days</b>), with a compensatory increase in erythropoiesis.</p></div>
+<div class="two">
+<div>
+<h4>Features shared by all</h4>
+<ul class="tight">
+<li><b>Raised erythropoietin</b> → <b>erythroid hyperplasia</b> of marrow and <b>reticulocytosis</b> (polychromasia); extramedullary haematopoiesis in severe cases.</li>
+<li><b>Hb breakdown products accumulate:</b> unconjugated (acholuric) <b>jaundice</b>, <b>pigment gallstones</b>, raised LDH, low <b>haptoglobin</b>.</li>
+<li>Chronic marrow expansion in childhood deforms bone (<b>crew-cut skull</b>).</li>
+<li>Iron is not lost (except in intravascular haemolysis), so iron overload can follow transfusions.</li>
+</ul>
+</div>
+<div>
+<table class="t plain">
+<caption>Classification</caption>
+<thead><tr><th>Intrinsic (intracorpuscular)</th><th>Extrinsic (extracorpuscular)</th></tr></thead>
+<tbody>
+<tr><td><b>Membrane:</b> hereditary spherocytosis, elliptocytosis</td><td><b>Immune:</b> autoimmune, transfusion reaction, haemolytic disease of newborn</td></tr>
+<tr><td><b>Enzyme:</b> G6PD, pyruvate kinase deficiency</td><td><b>Mechanical:</b> MAHA, prosthetic valves</td></tr>
+<tr><td><b>Haemoglobin:</b> sickle cell disease, thalassaemias</td><td><b>Infection:</b> malaria, clostridial sepsis</td></tr>
+<tr><td><b>Acquired membrane defect:</b> PNH</td><td><b>Toxins, hypersplenism</b></td></tr>
+</tbody></table>
+<p class="small">Rule: intrinsic defects are inherited (except PNH); extrinsic causes are acquired.</p>
+</div>
+</div>
+
+<div class="flow" data-cap="<b>Figure 12.1 · Where the red cell dies decides what you find.</b> Extravascular (top): macrophages in spleen and liver. Intravascular (bottom): lysis inside vessels." data-dir="LR" data-w="17">
+!Extravascular: RBC eaten by splenic macrophages -> Haem to bilirubin (unconjugated) -> Jaundice, pigment gallstones
+!Extravascular: RBC eaten by splenic macrophages -> Splenomegaly
+*Intravascular: RBC lysed in vessels -> Free Hb binds haptoglobin -> Haptoglobin very low
+*Intravascular: RBC lysed in vessels -> Excess Hb filtered by kidney -> Haemoglobinuria; haemosiderinuria
+</div>
+
+<table class="t vs">
+<caption>Intravascular vs extravascular haemolysis</caption>
+<thead><tr><th>Feature</th><th>Intravascular</th><th>Extravascular</th></tr></thead>
+<tbody>
+<tr><td>Site of destruction</td><td>Inside blood vessels</td><td>Macrophages of <b>spleen</b> (and liver)</td></tr>
+<tr><td>Mechanism</td><td>Mechanical trauma, complement fixation, toxins, parasites</td><td>Cells made <b>less deformable</b> or coated with antibody</td></tr>
+<tr><td>Examples</td><td>Mismatched transfusion, <b>G6PD</b> attack, <b>PNH</b>, MAHA, valves, falciparum malaria</td><td><b>HS</b>, sickle cell, thalassaemia, <b>warm AIHA</b></td></tr>
+<tr><td>Haemoglobinaemia, <b>haemoglobinuria</b></td><td><b>Present</b> (red-brown urine)</td><td>Absent</td></tr>
+<tr><td>Urine haemosiderin</td><td><b>Present</b> (tubular cells shed iron)</td><td>Absent</td></tr>
+<tr><td>Serum haptoglobin</td><td><b>Absent or very low</b></td><td>Reduced</td></tr>
+<tr><td>Splenomegaly</td><td>Usually absent</td><td><b>Present</b></td></tr>
+<tr><td>Iron loss</td><td>Yes: iron deficiency can follow</td><td>No: iron is recycled</td></tr>
+<tr><td>Jaundice, LDH</td><td>Both raised</td><td>Both raised</td></tr>
+</tbody></table>
+
+<h2><span class="sn">12.2</span> Hereditary spherocytosis (HS)</h2>
+<p>An inherited defect of the red cell <b>membrane skeleton</b> that makes cells spherical, rigid and easy prey for the spleen. It is commonest in northern Europeans; about <b>75%</b> of cases are <b>autosomal dominant</b>. Mutations hit <b>ankyrin</b> (commonest), band 3, <b>spectrin</b> or band 4.2.</p>
+<div class="flow" data-cap="<b>Figure 12.2 · Pathogenesis of hereditary spherocytosis.</b> Splenectomy removes the trap, not the defect." data-dir="LR" data-w="16">
+!Ankyrin, spectrin, band 3 mutation -> Weak membrane skeleton -> Membrane lost as small blebs -> Low surface area to volume: spherocyte -> Rigid cell trapped in splenic cords -> *Eaten by splenic macrophages
+</div>
+<div class="box concept"><p><b>Why the spleen kills spherocytes.</b> To pass from the splenic cords into the sinusoids, a 7–8 µm red cell must squeeze through slits only 2–3 µm wide. A normal biconcave disc has spare membrane and folds easily; a <b>sphere has no spare membrane</b>, so it gets stuck, loses more membrane in the hostile, glucose-poor cords and is eaten. Remove the spleen and the spherocytes live almost normally.</p></div>
+<div class="morph">
+<div class="gross" data-label="Peripheral smear"><ul><li><b>Spherocytes</b>: small, round, <b>dark-staining</b> cells with <b>no central pallor</b></li><li>Polychromasia (reticulocytosis)</li><li>After splenectomy: <b>Howell–Jolly bodies</b></li></ul></div>
+<div class="micro" data-label="Organs"><ul><li><b>Spleen</b>: moderately enlarged (500–1000 g), congested cords, prominent macrophages</li><li>Marrow erythroid hyperplasia</li><li><b>Pigment gallstones</b> in 40–50% of adults</li></ul></div>
+<div class="full"><b>Clinical:</b> <b>anaemia, splenomegaly and jaundice</b>, often from childhood. <b>Aplastic crisis</b> when <b>parvovirus B19</b> shuts down red cell production; haemolytic crisis with infections. <b>Labs:</b> raised <b>MCHC</b> (dehydrated cells), <b>increased osmotic fragility</b> (cells burst in mildly hypotonic saline), reduced eosin-5-maleimide (EMA) binding on flow cytometry, <b>direct Coombs negative</b>. <b>Treatment:</b> splenectomy in severe cases (vaccinate first).</div>
+</div>
+<div class="box trap"><p><b>Spherocytes are not specific to HS.</b> <b>Warm AIHA</b> also produces spherocytes, because macrophages nibble antibody-coated membrane. The <b>direct Coombs test</b> separates them: <b>negative in HS</b>, <b>positive in AIHA</b>. A family history and raised MCHC favour HS.</p></div>
+
+<h2><span class="sn">12.3</span> Glucose-6-phosphate dehydrogenase (G6PD) deficiency</h2>
+<p>G6PD drives the <b>hexose monophosphate shunt</b>, the red cell’s only source of <b>NADPH</b>, which keeps <b>glutathione</b> in its reduced form to neutralise oxidants. The gene is <b>X-linked</b>, so hemizygous males are affected. It is common in malaria-endemic regions of Africa, the Mediterranean, the Middle East and Asia. In the <b>A⁻</b> variant (Africa) the enzyme is unstable and only <b>older</b> red cells are deficient, so attacks are mild and self-limited; the <b>Mediterranean</b> variant is more severe.</p>
+<div class="two">
+<div>
+<div class="flow" data-cap="<b>Figure 12.3 · Oxidant haemolysis in G6PD deficiency.</b>" data-w="22">
+!Oxidant stress: infection, drugs, fava beans -> Low NADPH, little reduced glutathione -> Hb oxidised, precipitates: Heinz bodies
+Hb oxidised, precipitates: Heinz bodies -> *Membrane damage: intravascular haemolysis
+Hb oxidised, precipitates: Heinz bodies -> Splenic macrophages pluck Heinz bodies -> *Bite cells: extravascular haemolysis
+</div>
+</div>
+<div>
+<h4>Triggers</h4>
+<ul class="tight">
+<li><b>Infections</b> (the commonest): oxidants from activated phagocytes.</li>
+<li><b>Drugs:</b> antimalarials (<b>primaquine</b>, chloroquine), <b>sulfonamides</b>, nitrofurantoin, dapsone.</li>
+<li><b>Fava beans</b> (favism), mainly Mediterranean variant.</li>
+</ul>
+<h4>Picture</h4>
+<ul class="tight">
+<li>Episodic, acute <b>intravascular</b> haemolysis 2–3 days after exposure: pallor, jaundice, dark urine (<b>haemoglobinuria</b>); also neonatal jaundice.</li>
+<li>Smear: <b>bite cells</b> (degmacytes), blister cells, a few spherocytes; <b>Heinz bodies</b> only on <b>supravital stain</b> (crystal violet).</li>
+<li>Between attacks the blood is normal.</li>
+</ul>
+</div>
+</div>
+<div class="box trap"><p><b>A normal G6PD level during an attack can be false.</b> The oldest, most deficient cells have just been destroyed and young reticulocytes carry more enzyme. Repeat the assay a few weeks after recovery.</p></div>
+
+<h2><span class="sn">12.4</span> Sickle cell disease</h2>
+<p>A <b>point mutation</b> in codon 6 of the β-globin gene replaces <b>glutamic acid with valine</b>, producing <b>HbS</b>. Homozygotes (HbSS) have <b>sickle cell anaemia</b>; heterozygotes (<b>sickle trait</b>, about 40% HbS) are usually well. The trait protects against <b>falciparum malaria</b>, which explains its high frequency in Africa, the Middle East and parts of India.</p>
+<div class="flow" data-cap="<b>Figure 12.4 · Pathogenesis of sickle cell disease.</b> Two consequences: chronic haemolysis and vaso-occlusion." data-dir="LR" data-w="17">
+!HbS (Glu6Val in β-globin) -> Deoxygenation -> HbS polymerises into long fibres -> *Sickled, rigid red cells
+*Sickled, rigid red cells -> Membrane damage: irreversible sickling -> Chronic extravascular haemolysis: anaemia, jaundice, gallstones
+*Sickled, rigid red cells -> Sticky cells, endothelial activation, low NO -> Microvascular occlusion: pain crises, infarcts
+</div>
+<div class="two">
+<div>
+<h4>What makes cells sickle more (or less)</h4>
+<ul class="tight">
+<li><b>HbF</b> inhibits polymerisation: infants are well until <b>5–6 months</b>; <b>hydroxyurea</b> raises HbF.</li>
+<li><b>Other Hb:</b> HbA in trait protects; <b>HbC</b> co-polymerises (HbSC disease, milder than SS).</li>
+<li><b>MCHC:</b> dehydration increases sickling; coexistent α-thalassaemia lowers MCHC and eases disease.</li>
+<li><b>Low pH</b> and low O<sub>2</sub>; <b>slow transit</b> (spleen, marrow, inflamed tissue).</li>
+</ul>
+</div>
+<div>
+<h4>Diagnosis</h4>
+<ul class="tight">
+<li>Smear: sickled cells, target cells, polychromasia; <b>Howell–Jolly bodies</b> once the spleen is lost.</li>
+<li><b>Sickling test:</b> sodium metabisulfite deoxygenates blood and induces sickling.</li>
+<li><b>Hb electrophoresis / HPLC:</b> HbS with no HbA (SS); HbS about 40% (trait); prenatal DNA testing.</li>
+</ul>
+</div>
+</div>
+<div class="morph">
+<div class="gross" data-label="Organs"><ul><li><b>Spleen:</b> enlarged in childhood (congested red pulp), then repeated infarcts and fibrosis shrink it to a tiny nubbin by adolescence: <b>autosplenectomy</b></li><li><b>Bone:</b> marrow hyperplasia (crew-cut skull, prominent cheekbones), <b>infarcts</b>, avascular necrosis of femoral head, <b>Salmonella osteomyelitis</b></li><li><b>Kidney:</b> papillary necrosis, inability to concentrate urine</li></ul></div>
+<div class="micro" data-label="Other effects"><ul><li><b>Lung:</b> acute chest syndrome</li><li><b>Brain:</b> stroke; <b>eye:</b> retinopathy</li><li>Leg ulcers, priapism, pigment gallstones</li><li>Extramedullary haematopoiesis; secondary haemosiderosis</li></ul></div>
+</div>
+
+<table class="t">
+<caption>Crises and complications of sickle cell anaemia</caption>
+<thead><tr><th>Crisis</th><th>What happens</th><th>Key point</th></tr></thead>
+<tbody>
+<tr><td><b>Vaso-occlusive (pain)</b></td><td>Ischaemia of bone, chest, abdomen; <b>hand–foot syndrome</b> (dactylitis) in infants</td><td>Commonest; precipitated by infection, dehydration, cold, acidosis</td></tr>
+<tr><td><b>Acute chest syndrome</b></td><td>Fever, cough, chest pain, new lung infiltrates; vicious cycle of hypoxia and sickling</td><td>A leading cause of death</td></tr>
+<tr><td><b>Sequestration</b></td><td>Massive pooling of blood in the spleen (or liver): sudden pallor, big spleen, shock</td><td>Young children with intact spleens</td></tr>
+<tr><td><b>Aplastic</b></td><td><b>Parvovirus B19</b> stops red cell production; reticulocytes vanish</td><td>Transient but dangerous</td></tr>
+<tr><td><b>Infections</b></td><td><b>S. pneumoniae</b>, H. influenzae sepsis and meningitis; Salmonella osteomyelitis</td><td>Due to <b>functional asplenia</b>: vaccinate, penicillin prophylaxis</td></tr>
+</tbody></table>
+
+<h2><span class="sn">12.5</span> The thalassaemias</h2>
+<div class="box concept"><p><b>Wrong amount, not wrong shape.</b> Sickle cell disease is a <b>qualitative</b> defect: the globin is abnormal. Thalassaemia is a <b>quantitative</b> defect: normal globin, too little of it. The missing chain causes small, pale cells; the <b>partner chain left unpaired</b> causes the real damage. Normal adult Hb: <b>HbA</b> (α2β2) about 97%, <b>HbA2</b> (α2δ2) 2–3.5%, <b>HbF</b> (α2γ2) under 1%. β-globin is coded on <b>chromosome 11</b> (2 genes per cell); α-globin on <b>chromosome 16</b> (4 genes per cell).</p></div>
+
+<h3>β-thalassaemia</h3>
+<p>Caused mostly by <b>point mutations</b>: <b>β⁰</b> alleles make no β chain, <b>β⁺</b> alleles make a reduced amount. <b>Splicing mutations</b> are the commonest (β⁰ or β⁺); <b>promoter</b> mutations reduce transcription (β⁺); <b>chain-terminator</b> (nonsense, frameshift) mutations give β⁰.</p>
+
+<div class="flow" data-cap="<b>Figure 12.5 · Pathogenesis of β-thalassaemia major.</b> Learn this chain: it answers the SEQ on pathogenesis, clinical features and complications." data-dir="LR" data-w="17">
+!β-globin mutation (β0 or β+) -> Little or no HbA -> Microcytic, hypochromic cells
+!β-globin mutation (β0 or β+) -> Excess free α chains precipitate -> *Ineffective erythropoiesis + splenic haemolysis -> Severe anaemia -> High erythropoietin -> Marrow expansion: crew-cut skull, facies
+High erythropoietin -> Extramedullary haematopoiesis: hepatosplenomegaly
+*Ineffective erythropoiesis + splenic haemolysis -> Low hepcidin: more iron absorbed -> !Iron overload (plus transfusions)
+</div>
+
+<table class="t">
+<caption>Clinical forms of β-thalassaemia</caption>
+<thead><tr><th>Feature</th><th>β-thal major</th><th>β-thal intermedia</th><th>β-thal minor (trait)</th></tr></thead>
+<tbody>
+<tr><td>Genotype</td><td>β⁰/β⁰, β⁰/β⁺, β⁺/β⁺ (severe)</td><td>Milder β⁺ combinations</td><td>β/β⁰ or β/β⁺ (one gene)</td></tr>
+<tr><td>Onset, Hb</td><td><b>6–9 months</b> (as HbF falls); Hb 3–6 g/dL</td><td>Later; moderate anaemia</td><td>Asymptomatic; mild anaemia or none</td></tr>
+<tr><td>Transfusion</td><td><b>Lifelong, regular</b></td><td>Occasional</td><td>Not needed</td></tr>
+<tr><td>Smear</td><td>Severe microcytosis, hypochromia, target cells, stippling, fragments, many <b>nucleated RBCs</b></td><td>Similar, milder</td><td>Microcytosis, target cells, basophilic stippling</td></tr>
+<tr><td>Hb electrophoresis</td><td><b>HbF markedly raised</b>; HbA absent (β⁰) or low; HbA2 variable</td><td>HbF raised</td><td><b>HbA2 raised (4–8%)</b>; HbF normal or slightly up</td></tr>
+<tr><td>Importance</td><td>Iron overload, growth failure</td><td>Iron overload</td><td>Carrier detection; must not be mistaken for IDA</td></tr>
+</tbody></table>
+
+<div class="morph">
+<div class="gross" data-label="β-thal major: body"><ul><li><b>Marrow expansion:</b> “crew-cut” (hair-on-end) skull X-ray, frontal bossing, prominent maxilla and cheekbones (<b>chipmunk facies</b>), thin cortices</li><li><b>Hepatosplenomegaly</b> from extramedullary haematopoiesis; spleen may exceed 1500 g</li><li>Growth retardation, delayed puberty, cachexia</li></ul></div>
+<div class="micro" data-label="Iron overload (haemosiderosis)"><ul><li>Prussian blue-positive iron in <b>heart, liver, pancreas</b> and endocrine glands</li><li><b>Cardiomyopathy</b> and arrhythmias: the main cause of death</li><li>Liver fibrosis/cirrhosis, diabetes, hypogonadism, hypothyroidism</li></ul></div>
+<div class="full"><b>Management:</b> regular transfusion with iron <b>chelation</b> (desferrioxamine, deferasirox) lets children survive into adulthood. <b>Haematopoietic stem cell transplantation</b> is the only cure. Transfused children also risk transfusion-transmitted infections (HBV, HCV).</div>
+</div>
+
+<h3>α-thalassaemia</h3>
+<p>Usually caused by <b>deletion</b> of α-globin genes. Severity rises with each gene lost. Free β chains (as <b>HbH</b>, β4) and γ chains (as <b>Hb Barts</b>, γ4) form <b>soluble tetramers</b>, so precipitation and ineffective erythropoiesis are milder than in β-thalassaemia; but these tetramers bind O<sub>2</sub> so tightly that they release almost none to tissues.</p>
+<table class="t">
+<caption>α-thalassaemia by number of genes deleted</caption>
+<thead><tr><th>Genes lost</th><th>Genotype</th><th>Syndrome</th><th>Findings</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>−α/αα</td><td>Silent carrier</td><td>Normal blood count</td></tr>
+<tr><td>2</td><td>−−/αα (<b>cis</b>, Asian) or −α/−α (trans, African)</td><td>α-thal trait</td><td>Mild microcytosis like β-thal minor, but <b>HbA2 normal</b>; cis carriers can have hydropic babies</td></tr>
+<tr><td>3</td><td>−−/−α</td><td><b>HbH disease</b></td><td>Moderate to severe anaemia (like thal intermedia); HbH (β4) forms <b>“golf-ball” inclusions</b> on supravital stain</td></tr>
+<tr><td>4</td><td>−−/−−</td><td><b>Hydrops fetalis</b></td><td><b>Hb Barts</b> (γ4); severe hypoxia, oedema, hepatosplenomegaly; death in utero unless transfused</td></tr>
+</tbody></table>
+
+<div class="box formula" data-label="Hb electrophoresis / HPLC: patterns to recognise">
+<div class="formula-grid">
+<div class="eq"><span class="name">Normal adult</span> HbA ~97%, HbA2 2–3.5%, HbF &lt; 1%</div>
+<div class="eq"><span class="name">β-thal trait</span> <b>HbA2 &gt; 3.5%</b> (4–8%), HbF normal or slightly up</div>
+<div class="eq"><span class="name">β-thal major</span> <b>HbF very high</b>, HbA absent or low</div>
+<div class="eq"><span class="name">α-thal trait</span> normal pattern (diagnosis by DNA)</div>
+<div class="eq"><span class="name">Sickle cell anaemia</span> HbS ~90%, HbF rest, <b>no HbA</b></div>
+<div class="eq"><span class="name">Sickle trait</span> HbA ~60%, <b>HbS ~40%</b></div>
+</div>
+</div>
+
+<div class="box pk">
+<p>β-thalassaemia is the commonest single-gene disorder seen in Pakistani wards. The <b>carrier rate is about 5–7%</b>, and an estimated <b>5,000 or more</b> children are born with thalassaemia major every year. <b>Cousin marriage</b> is common, which raises the chance that both parents carry the gene. Several provinces have passed <b>thalassaemia prevention laws</b> encouraging premarital or carrier screening, and <b>cascade screening</b> of relatives of every affected child is recommended. Screening is simple: CBC (low MCV/MCH, Mentzer index) then HPLC for HbA2; carrier couples can be offered prenatal diagnosis.</p>
+</div>
+
+<div class="box hook"><p class="big">Thal major: “HbF Holds the Fort”</p><p>No β chains → HbA gone → the fetal haemoglobin (α2γ2) <b>Holds the Fort</b>, so HbF is the main Hb. In the <b>trait</b>, the δ chain steps up: <b>HbA2 &gt; 3.5%</b> is the carrier’s fingerprint.</p></div>
+
+<h2><span class="sn">12.6</span> Acquired haemolytic anaemias</h2>
+<h3>Autoimmune haemolytic anaemia (AIHA)</h3>
+<p>Antibodies against the patient’s own red cells. Diagnosis rests on the <b>Coombs (antiglobulin) test</b>. <b>Direct Coombs (DAT):</b> the patient’s red cells are mixed with anti-human IgG or anti-C3; agglutination shows the cells are already coated. <b>Indirect Coombs:</b> the patient’s serum is tested against reagent red cells to detect free antibody (cross-matching, antenatal screening).</p>
+<table class="t vs">
+<caption>Warm vs cold autoimmune haemolytic anaemia</caption>
+<thead><tr><th>Feature</th><th>Warm antibody type</th><th>Cold agglutinin type</th></tr></thead>
+<tbody>
+<tr><td>Antibody</td><td><b>IgG</b>, active at <b>37 °C</b></td><td><b>IgM</b>, binds below about 30 °C (ears, fingers, toes)</td></tr>
+<tr><td>Frequency</td><td><b>Commonest</b> form</td><td>Less common</td></tr>
+<tr><td>Mechanism</td><td>Splenic macrophages nibble IgG-coated cells → <b>spherocytes</b> → extravascular haemolysis</td><td>IgM agglutinates cells and fixes <b>C3b</b>; cells cleared by liver macrophages; some intravascular lysis</td></tr>
+<tr><td>Causes</td><td>Idiopathic; <b>SLE</b>, <b>CLL</b> and lymphomas; <b>drugs</b>: α-methyldopa (autoantibody), penicillin (hapten)</td><td>Acute: <b>Mycoplasma pneumoniae</b>, infectious mononucleosis; chronic: B-cell lymphomas</td></tr>
+<tr><td>Clinical clues</td><td>Splenomegaly, spherocytes</td><td><b>Raynaud phenomenon</b>, acrocyanosis, agglutination on the smear</td></tr>
+<tr><td>DAT</td><td>IgG (± C3)</td><td>C3 only</td></tr>
+</tbody></table>
+<p class="small"><b>Cold haemolysin type</b> (paroxysmal cold haemoglobinuria): an IgG Donath–Landsteiner antibody binds at low temperature, fixes complement and lyses cells on warming; mostly children after viral infections.</p>
+
+<div class="two">
+<div>
+<h3>Paroxysmal nocturnal haemoglobinuria (PNH)</h3>
+<div class="flow" data-cap="<b>Figure 12.6 · PNH: a red cell without its shield.</b>" data-w="22">
+!Acquired PIGA mutation in a stem cell -> No GPI anchor -> Loss of CD55 (DAF) and CD59 -> *Complement lyses red cells
+*Complement lyses red cells -> Intravascular haemolysis, haemoglobinuria
+*Complement lyses red cells -> Thrombosis (hepatic, portal, cerebral veins)
+</div>
+</div>
+<div>
+<ul class="tight">
+<li>The only <b>acquired intrinsic</b> red cell defect; PIGA is X-linked, so one hit is enough.</li>
+<li>Only a minority have classic night-time haemoglobinuria.</li>
+<li><b>Venous thrombosis</b> (Budd–Chiari) is the leading cause of death; iron deficiency from urinary loss.</li>
+<li>Linked to <b>aplastic anaemia</b>; may evolve to AML or MDS.</li>
+<li>Diagnosis: <b>flow cytometry</b> for CD55/CD59-deficient cells. Treatment: <b>eculizumab</b> (anti-C5).</li>
+</ul>
+<h3>Microangiopathic haemolytic anaemia</h3>
+<p>Red cells are cut by fibrin strands or damaged endothelium in small vessels, or by prosthetic valves in large ones: intravascular haemolysis with <b>schistocytes</b> (helmet, triangle and burr cells). Causes: <b>DIC, TTP, HUS</b>, malignant hypertension, SLE, disseminated cancer (see Chapter 15).</p>
+</div>
+</div>
+
+<div class="box worked" data-label="Clinical Case">
+<p><b>A 2-year-old boy</b> from a cousin marriage has been pale since 8 months of age. He has frontal bossing, a protuberant abdomen with liver 4 cm and spleen 6 cm. Hb 5.1 g/dL, MCV 58 fL; the film shows target cells, basophilic stippling and many nucleated red cells. HPLC: HbF 92%, HbA2 3%, no HbA.</p>
+<p><b>Reasoning:</b> onset after HbF switch-off + severe microcytic anaemia + marrow expansion + hepatosplenomegaly + HbF dominant with no HbA = <b>β⁰-thalassaemia major</b>. Plan: regular transfusion with chelation, HSCT if a matched sibling exists, and carrier screening of the parents and relatives with counselling for future pregnancies.</p>
+</div>
+
+<section class="exam-zone">
+<div class="zone-title"><span class="tag">EXAM ZONE</span> Past-Paper Pattern SEQs — Solved</div>
+
+<div class="seq"><div class="q"><span class="src">Prof pattern</span><span class="mk">2 + 3 marks</span><b>a)</b> Classify haemolytic anaemias. <b>b)</b> Differentiate between intravascular and extravascular haemolysis.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> Intrinsic: membrane (HS), enzyme (G6PD, PK), haemoglobin (sickle, thalassaemia), acquired PNH. Extrinsic: immune (AIHA, transfusion, HDN), mechanical (MAHA, valves), infections (malaria), toxins, hypersplenism.</p>
+<p><b>b)</b> Table of 6 points: site, examples, haemoglobinuria/haemosiderinuria, haptoglobin, splenomegaly, iron loss. Draw Fig 12.1 if time allows.</p></div></div>
+
+<div class="seq"><div class="q"><span class="src">Module pattern</span><span class="mk">1 + 2 + 2 marks</span>A 2-year-old child of first-cousin parents has pallor since infancy, frontal bossing and hepatosplenomegaly. Hb 5 g/dL, MCV 60 fL, many nucleated red cells. <b>a)</b> Most likely diagnosis? <b>b)</b> Explain its pathogenesis. <b>c)</b> Give the expected Hb electrophoresis and two complications of treatment.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> β-thalassaemia major. <b>b)</b> β-globin mutation → little HbA (microcytic hypochromic cells) + excess α chains precipitate → ineffective erythropoiesis and splenic haemolysis → anaemia → EPO → marrow expansion and extramedullary haematopoiesis; low hepcidin → iron overload. <b>c)</b> HbF markedly raised, HbA absent/low. Complications: iron overload (cardiomyopathy, cirrhosis, diabetes, hypogonadism), transfusion-transmitted HBV/HCV, alloimmunisation.</p>
+<div class="tip"><b>Score booster:</b> add “onset at 6–9 months because HbF synthesis falls”; examiners love the timing.</div></div></div>
+
+<div class="seq"><div class="q"><span class="src">Prof pattern</span><span class="mk">2 + 3 marks</span><b>a)</b> Describe the molecular basis and pathogenesis of sickle cell anaemia. <b>b)</b> List its complications.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> Glu→Val at position 6 of β-globin → HbS polymerises on deoxygenation → sickled rigid cells → chronic extravascular haemolysis and microvascular occlusion; modifiers: HbF, MCHC, pH, transit time. <b>b)</b> Pain crises/dactylitis, acute chest syndrome, stroke, sequestration crisis, aplastic crisis (parvovirus B19), autosplenectomy with pneumococcal sepsis, Salmonella osteomyelitis, papillary necrosis, leg ulcers, priapism, gallstones.</p></div></div>
+
+<div class="seq"><div class="q"><span class="src">Classic</span><span class="mk">2.5 + 2.5 marks</span>Write short notes on: <b>a)</b> hereditary spherocytosis; <b>b)</b> G6PD deficiency.</div>
+<div class="a"><div class="lbl">Model answer plan</div>
+<p><b>a)</b> AD, ankyrin/spectrin/band 3 → membrane loss → spherocytes trapped in spleen; anaemia, jaundice, splenomegaly, gallstones, aplastic crisis; raised MCHC, increased osmotic fragility, DAT negative; splenectomy. <b>b)</b> X-linked; low NADPH/glutathione; triggers: infection, primaquine, sulfonamides, fava beans; Heinz bodies, bite cells; episodic intravascular haemolysis; assay after recovery.</p></div></div>
+
+<div class="zone-title a"><span class="tag">BCQs</span> One-Best-Answer Practice</div>
+<div class="mcqset">
+[
+{"q": "A patient develops fever, back pain and red-brown urine minutes into a blood transfusion. Which finding is expected?", "o": ["Raised haptoglobin", "Splenomegaly", "Absent serum haptoglobin with haemoglobinuria", "Spherocytes with negative Coombs test", "Low reticulocytes and fatty marrow"], "a": "C", "e": "ABO mismatch causes complement-mediated intravascular haemolysis."},
+{"q": "A 10-year-old with jaundice and splenomegaly has small dark red cells without central pallor, raised MCHC and a negative direct Coombs test. The most useful confirmatory test is:", "o": ["Osmotic fragility (or EMA binding)", "Hb electrophoresis", "G6PD assay", "Sickling test", "Bone marrow biopsy"], "a": "A", "e": "Hereditary spherocytosis: increased osmotic fragility, reduced EMA binding."},
+{"q": "Three days after starting primaquine, a man passes dark urine. Inclusions seen with crystal violet supravital stain are:", "o": ["Howell–Jolly bodies", "Pappenheimer bodies", "Cabot rings", "Heinz bodies", "Basophilic stippling"], "a": "D", "e": "Oxidised, precipitated Hb in G6PD deficiency forms Heinz bodies."},
+{"q": "The molecular defect in sickle cell anaemia is:", "o": ["Deletion of both β-globin genes", "Valine replacing glutamic acid at position 6 of β-globin", "Lysine replacing glutamic acid at position 6 of β-globin", "Splicing mutation in α-globin", "Deletion of three α-globin genes"], "a": "B", "e": "HbS: Glu6Val; lysine at 6 gives HbC."},
+{"q": "A 3-year-old with sickle cell anaemia suddenly becomes pale and shocked; the spleen has enlarged to the umbilicus. This is:", "o": ["Aplastic crisis", "Vaso-occlusive crisis", "Acute chest syndrome", "Hyperhaemolytic crisis", "Splenic sequestration crisis"], "a": "E", "e": "Young children with intact spleens can pool much of their blood in the spleen."},
+{"q": "An adult with sickle cell anaemia has Howell–Jolly bodies. He is most at risk of severe infection by:", "o": ["Streptococcus pneumoniae", "Mycobacterium tuberculosis", "Candida albicans", "Pneumocystis jirovecii", "Cytomegalovirus"], "a": "A", "e": "Autosplenectomy causes susceptibility to encapsulated bacteria."},
+{"q": "A healthy 22-year-old has Hb 11.8 g/dL, MCV 64 fL, RBC 5.9 million/µL and normal ferritin. The finding that confirms β-thalassaemia trait is:", "o": ["HbF 90%", "HbH inclusions", "HbA2 5.2%", "HbS 40%", "Hb Barts 80%"], "a": "C", "e": "Raised HbA2 (4–8%) is the hallmark of β-thal minor."},
+{"q": "Symptoms of β-thalassaemia major usually begin at 6–9 months of age because:", "o": ["Maternal antibodies disappear", "Iron stores from birth are exhausted", "The spleen matures", "γ-chain (HbF) production falls and β chains are needed", "Erythropoietin production starts"], "a": "D", "e": "The switch from γ to β chain synthesis exposes the β defect."},
+{"q": "Iron overload occurs in β-thalassaemia intermedia even without transfusion mainly because:", "o": ["Haemolysis releases iron into urine", "Ineffective erythropoiesis suppresses hepcidin", "Ferroportin is mutated", "Transferrin is absent", "Dietary iron intake is high"], "a": "B", "e": "Low hepcidin increases gut iron absorption."},
+{"q": "A stillborn fetus has massive oedema and hepatosplenomegaly; most of its haemoglobin is γ4. The genotype is:", "o": ["−α/αα", "−−/αα", "−−/−α", "β0/β0", "−−/−−"], "a": "E", "e": "Loss of all four α genes: Hb Barts hydrops fetalis."},
+{"q": "Two weeks after Mycoplasma pneumonia, a student has anaemia and blue fingertips in the cold. The antibody is most likely:", "o": ["IgG warm autoantibody", "IgE against red cells", "IgA against band 3", "IgM cold agglutinin fixing complement", "Donath–Landsteiner IgM"], "a": "D", "e": "Cold agglutinin disease: IgM (anti-I), C3 on cells, acrocyanosis."},
+{"q": "A man with haemoglobinuria and hepatic vein thrombosis has red cells lacking CD55 and CD59. The mutated gene is:", "o": ["PIGA", "JAK2", "HFE", "ANK1", "G6PD"], "a": "A", "e": "PNH: acquired PIGA mutation blocks GPI anchor synthesis."}
+]
+</div>
+
+<div class="zone-title"><span class="tag">VIVA</span> Rapid-Fire Viva Voce</div>
+<div class="vivaset">
+[
+["Normal red cell life span?", "About 120 days."],
+["Two signs of intravascular haemolysis?", "Haemoglobinuria and haemosiderinuria, with absent haptoglobin."],
+["Commonest protein defect in HS?", "Ankyrin (also spectrin, band 3, band 4.2)."],
+["Why is MCHC raised in HS?", "Membrane loss and cell dehydration concentrate the haemoglobin."],
+["What are bite cells?", "Red cells from which splenic macrophages removed Heinz bodies; G6PD deficiency."],
+["What is favism?", "Acute haemolysis after eating fava beans in G6PD deficiency."],
+["Why are sickle cell infants well at first?", "High HbF inhibits HbS polymerisation until about 5–6 months."],
+["What is autosplenectomy?", "Spleen shrunk to a fibrous nubbin by repeated infarcts in sickle cell disease."],
+["Cause of aplastic crisis?", "Parvovirus B19 infecting red cell precursors."],
+["Crew-cut skull: why?", "Marrow expansion widens diploë; new bone forms perpendicular spicules."],
+["What is HbH?", "β4 tetramer in three-gene-deletion α-thalassaemia; golf-ball inclusions."],
+["Direct vs indirect Coombs?", "Direct: antibody on patient’s cells. Indirect: free antibody in patient’s serum."]
+]
+</div>
+
+<div class="zone-title a"><span class="tag">OSPE</span> Practice Stations</div>
+<div class="osce"><div class="hd"><span>Station 1 · Peripheral smear</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>Child, Hb 5.4 g/dL. Film: marked anisopoikilocytosis, small pale cells, many target cells, basophilic stippling, fragments and numerous nucleated red cells. (a) Diagnosis. (b) Expected Hb electrophoresis. (c) Cause of death if treated by transfusion alone.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) β-thalassaemia major. (b) HbF markedly raised, HbA absent or low. (c) Cardiac failure from iron overload (haemosiderosis).</p></div></div></div>
+
+<div class="osce"><div class="hd"><span>Station 2 · Peripheral smear</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>Film from a 7-year-old: crescent-shaped red cells with pointed ends, target cells, polychromasia and Howell–Jolly bodies. (a) Diagnosis. (b) Bedside confirmatory test. (c) What do the Howell–Jolly bodies indicate?</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Sickle cell anaemia. (b) Sickling test with sodium metabisulfite; Hb electrophoresis/HPLC. (c) Functional asplenia (autosplenectomy).</p></div></div></div>
+
+<div class="osce"><div class="hd"><span>Station 3 · Lab data</span><span>2 minutes</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>Engaged cousins, both well. Man: Hb 12.9, MCV 63, RBC 6.2 million, HbA2 5.4%. Woman: Hb 11.6, MCV 66, RBC 5.6 million, HbA2 4.9%. Ferritin normal in both. (a) Interpret. (b) Risk to each pregnancy. (c) Advice.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Both are β-thalassaemia carriers (Mentzer &lt; 13, raised HbA2). (b) 25% thal major, 50% carrier, 25% normal. (c) Genetic counselling; prenatal diagnosis (CVS DNA) in each pregnancy.</p></div></div></div>
+
+<div class="osce"><div class="hd"><span>Station 4 · Lab data</span><span>1 minute</span></div>
+<div class="bd"><div class="task"><div class="lbl">Task</div><p>Woman with SLE: Hb 8.1 g/dL, reticulocytes 9%, unconjugated bilirubin raised, LDH high, spherocytes on film, direct Coombs positive for IgG at 37 °C. (a) Diagnosis. (b) Site of red cell destruction. (c) One drug that can cause the same picture.</p></div>
+<div class="ans"><div class="lbl">Answer</div><p>(a) Warm autoimmune haemolytic anaemia (secondary to SLE). (b) Spleen (extravascular). (c) α-methyldopa (or penicillin).</p></div></div></div>
+</section>
+
+<section class="revision">
+<div class="zone-title a"><span class="tag">RAPID REVISION</span> The Night-Before Page</div>
+<div class="rr-grid">
+<div class="rr"><h4>15 one-liners</h4>
+<ol class="oneliners">
+<li>Haemolysis: retics up, bilirubin up, haptoglobin down.</li>
+<li>Intravascular: haemoglobinuria, haemosiderinuria.</li>
+<li>Extravascular: splenomegaly, spherocytes, jaundice.</li>
+<li>HS: ankyrin; MCHC up; osmotic fragility up.</li>
+<li>HS vs warm AIHA: Coombs negative vs positive.</li>
+<li>G6PD: X-linked; infection, primaquine, fava beans.</li>
+<li>G6PD smear: bite cells; Heinz bodies (supravital).</li>
+<li>HbS: Glu6Val; polymerises when deoxygenated.</li>
+<li>HbF protects; hydroxyurea raises HbF.</li>
+<li>Sickle: autosplenectomy → pneumococcal sepsis.</li>
+<li>β-thal major: 6–9 months, HbF high, nRBCs.</li>
+<li>β-thal trait: HbA2 &gt; 3.5%, Mentzer &lt; 13.</li>
+<li>Low hepcidin + transfusion = iron overload.</li>
+<li>α-thal: 3 genes HbH (β4); 4 genes Barts (γ4).</li>
+<li>PNH: PIGA, CD55/CD59, thrombosis, eculizumab.</li>
+</ol></div>
+<div>
+<div class="rr dark"><h4>Memory hooks</h4>
+<ul class="tight">
+<li><b>HbF Holds the Fort</b> in thal major</li>
+<li><b>Warm = IgG = Spleen</b>; <b>Cold = IgM = C3</b></li>
+<li><b>Bite cells Betray G6PD</b></li>
+<li><b>Barts = all four α Bars down</b></li>
+</ul></div>
+<div class="rr grey"><h4>Test yourself: fill the gaps</h4>
+<ol class="recall">
+<li>Commonest mutated protein in HS: <span class="blank"></span>.</li>
+<li>NADPH in red cells comes from the <span class="blank"></span> shunt.</li>
+<li>Aplastic crisis is caused by <span class="blank"></span>.</li>
+<li>HbA2 in β-thal trait: <span class="blank"></span> %.</li>
+<li>Cold agglutinins follow <span class="blank"></span> pneumonia.</li>
+<li>PNH red cells lack CD55 and <span class="blank"></span>.</li>
+</ol>
+<p class="small muted">Answers: ankyrin · hexose monophosphate · parvovirus B19 · 4–8 · Mycoplasma · CD59</p></div>
+</div>
+</div>
+<div class="draw-grid">
+<div class="draw">Draw from memory<span>The β-thalassaemia pathogenesis chain (Fig 12.5) from mutation to iron overload.</span></div>
+<div class="draw">Draw from memory<span>Extravascular vs intravascular haemolysis: spleen arm and bloodstream arm with their lab findings.</span></div>
+</div>
+<div class="tracker"><span class="t">Spaced revision</span><span class="b"><i></i>Day 1</span><span class="b"><i></i>Day 3</span><span class="b"><i></i>Day 7</span><span class="b"><i></i>Day 14</span><span class="b"><i></i>Day 30</span></div>
+</section>
