@@ -2,3 +2,4 @@ pathology-book/build/*
 !pathology-book/build/.keep
 pathology-book/sources/robbins/
 __pycache__/
+deliverables/*.zip
