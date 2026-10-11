@@ -68,7 +68,7 @@ for cx, cy, head, lines in cols:
     o.append(f'<line x1="{cx}" y1="{cy+8}" x2="{cx}" y2="{yD1+6}" stroke="{A}" stroke-width="1" stroke-dasharray="3,2"/>')
     t(cx, yD1 + 18, head, 9, "700", A, "middle")
     for k, ln in enumerate(lines):
-        t(cx, yD1 + 30 + 11 * k, ln, 8.2, "400", INK2, "middle")
+        t(cx, yD1 + 31 + 11.5 * k, ln, 8.8, "400", INK2, "middle")
 
 # layer labels on the right
 labels = [((yC0 + yC1) / 2, "Stratum corneum"), ((yC1 + yG1) / 2, "Stratum granulosum"),
@@ -76,12 +76,12 @@ labels = [((yC0 + yC1) / 2, "Stratum corneum"), ((yC1 + yG1) / 2, "Stratum granu
           (yBM + 6, "Basement membrane (hemidesmosomes)"), ((yBM + yD1) / 2 + 8, "Papillary dermis")]
 for y, s in labels:
     o.append(f'<line x1="{X1+2}" y1="{y}" x2="{X1+12}" y2="{y}" stroke="{G40}" stroke-width="0.8"/>')
-    t(X1 + 15, y + 3, s, 8.4, "700" if "membrane" in s else "400", INK if "membrane" in s else INK2)
+    t(X1 + 15, y + 3, s, 8.8, "700" if "membrane" in s else "400", INK if "membrane" in s else INK2)
 
 # IF legend
 t(X1 + 15, yD1 + 18, "Immunofluorescence", 9, "700", A)
 for k, s in enumerate(["Pemphigus: intercellular ‘fishnet’ IgG", "Pemphigoid: linear IgG + C3 along BM", "DH: granular IgA at papillary tips"]):
-    t(X1 + 15, yD1 + 30 + 11 * k, s, 8.2)
+    t(X1 + 15, yD1 + 31 + 11.5 * k, s, 8.8)
 o.append("</svg>")
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ch31_blister_levels.svg")

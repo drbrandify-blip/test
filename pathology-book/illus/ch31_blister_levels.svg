@@ -316,32 +316,32 @@
 <circle cx="380" cy="135" r="1.8" fill="#5b2a86"/>
 <line x1="90" y1="59" x2="90" y2="192" stroke="#5b2a86" stroke-width="1" stroke-dasharray="3,2"/>
 <text x="90" y="204" font-size="9" font-weight="700" fill="#5b2a86" text-anchor="middle">Subcorneal</text>
-<text x="90" y="216" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">Pemphigus foliaceus</text>
-<text x="90" y="227" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">(desmoglein 1)</text>
+<text x="90" y="217.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">Pemphigus foliaceus</text>
+<text x="90" y="228.5" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">(desmoglein 1)</text>
 <line x1="225" y1="113" x2="225" y2="192" stroke="#5b2a86" stroke-width="1" stroke-dasharray="3,2"/>
 <text x="225" y="204" font-size="9" font-weight="700" fill="#5b2a86" text-anchor="middle">Suprabasal</text>
-<text x="225" y="216" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">Pemphigus vulgaris</text>
-<text x="225" y="227" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">(desmoglein 3 ± 1)</text>
-<text x="225" y="238" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">basal ‘tombstones’ remain</text>
+<text x="225" y="217.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">Pemphigus vulgaris</text>
+<text x="225" y="228.5" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">(desmoglein 3 ± 1)</text>
+<text x="225" y="240.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">basal ‘tombstones’ remain</text>
 <line x1="360" y1="141" x2="360" y2="192" stroke="#5b2a86" stroke-width="1" stroke-dasharray="3,2"/>
 <text x="360" y="204" font-size="9" font-weight="700" fill="#5b2a86" text-anchor="middle">Subepidermal</text>
-<text x="360" y="216" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">Bullous pemphigoid (BP180/230)</text>
-<text x="360" y="227" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">Dermatitis herpetiformis (IgA)</text>
-<text x="360" y="238" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="middle">roof = whole epidermis</text>
+<text x="360" y="217.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">Bullous pemphigoid (BP180/230)</text>
+<text x="360" y="228.5" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">Dermatitis herpetiformis (IgA)</text>
+<text x="360" y="240.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="middle">roof = whole epidermis</text>
 <line x1="422" y1="42.0" x2="432" y2="42.0" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="45.0" font-size="8.4" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum corneum</text>
+<text x="435" y="45.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum corneum</text>
 <line x1="422" y1="55.0" x2="432" y2="55.0" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="58.0" font-size="8.4" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum granulosum</text>
+<text x="435" y="58.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum granulosum</text>
 <line x1="422" y1="84.0" x2="432" y2="84.0" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="87.0" font-size="8.4" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum spinosum (desmosomes)</text>
+<text x="435" y="87.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum spinosum (desmosomes)</text>
 <line x1="422" y1="113.0" x2="432" y2="113.0" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="116.0" font-size="8.4" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum basale</text>
+<text x="435" y="116.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Stratum basale</text>
 <line x1="422" y1="130" x2="432" y2="130" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="133" font-size="8.4" font-weight="700" fill="#141414" text-anchor="start">Basement membrane (hemidesmosomes)</text>
+<text x="435" y="133" font-size="8.8" font-weight="700" fill="#141414" text-anchor="start">Basement membrane (hemidesmosomes)</text>
 <line x1="422" y1="163.0" x2="432" y2="163.0" stroke="#a8a8a8" stroke-width="0.8"/>
-<text x="435" y="166.0" font-size="8.4" font-weight="400" fill="#3a3a3a" text-anchor="start">Papillary dermis</text>
+<text x="435" y="166.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Papillary dermis</text>
 <text x="435" y="204" font-size="9" font-weight="700" fill="#5b2a86" text-anchor="start">Immunofluorescence</text>
-<text x="435" y="216" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="start">Pemphigus: intercellular ‘fishnet’ IgG</text>
-<text x="435" y="227" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="start">Pemphigoid: linear IgG + C3 along BM</text>
-<text x="435" y="238" font-size="8.2" font-weight="400" fill="#3a3a3a" text-anchor="start">DH: granular IgA at papillary tips</text>
+<text x="435" y="217.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Pemphigus: intercellular ‘fishnet’ IgG</text>
+<text x="435" y="228.5" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">Pemphigoid: linear IgG + C3 along BM</text>
+<text x="435" y="240.0" font-size="8.8" font-weight="400" fill="#3a3a3a" text-anchor="start">DH: granular IgA at papillary tips</text>
 </svg>
