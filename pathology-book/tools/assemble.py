@@ -81,7 +81,7 @@ def render_fragment(name, body_html, start, folio, skip_all=False):
     raw = os.path.join(OUT, name + ".raw.pdf")
     B.render_pdf(path, raw)
     m = re.search(r'data-head="([^"]*)"', body_html)
-    hl = (m.group(1).upper(), "") if m else ("", "")
+    hl = (_html.unescape(m.group(1)).upper(), "") if m else ("", "")
     return B.overlay(raw, os.path.join(OUT, name + ".pdf"), start, hl, "", folio=folio, skip_all=skip_all)
 
 

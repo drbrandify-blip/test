@@ -241,7 +241,7 @@ def build_chapter(cid, start_page=1, folio="arabic"):
         hr = _html.unescape(PARTS.get(meta.get("part", ""), ""))
     else:
         m = re.search(r'data-head="([^"]*)"', body)
-        hl, hr = ((m.group(1).upper(), "") if m else ("", "")), ""
+        hl, hr = ((_html.unescape(m.group(1)).upper(), "") if m else ("", "")), ""
     n = overlay(raw, os.path.join(OUT, cid + ".pdf"), start_page, hl, hr, folio=folio)
     return n, meta
 
