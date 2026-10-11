@@ -1,0 +1,550 @@
+
+=== ch21 Ovarian Tumours &amp; Gestational Trophoblastic Disease ===
+MCQ1: Which group accounts for most malignant ovarian tumours?
+  A. Germ cell tumours | B. Sex cord–stromal tumours | C. Surface epithelial tumours | D. Metastatic tumours | E. Lymphomas
+  KEY C — Surface epithelial tumours make up about 90% of ovarian cancers.
+MCQ2: A 55-year-old woman has bilateral ovarian masses with papillary excrescences, ascites and raised CA-125. Microscopy shows complex papillae with concentric laminated calcifications. The diagnosis is:
+  A. Serous cystadenocarcinoma | B. Mucinous cystadenoma | C. Brenner tumour | D. Dysgerminoma | E. Fibroma
+  KEY A — Bilateral papillary tumour with psammoma bodies and CA-125 = serous carcinoma.
+MCQ3: A 40-year-old has a 25 cm unilateral multilocular ovarian cyst filled with sticky gelatinous fluid. The lining is a single layer of tall non-ciliated columnar cells with basal nuclei. The diagnosis is:
+  A. Serous cystadenoma | B. Follicular cyst | C. Endometriotic cyst | D. Mature cystic teratoma | E. Mucinous cystadenoma
+  KEY E — Huge multilocular cyst with mucin-secreting columnar lining.
+MCQ4: The karyotype of a mature cystic teratoma of the ovary is usually:
+  A. 69,XXY | B. 46,XX | C. 46,XY | D. 45,X | E. 47,XXY
+  KEY B — It arises from an ovum after the first meiotic division, so it is 46,XX.
+MCQ5: An 18-year-old has a rapidly growing ovarian mass and a very high serum AFP. Microscopy shows glomerulus-like structures with a central vessel. The tumour is:
+  A. Dysgerminoma | B. Granulosa cell tumour | C. Choriocarcinoma | D. Yolk sac tumour | E. Mature teratoma
+  KEY D — Schiller–Duval bodies and AFP define yolk sac tumour.
+MCQ6: Call–Exner bodies and coffee-bean nuclei are features of:
+  A. Granulosa cell tumour | B. Brenner tumour | C. Thecoma | D. Sertoli–Leydig cell tumour | E. Krukenberg tumour
+  KEY A — Call–Exner bodies are follicle-like rosettes of granulosa cells.
+MCQ7: A woman has a solid, hard, white ovarian tumour, ascites and a right pleural effusion that all resolve after oophorectomy. This is:
+  A. Krukenberg tumour | B. Pseudomyxoma peritonei | C. Meigs syndrome | D. Stein–Leventhal syndrome | E. Struma ovarii
+  KEY C — Fibroma + ascites + hydrothorax = Meigs syndrome.
+MCQ8: Bilateral solid ovarian masses show signet-ring cells in a cellular stroma. The commonest primary site is:
+  A. Breast | B. Endometrium | C. Thyroid | D. Kidney | E. Stomach
+  KEY E — Krukenberg tumour: classically metastatic gastric signet-ring carcinoma.
+MCQ9: A complete hydatidiform mole typically has which karyotype?
+  A. 69,XXY with maternal and paternal sets | B. 46,XX, entirely paternal | C. 46,XX, entirely maternal | D. 92,XXXY | E. 45,X
+  KEY B — An empty ovum fertilised by a sperm that duplicates: androgenetic diploidy.
+MCQ10: Evacuated products show some swollen villi with scalloped outlines, focal mild trophoblastic proliferation and fetal red cells in villous vessels. p57 staining is positive. The diagnosis is:
+  A. Complete mole | B. Choriocarcinoma | C. Invasive mole | D. Partial mole | E. Placental site trophoblastic tumour
+  KEY D — Fetal tissue, patchy oedema and p57 positivity (maternal genome present) = partial mole.
+MCQ11: The single most useful histological feature separating choriocarcinoma from invasive mole is:
+  A. Haemorrhage | B. Myometrial invasion | C. Absence of chorionic villi | D. Raised hCG | E. Lung metastases
+  KEY C — Invasive moles contain villi; choriocarcinoma has none.
+MCQ12: Serum CA-125 is most useful for:
+  A. Monitoring treatment response and recurrence of epithelial ovarian cancer | B. Screening all women over 40 | C. Diagnosing dysgerminoma | D. Distinguishing benign from malignant teratoma | E. Diagnosing hydatidiform mole
+  KEY A — CA-125 is non-specific and insensitive for early disease; it is best for follow-up.
+VIVA1: What causes theca lutein cysts? → High hCG: mole, choriocarcinoma, multiple pregnancy.
+VIVA2: Rotterdam criteria for PCOS? → Two of: hyperandrogenism, anovulation, polycystic ovaries.
+VIVA3: What is a borderline ovarian tumour? → Epithelial proliferation with atypia but no stromal invasion.
+VIVA4: Where does high-grade serous carcinoma begin? → In serous tubal intraepithelial carcinoma of the fimbria; TP53 mutated.
+VIVA5: What are psammoma bodies? → Concentric laminated calcifications, e.g. in serous carcinoma.
+VIVA6: What is a Rokitansky protuberance? → Nodule in a dermoid cyst wall where teeth, bone and hair concentrate.
+VIVA7: Ovarian counterpart of seminoma? → Dysgerminoma.
+VIVA8: Marker of yolk sac tumour? → Alpha-fetoprotein (AFP).
+VIVA9: What is struma ovarii? → Teratoma of thyroid tissue; may cause hyperthyroidism.
+VIVA10: Define Krukenberg tumour. → Bilateral ovarian metastases of signet-ring cells, usually gastric.
+VIVA11: Why is p57 negative in a complete mole? → p57 comes from the maternal allele; there is no maternal genome.
+VIVA12: Commonest site of metastasis of choriocarcinoma? → Lungs (about half), then vagina.
+
+=== ch22 Breast ===
+MCQ1: Three weeks after delivery, a breastfeeding mother has a fluctuant, red, painful area in one breast and fever. The most likely organism is:
+  A. Streptococcus pyogenes | B. Escherichia coli | C. Mycobacterium tuberculosis | D. Staphylococcus aureus | E. Candida albicans
+  KEY D — Acute lactational mastitis with localised abscess is usually staphylococcal.
+MCQ2: A woman who was hit by a car seat belt months ago has a hard breast lump with skin retraction. Biopsy shows foamy lipid-laden macrophages, giant cells and calcification. The diagnosis is:
+  A. Fat necrosis | B. Duct ectasia | C. Invasive lobular carcinoma | D. Fibroadenoma | E. Phyllodes tumour
+  KEY A — Traumatic fat necrosis is a classic mimic of carcinoma.
+MCQ3: Which benign breast lesion carries the highest relative risk of later invasive carcinoma?
+  A. Apocrine cyst | B. Sclerosing adenosis | C. Atypical ductal hyperplasia | D. Fibrosis | E. Simple fibroadenoma
+  KEY C — Proliferative disease with atypia: relative risk about 4–5.
+MCQ4: A 22-year-old has a 2 cm mobile rubbery breast lump. Microscopy shows loose stroma compressing ducts into curved slits lined by epithelial and myoepithelial cells. The diagnosis is:
+  A. Phyllodes tumour | B. Intraductal papilloma | C. Medullary carcinoma | D. Tubular carcinoma | E. Fibroadenoma
+  KEY E — Intracanalicular pattern of fibroadenoma.
+MCQ5: A 40-year-old has bloody discharge from one nipple duct. A small subareolar lesion shows branching fibrovascular cores covered by luminal and myoepithelial cells. The diagnosis is:
+  A. Paget disease | B. Intraductal papilloma | C. Duct ectasia | D. Papillary carcinoma | E. Comedo DCIS
+  KEY B — Two cell layers on fibrovascular cores = papilloma; carcinoma lacks myoepithelium.
+MCQ6: Which feature most favours phyllodes tumour over fibroadenoma?
+  A. Hypercellular stroma with leaf-like projections and mitoses | B. Age 20–30 years | C. Presence of myoepithelial cells | D. MED12 mutation | E. Well-circumscribed border
+  KEY A — Stromal hypercellularity and leaf-like architecture define phyllodes.
+MCQ7: A mastectomy shows small uniform discohesive cells infiltrating in single file around ducts. Immunohistochemistry will most likely show loss of:
+  A. ER | B. HER2 | C. Cytokeratin | D. E-cadherin | E. Ki-67
+  KEY D — Invasive lobular carcinoma: CDH1 (E-cadherin) inactivation.
+MCQ8: Mammography shows clustered linear branching microcalcifications. Biopsy shows ducts filled by high-grade cells around central necrosis, with intact myoepithelium. The diagnosis is:
+  A. LCIS | B. Atypical lobular hyperplasia | C. Comedo DCIS | D. Invasive carcinoma NST | E. Fat necrosis
+  KEY C — Comedo DCIS: high-grade, central necrosis that calcifies; in situ.
+MCQ9: A 35-year-old BRCA1 carrier develops breast cancer. The most likely phenotype is:
+  A. ER+/PR+/HER2− luminal A | B. Mucinous carcinoma | C. Tubular carcinoma | D. Invasive lobular carcinoma | E. ER−/PR−/HER2− basal-like
+  KEY E — BRCA1 tumours are usually triple-negative, basal-like, high grade.
+MCQ10: In a woman without distant metastases, the single most important prognostic factor in breast carcinoma is:
+  A. Tumour size | B. Axillary lymph node status | C. Patient age | D. Histological type | E. Ki-67 index
+  KEY B — Nodal status (sentinel node) carries the greatest prognostic weight.
+MCQ11: Trastuzumab is effective only in breast cancers that show:
+  A. ER positivity | B. PR positivity | C. HER2 amplification | D. BRCA1 mutation | E. E-cadherin loss
+  KEY C — Trastuzumab is a monoclonal antibody against HER2 (ERBB2).
+MCQ12: A 70-year-old man has a hard subareolar mass fixed to the skin. The germline mutation most associated with this tumour is:
+  A. BRCA2 | B. APC | C. RET | D. VHL | E. NF1
+  KEY A — Male breast carcinoma is linked to BRCA2 (and Klinefelter syndrome).
+VIVA1: Commonest organism in lactational breast abscess? → Staphylococcus aureus.
+VIVA2: Which inflammatory breast lesion is linked to smoking? → Periductal mastitis (squamous metaplasia of lactiferous ducts).
+VIVA3: Name two benign lesions that mimic carcinoma. → Fat necrosis and sclerosing adenosis (also duct ectasia, radial scar).
+VIVA4: Relative risk with atypical hyperplasia? → About 4–5 times, in either breast.
+VIVA5: Commonest benign tumour of the female breast? → Fibroadenoma.
+VIVA6: What does ‘phyllodes’ mean? → Leaf-like: stroma pushes epithelium into leaf-shaped projections.
+VIVA7: Commonest cause of bloody nipple discharge in a young woman? → Intraductal (large-duct) papilloma.
+VIVA8: What is the hallmark of lobular neoplasia? → Loss of E-cadherin, making cells discohesive.
+VIVA9: What is Paget disease of the nipple? → DCIS cells spreading into the nipple epidermis.
+VIVA10: What causes peau d’orange? → Tumour blocking dermal lymphatics, so skin swells around hair follicles.
+VIVA11: Which quadrant is most often involved? → Upper outer quadrant, about half of cases.
+VIVA12: Name two causes of gynaecomastia. → Cirrhosis and spironolactone (also puberty, Klinefelter, Leydig cell tumour).
+
+=== ch23 Thyroid &amp; Parathyroid ===
+MCQ1: A 48-year-old woman has a painless, firm, diffuse goitre, raised TSH and anti-TPO antibodies. Thyroid biopsy is most likely to show:
+  A. Granulomas with giant cells engulfing colloid | B. Lymphoid follicles with germinal centres and Hürthle cells | C. Tall crowded columnar cells with scalloped colloid | D. Dense fibrosis extending into strap muscles | E. Nests of cells in an amyloid stroma
+  KEY B — Hashimoto: lymphoid follicles and Hürthle cells.
+MCQ2: The most sensitive single screening test for thyroid dysfunction is:
+  A. Free T4 | B. Total T3 | C. Radioactive iodine uptake | D. Serum TSH | E. Anti-TPO antibody
+  KEY D — The pituitary senses small changes in free hormone.
+MCQ3: A 28-year-old woman has thyrotoxicosis, exophthalmos and thickened skin over both shins. The basic mechanism is:
+  A. Autoantibodies that stimulate the TSH receptor | B. Cytotoxic T-cell destruction of follicles | C. A TSH-secreting pituitary adenoma | D. Viral infection of follicular cells | E. Excess dietary iodine
+  KEY A — Graves: TSI mimics TSH.
+MCQ4: After a flu-like illness, a woman has a painful tender thyroid, ESR 90 mm/h, high free T4 and very low radioiodine uptake. The diagnosis is:
+  A. Graves disease | B. Hashimoto thyroiditis | C. Riedel thyroiditis | D. Toxic multinodular goitre | E. Subacute granulomatous thyroiditis
+  KEY E — De Quervain: hormone leaks out, so uptake is low.
+MCQ5: The single most reliable criterion that separates follicular carcinoma from follicular adenoma is:
+  A. Nuclear pleomorphism | B. High mitotic count | C. Capsular and/or vascular invasion | D. Size over 4 cm | E. Hürthle cell change
+  KEY C — Cytology is identical; invasion decides.
+MCQ6: A 26-year-old who received neck irradiation as a child has a thyroid nodule and an enlarged jugular node. FNAC shows grooved, clear nuclei with pseudo-inclusions. The genetic change most typical of radiation-associated tumours of this type is:
+  A. RET/PTC rearrangement | B. PAX8–PPARG fusion | C. TP53 mutation | D. Germline RET point mutation | E. MEN1 mutation
+  KEY A — Radiation-linked papillary carcinoma: RET/PTC.
+MCQ7: A thyroid tumour shows nests of polygonal cells in a stroma that stains with Congo red. Serum calcitonin is high. The tumour arises from:
+  A. Follicular cells | B. Hürthle cells | C. Intrathyroid lymphocytes | D. Parafollicular C cells | E. Sustentacular cells
+  KEY D — Medullary carcinoma: calcitonin-derived amyloid.
+MCQ8: A young man has medullary thyroid carcinoma, phaeochromocytoma, nodules on the lips and tongue and a marfanoid build. The syndrome is:
+  A. MEN1 | B. MEN2B | C. MEN2A | D. Von Hippel–Lindau disease | E. Neurofibromatosis type 1
+  KEY B — MEN2B: RET; neuromas, marfanoid, no HPT.
+MCQ9: A 55-year-old woman with renal stones has calcium 11.8 mg/dL, low phosphate and raised PTH. The most likely lesion is:
+  A. Parathyroid carcinoma | B. Secondary parathyroid hyperplasia | C. Metastatic breast carcinoma | D. Vitamin D toxicity | E. Solitary parathyroid adenoma
+  KEY E — Primary HPT; adenoma in 85–95%.
+MCQ10: A patient on long-term haemodialysis has low-normal calcium, high phosphate and markedly raised PTH. This is:
+  A. Primary hyperparathyroidism | B. Tertiary hyperparathyroidism | C. Secondary hyperparathyroidism | D. Hypoparathyroidism | E. Pseudohypoparathyroidism
+  KEY C — CKD drives secondary hyperparathyroidism.
+MCQ11: Two days after total thyroidectomy a woman has perioral tingling and carpal spasm when a BP cuff is inflated. The cause is:
+  A. Hypocalcaemia from parathyroid removal or injury | B. Thyroid storm | C. Hyperkalaemia | D. Recurrent laryngeal nerve palsy | E. Hypermagnesaemia
+  KEY A — Trousseau sign: post-surgical hypocalcaemia.
+MCQ12: A 70-year-old has a rapidly enlarging hard neck mass with stridor. Biopsy shows bizarre giant cells and spindle cells. The key genetic event is:
+  A. BRAF V600E | B. RET/PTC rearrangement | C. PAX8–PPARG fusion | D. TP53 inactivation | E. MEN1 mutation
+  KEY D — Anaplastic carcinoma: TP53 loss.
+VIVA1: Thyrotoxicosis vs hyperthyroidism? → Any high free T3/T4 vs an overactive gland.
+VIVA2: Triad of Graves disease? → Thyrotoxic goitre, ophthalmopathy, dermopathy.
+VIVA3: Why do the eyes protrude in Graves? → T cells and TSI act on orbital fibroblasts: GAG, fat.
+VIVA4: What are Hürthle cells? → Follicular cells stuffed with mitochondria.
+VIVA5: Commonest cause of hypothyroidism? → Iodine lack worldwide; Hashimoto if iodine-replete.
+VIVA6: What is Riedel thyroiditis? → IgG4-related fibrosis invading the neck; rock-hard.
+VIVA7: What is an Orphan Annie eye nucleus? → Clear, empty nucleus of papillary carcinoma.
+VIVA8: Name tumours with psammoma bodies. → Papillary thyroid, serous ovarian, meningioma.
+VIVA9: Source of amyloid in medullary carcinoma? → Altered calcitonin from the tumour cells.
+VIVA10: Which thyroid cancer spreads by blood? → Follicular carcinoma (lung, bone).
+VIVA11: Commonest cause of primary hyperparathyroidism? → Solitary adenoma (85–95%).
+VIVA12: What is a brown tumour? → Osteoclasts, haemorrhage, haemosiderin (HPT).
+
+=== ch24 Pituitary, Adrenal &amp; Diabetes Mellitus ===
+MCQ1: A 28-year-old woman has galactorrhoea and amenorrhoea. MRI shows an 8-mm sellar lesion. The most likely tumour and first-line treatment are:
+  A. Somatotroph adenoma; surgery | B. Corticotroph adenoma; ketoconazole | C. Lactotroph adenoma; dopamine agonist | D. Gonadotroph adenoma; radiotherapy | E. Thyrotroph adenoma; radioiodine
+  KEY C — Prolactinoma: commonest functioning adenoma; cabergoline shrinks it.
+MCQ2: After a massive postpartum haemorrhage a woman cannot breastfeed and later has amenorrhoea and cold intolerance. The underlying lesion is:
+  A. Ischaemic necrosis of the enlarged anterior pituitary | B. Lymphocytic hypophysitis | C. Haemorrhage into a macroadenoma | D. Infarction of the posterior lobe | E. Metastatic carcinoma
+  KEY A — Sheehan syndrome; the posterior lobe is spared.
+MCQ3: A smoker with small cell carcinoma of the lung has serum sodium 121 mmol/L, concentrated urine and no oedema. The diagnosis is:
+  A. Central diabetes insipidus | B. Nephrogenic diabetes insipidus | C. Conn syndrome | D. Addison disease | E. SIADH
+  KEY E — Ectopic ADH: euvolaemic hyponatraemia.
+MCQ4: A cushingoid woman has high plasma ACTH, and cortisol falls after high-dose dexamethasone. The cause is:
+  A. Adrenal adenoma | B. Pituitary corticotroph adenoma | C. Ectopic ACTH from lung carcinoma | D. Exogenous glucocorticoids | E. Adrenal carcinoma
+  KEY B — Cushing disease: pituitary ACTH still obeys high-dose feedback.
+MCQ5: A hypertensive man has hypokalaemia, low plasma renin and a 1.5-cm bright yellow adrenal nodule; the rest of the cortex is not atrophic. The lesion is:
+  A. Phaeochromocytoma | B. Adrenocortical carcinoma | C. 21-hydroxylase deficiency | D. Aldosterone-producing adenoma | E. Myelolipoma
+  KEY D — Conn syndrome; ACTH is not suppressed, so no atrophy.
+MCQ6: A 2-week-old girl with ambiguous genitalia has vomiting, sodium 124 and potassium 7.2 mmol/L. The deficient enzyme is:
+  A. 21-hydroxylase | B. 11β-hydroxylase | C. 17α-hydroxylase | D. Aromatase | E. 5α-reductase
+  KEY A — Salt-wasting CAH: no cortisol or aldosterone, androgens in excess.
+MCQ7: A child dies of meningococcal septicaemia with purpura and shock. The adrenals at autopsy most likely show:
+  A. Shrunken glands with lymphocytes | B. Caseating granulomas | C. Massive bilateral haemorrhage | D. Bilateral nodular hyperplasia | E. Metastatic deposits
+  KEY C — Waterhouse–Friderichsen syndrome.
+MCQ8: In a phaeochromocytoma, malignancy is established by:
+  A. Capsular invasion | B. Metastasis | C. Nuclear pleomorphism | D. Vascular invasion | E. Tumour weight over 100 g
+  KEY B — Histology cannot predict behaviour; only metastasis proves malignancy.
+MCQ9: A man has hypercalcaemia from parathyroid hyperplasia, recurrent peptic ulcers from a gastrinoma and a prolactinoma. The mutated gene is:
+  A. RET | B. VHL | C. NF1 | D. MEN1 (menin) | E. SDHB
+  KEY D — MEN1: parathyroid, pancreas, pituitary.
+MCQ10: Which result, confirmed on repeat testing, establishes diabetes mellitus?
+  A. Fasting glucose 110 mg/dL | B. Random glucose 160 mg/dL without symptoms | C. HbA1c 6.0% | D. 2-hour OGTT glucose 170 mg/dL | E. Fasting glucose 130 mg/dL
+  KEY E — FPG ≥ 126 mg/dL; the others fall in the prediabetic or normal range.
+MCQ11: A 12-year-old with weight loss and polyuria has antibodies to GAD65. Her islets would show:
+  A. Lymphocytic infiltrate (insulitis) | B. Amyloid deposition | C. Islet hyperplasia | D. Normal islets | E. Duct calcification with fibrosis
+  KEY A — Type 1 diabetes: T-cell insulitis destroys β cells.
+MCQ12: The Kimmelstiel–Wilson lesion of diabetic nephropathy is:
+  A. Hyaline thickening of the afferent arteriole only | B. Papillary necrosis | C. A cellular crescent | D. Subepithelial immune deposits | E. PAS-positive nodules of mesangial matrix
+  KEY E — Nodular glomerulosclerosis at the periphery of the tuft.
+VIVA1: Commonest functioning pituitary adenoma? → Lactotroph adenoma (prolactinoma).
+VIVA2: Why is the pituitary vulnerable in pregnancy? → It nearly doubles in size without more blood supply.
+VIVA3: What is Crooke hyaline change? → Pale keratin in corticotrophs exposed to high cortisol.
+VIVA4: Commonest cause of Cushing syndrome? → Exogenous steroids; endogenous: pituitary ACTH adenoma.
+VIVA5: Commonest enzyme defect in CAH? → 21-hydroxylase (CYP21A2): over 90%.
+VIVA6: Why is Addison disease pigmented? → High POMC: more ACTH and MSH.
+VIVA7: Define Waterhouse–Friderichsen syndrome. → Sepsis (meningococcal) with bilateral adrenal haemorrhage.
+VIVA8: What are Zellballen? → Nests of chief cells ringed by sustentacular cells.
+VIVA9: Best urine test for phaeochromocytoma? → Metanephrines (and VMA).
+VIVA10: HbA1c cut-off for diabetes? → 6.5% or more.
+VIVA11: What does the polyol pathway do? → Glucose → sorbitol, using up NADPH: oxidative stress.
+VIVA12: What is a Kimmelstiel–Wilson nodule? → PAS-positive mesangial nodule in diabetic kidney.
+
+=== ch25 Blood Vessels: Atherosclerosis, Aneurysms, Vasculitis &amp; Vascular Tumours ===
+MCQ1: The earliest visible lesion of atherosclerosis, found even in children, is the:
+  A. Fibrous plaque | B. Complicated plaque | C. Calcified plaque | D. Fatty streak | E. Aneurysm
+  KEY D — Flat yellow streaks of foam cells; not raised.
+MCQ2: Foam cells in an early atheroma are chiefly derived from:
+  A. Neutrophils | B. Monocyte-derived macrophages | C. Plasma cells | D. Mast cells | E. Endothelial cells
+  KEY B — Macrophages take up oxidised LDL by scavenger receptors.
+MCQ3: Which mediator, released by platelets and macrophages, recruits smooth muscle cells into the intima of a developing plaque?
+  A. PDGF | B. Erythropoietin | C. IL-2 | D. Histamine | E. Bradykinin
+  KEY A — PDGF (with FGF, TGF-α) drives SMC migration and proliferation.
+MCQ4: Which feature makes a coronary plaque most likely to rupture?
+  A. Thick collagenous cap | B. Small lipid core | C. Abundant smooth muscle cells | D. Dense calcification | E. Thin cap with many macrophages
+  KEY E — Macrophage metalloproteinases thin the cap.
+MCQ5: The arterial segment most severely affected by atherosclerosis is usually the:
+  A. Thoracic aorta | B. Renal artery | C. Lower abdominal aorta | D. Superior mesenteric artery | E. Subclavian artery
+  KEY C — Then coronaries, popliteal, internal carotid, circle of Willis.
+MCQ6: A kidney biopsy shows onion-skin arteriolar thickening with fibrinoid necrosis. The most likely setting is:
+  A. Benign hypertension | B. Malignant hypertension | C. Diabetes mellitus | D. Mönckeberg sclerosis | E. Amyloidosis
+  KEY B — Hyperplastic arteriolosclerosis of malignant hypertension.
+MCQ7: A 58-year-old hypertensive man dies of sudden tearing chest pain. The aortic media shows elastic fragmentation with mucoid pools and no inflammation. This is:
+  A. Granulomatous aortitis | B. Obliterative endarteritis of vasa vasorum | C. Atheroma with mural thrombus | D. Cystic medial degeneration | E. Fibrinoid necrosis
+  KEY D — The substrate of aortic dissection.
+MCQ8: A dissection confined to the ascending aorta (DeBakey II) is classified as:
+  A. Stanford type A | B. Stanford type B | C. DeBakey III | D. False aneurysm | E. Berry aneurysm
+  KEY A — Any involvement of the ascending aorta = type A.
+MCQ9: A 72-year-old woman has headache, jaw pain on chewing, blurred vision and ESR 98 mm/h. Temporal artery biopsy would show:
+  A. Leukocytoclastic vasculitis | B. Necrotising airway granulomas | C. Fibrinoid necrosis of renal arteries | D. Eosinophil-rich granulomas | E. Medial granulomas with giant cells and a fragmented elastic lamina
+  KEY E — Giant cell arteritis.
+MCQ10: A 40-year-old man has chronic sinusitis, nasal ulcers, cavitating lung nodules and haematuria. The antibody most likely present is:
+  A. Anti-GBM | B. MPO-ANCA (p-ANCA) | C. PR3-ANCA (c-ANCA) | D. Anti-dsDNA | E. Anti-centromere
+  KEY C — Granulomatosis with polyangiitis.
+MCQ11: Polyarteritis nodosa is classically associated with:
+  A. Hepatitis C cryoglobulinaemia | B. Bronchial asthma | C. Fever in a toddler | D. Chronic hepatitis B | E. Heavy smoking
+  KEY D — About one-third of PAN patients carry HBV.
+MCQ12: An HIV-positive man has purple plaques on his legs. Biopsy shows spindle cells forming slit-like spaces filled with red cells. The causative agent is:
+  A. HHV-8 | B. EBV | C. HPV | D. Bartonella | E. CMV
+  KEY A — Kaposi sarcoma herpesvirus (KSHV).
+VIVA1: Define atherosclerosis. → Intimal fibrofatty plaques that narrow, weaken and may rupture.
+VIVA2: Four major modifiable risk factors? → Hyperlipidaemia, hypertension, smoking, diabetes.
+VIVA3: What is a foam cell? → A macrophage (or SMC) full of oxidised LDL.
+VIVA4: What makes a plaque vulnerable? → Thin cap, large lipid core, many macrophages.
+VIVA5: What is Mönckeberg sclerosis? → Medial calcification of muscular arteries; lumen spared.
+VIVA6: What is a flea-bitten kidney? → Petechial cortical bleeds of malignant hypertension.
+VIVA7: What is a false aneurysm? → Wall breach with a haematoma connected to the lumen.
+VIVA8: What is a tree-bark aorta? → Wrinkled intima over medial scars: syphilitic aortitis.
+VIVA9: What is a double-barrelled aorta? → Dissection re-entering the lumen through a distal tear.
+VIVA10: Main complication of Kawasaki disease? → Coronary artery aneurysm (thrombosis, MI).
+VIVA11: What is Buerger disease? → Thrombosing vasculitis of limb vessels in young smokers.
+VIVA12: What is a glomus tumour? → Painful benign glomus-cell tumour under a nail.
+
+=== ch26 Heart: Ischaemic, Hypertensive &amp; Valvular Disease, Cardiomyopathies ===
+MCQ1: A 60-year-old man dies 2 days after the onset of severe chest pain. Sections of the left ventricle are most likely to show:
+  A. Dense collagenous scar | B. Granulation tissue with new capillaries | C. Coagulation necrosis with a brisk neutrophilic infiltrate | D. Macrophages laden with haemosiderin and lipofuscin | E. Normal myocardium
+  KEY C — 1–3 days: loss of nuclei and striations with a neutrophilic infiltrate.
+MCQ2: On day 5 after an anterior MI a woman suddenly develops hypotension, raised JVP and muffled heart sounds. The most likely cause is:
+  A. Dressler syndrome | B. Ventricular aneurysm | C. Mural thrombus | D. Rupture of the free wall with tamponade | E. Re-infarction
+  KEY D — Rupture peaks at 3–7 days, the softest phase of the infarct.
+MCQ3: An infarct involving the anterior wall of the left ventricle, the apex and the anterior two-thirds of the septum results from occlusion of the:
+  A. Left anterior descending artery | B. Right coronary artery | C. Left circumflex artery | D. Posterior descending artery | E. Marginal branch of RCA
+  KEY A — LAD is the commonest culprit (40–50%) and supplies this territory.
+MCQ4: Four days after an MI, chest pain recurs. Which marker best detects re-infarction at this time?
+  A. Troponin I | B. Troponin T | C. Myoglobin | D. Lactate dehydrogenase | E. CK-MB
+  KEY E — Troponins stay raised 7–10 days; CK-MB normalises by 72 h, so a new rise means re-infarction.
+MCQ5: Plump macrophages with a slender wavy ribbon of nuclear chromatin in a myocardial lesion are called:
+  A. Anitschkow cells | B. Langhans giant cells | C. Reed–Sternberg cells | D. Touton giant cells | E. Heart failure cells
+  KEY A — Anitschkow (caterpillar) cells are part of the Aschoff body of rheumatic carditis.
+MCQ6: A 25-year-old intravenous drug user has fever and a large vegetation on the tricuspid valve. The most likely organism is:
+  A. Streptococcus viridans | B. Staphylococcus aureus | C. Staphylococcus epidermidis | D. Enterococcus faecalis | E. Candida albicans
+  KEY B — S. aureus causes acute right-sided IE in IV drug users.
+MCQ7: A 19-year-old footballer collapses and dies on the field. Autopsy shows a thick septum bulging into the outflow tract and myofibre disarray. The most likely mutated gene encodes:
+  A. Dystrophin | B. Titin | C. Fibrillin-1 | D. Transthyretin | E. β-myosin heavy chain
+  KEY E — HCM: autosomal dominant sarcomere mutation, β-MHC most often.
+MCQ8: An elderly man has heart failure with normal-sized, stiff ventricles and dilated atria. Endomyocardial biopsy shows material with apple-green birefringence after Congo red. The cardiomyopathy is:
+  A. Dilated | B. Hypertrophic | C. Restrictive | D. Arrhythmogenic | E. Takotsubo
+  KEY C — Amyloidosis is the commonest cause of restrictive cardiomyopathy.
+MCQ9: Which feature best distinguishes senile calcific aortic stenosis from rheumatic aortic stenosis?
+  A. Presence of LVH | B. Absence of commissural fusion | C. Angina on exertion | D. Calcification of cusps | E. Systolic murmur
+  KEY B — Calcific AS has heaped calcium on the outflow side without commissural fusion.
+MCQ10: Small sterile vegetations on both surfaces of the mitral leaflets in a young woman with a malar rash are:
+  A. Rheumatic verrucae | B. Infective vegetations | C. Non-bacterial thrombotic vegetations | D. Libman–Sacks vegetations | E. Myxomatous nodules
+  KEY D — Libman–Sacks endocarditis of SLE involves both leaflet surfaces.
+MCQ11: A massive saddle embolus causes sudden death. The right ventricle at autopsy shows:
+  A. Dilatation without hypertrophy | B. Concentric hypertrophy | C. Wall thickness of 1.5 cm | D. Old scar | E. Myofibre disarray
+  KEY A — Acute cor pulmonale: no time for hypertrophy, only dilatation.
+MCQ12: Histology of a floppy, hooded mitral leaflet with a mid-systolic click shows:
+  A. Aschoff bodies | B. Bacterial colonies | C. Myxomatous expansion of the spongiosa | D. Fibrinoid necrosis | E. Calcified nodules on the atrial surface
+  KEY C — MVP: proteoglycan-rich myxomatous degeneration; associated with Marfan syndrome.
+VIVA1: What is critical stenosis? → Narrowing of ≥ 70% of a coronary lumen, causing ischaemia on exertion (stable angina).
+VIVA2: Why does necrosis start in the subendocardium? → It is last to be perfused and under the highest intramural pressure.
+VIVA3: When does an infarct first become visible grossly? → After about 12 hours as dark mottling; TTC staining shows it earlier as an unstained pale area.
+VIVA4: What is contraction band necrosis? → Hypercontracted myofibrils forming dense eosinophilic bands, typical of reperfused myocardium.
+VIVA5: When is rupture most likely and why? → 3–7 days, when macrophages have removed necrotic muscle before collagen is laid down.
+VIVA6: What is Dressler syndrome? → Autoimmune pericarditis appearing weeks after MI.
+VIVA7: Define cor pulmonale. → RV hypertrophy and/or dilatation due to pulmonary hypertension from lung or pulmonary vascular disease.
+VIVA8: What is an Aschoff body? → Focal inflammatory lesion of rheumatic carditis: T cells, plasma cells and Anitschkow macrophages, sometimes fibrinoid necrosis.
+VIVA9: Why is mitral stenosis called fish-mouth? → Fused commissures and thick leaflets make a rigid funnel with a narrow slit-like orifice.
+VIVA10: Which organism causes endocarditis on prosthetic valves? → Coagulase-negative staphylococci, especially S. epidermidis.
+VIVA11: What is myofibre disarray? → Haphazard arrangement of hypertrophied myocytes and myofibrils: hallmark of HCM.
+VIVA12: Commonest viral cause of myocarditis? → Coxsackie A and B viruses (enteroviruses).
+
+=== ch27 Bone: Metabolic Disease, Osteomyelitis &amp; Bone Tumours ===
+MCQ1: A 65-year-old woman has back pain and loss of height. Serum calcium, phosphate and ALP are normal; DEXA T-score is –3.0. The basic defect is:
+  A. Defective mineralisation of osteoid | B. Reduced bone mass with normal mineralisation | C. Mosaic remodelling with cement lines | D. Excess PTH-driven osteitis fibrosa | E. Defective type I collagen synthesis
+  KEY B — Osteoporosis: less bone of normal composition; labs are normal.
+MCQ2: A child with sickle cell anaemia develops osteomyelitis. The organism to be suspected especially is:
+  A. Salmonella | B. Haemophilus influenzae | C. Pseudomonas aeruginosa | D. Mycobacterium tuberculosis | E. Neisseria gonorrhoeae
+  KEY A — Salmonella osteomyelitis is characteristic of sickle cell disease (S. aureus still common).
+MCQ3: The sleeve of new bone formed around a sequestrum in chronic osteomyelitis is called:
+  A. Cloaca | B. Brodie abscess | C. Codman triangle | D. Callus | E. Involucrum
+  KEY E — Lifted periosteum lays down an involucrum around dead bone.
+MCQ4: A 2-year-old has frontal bossing, a rachitic rosary and widened wrists. Expected laboratory findings are:
+  A. High calcium, high phosphate, low ALP | B. Normal calcium, phosphate and ALP | C. Low or normal calcium, low phosphate, high ALP | D. High calcium, low phosphate, low PTH | E. Low calcium, high phosphate, low PTH
+  KEY C — Vitamin D deficiency with secondary hyperparathyroidism: phosphate falls, ALP rises.
+MCQ5: A 17-year-old has severe night pain in the tibia relieved by aspirin. X-ray shows a 1 cm lucent nidus surrounded by dense sclerosis in the cortex. Diagnosis:
+  A. Osteoblastoma | B. Brodie abscess | C. Osteoid osteoma | D. Ewing sarcoma | E. Enchondroma
+  KEY C — Cortical nidus < 2 cm with sclerosis and aspirin-responsive night pain (PGE₂).
+MCQ6: The single histological criterion for osteosarcoma is:
+  A. Osteoclast-type giant cells | B. Osteoid produced directly by malignant cells | C. Homer–Wright rosettes | D. Malignant cartilage only | E. Reactive periosteal bone
+  KEY B — Tumour cells making osteoid defines osteosarcoma.
+MCQ7: Multiple hereditary exostoses are caused by germline mutations in:
+  A. IDH1 | B. RB1 | C. TP53 | D. EXT1 or EXT2 | E. SQSTM1
+  KEY D — EXT genes encode enzymes for heparan sulfate synthesis.
+MCQ8: A 30-year-old has pain near the knee. X-ray: eccentric, purely lytic epiphyseal lesion with a soap-bubble appearance. Microscopy shows uniform mononuclear cells with evenly scattered multinucleate giant cells. The neoplastic cell is the:
+  A. Multinucleate giant cell | B. Mature osteoclast | C. Macrophage | D. Chondroblast | E. RANKL-expressing osteoblast precursor
+  KEY E — In GCT the mononuclear stromal cells are neoplastic; giant cells are recruited.
+MCQ9: A 12-year-old has fever, raised ESR and a tender swelling of the femoral shaft. X-ray shows an onion-skin periosteal reaction. Biopsy shows sheets of small round cells. Which test best confirms the diagnosis?
+  A. Detection of t(11;22) EWSR1–FLI1 | B. Blood culture | C. Serum ALP | D. Congo red stain | E. Bone marrow iron stain
+  KEY A — Ewing sarcoma mimics osteomyelitis; the translocation (and CD99) confirms it.
+MCQ10: A 55-year-old man has a large pelvic tumour with lobules of grey-white translucent tissue and spotty calcification. The most likely diagnosis is:
+  A. Osteosarcoma | B. Enchondroma | C. Giant cell tumour | D. Osteochondroma | E. Chondrosarcoma
+  KEY E — Chondrosarcoma: middle age, axial skeleton, glistening cartilaginous lobules.
+MCQ11: A mosaic pattern of lamellar bone with irregular cement lines and a very high serum ALP with normal calcium suggests:
+  A. Osteomalacia | B. Paget disease | C. Hyperparathyroidism | D. Osteoporosis | E. Osteogenesis imperfecta
+  KEY B — Jigsaw-puzzle bone of Paget disease; ALP very high, calcium normal.
+MCQ12: Which metastatic tumour is classically osteoblastic (sclerotic)?
+  A. Renal cell carcinoma | B. Lung carcinoma | C. Thyroid carcinoma | D. Prostatic adenocarcinoma | E. Melanoma
+  KEY D — Prostate cancer stimulates osteoblasts; most others are lytic.
+VIVA1: What does RANKL do? → Binds RANK on osteoclast precursors and drives their maturation and bone resorption.
+VIVA2: What is OPG? → Osteoprotegerin: a soluble decoy receptor that binds RANKL and blocks osteoclast formation.
+VIVA3: Define osteoporosis on DEXA. → Bone mineral density T-score of –2.5 or lower.
+VIVA4: Where do postmenopausal osteoporotic fractures occur? → Vertebral bodies (crush fractures), also distal radius and femoral neck.
+VIVA5: What is a Looser zone? → A pseudofracture: radiolucent band of unmineralised osteoid at right angles to the cortex in osteomalacia.
+VIVA6: What is a rachitic rosary? → Beading of the costochondral junctions from overgrown, unmineralised cartilage and osteoid in rickets.
+VIVA7: Define sequestrum. → A fragment of dead bone separated from living bone in osteomyelitis.
+VIVA8: What is a Brodie abscess? → A small walled-off intraosseous abscess, often cortical, surrounded by sclerotic reactive bone.
+VIVA9: What is Codman triangle? → Triangular reactive bone at the edge where tumour lifts the periosteum; typical of osteosarcoma.
+VIVA10: Translocation in Ewing sarcoma? → t(11;22)(q24;q12), EWSR1–FLI1 fusion.
+VIVA11: Which bone tumour is epiphyseal in adults? → Giant cell tumour (osteoclastoma).
+VIVA12: Why is aspirin effective in osteoid osteoma? → The tumour makes prostaglandin E2; NSAIDs block its production.
+
+=== ch28 Joints &amp; Skeletal Muscle ===
+MCQ1: A 65-year-old woman has knee pain worse on walking, morning stiffness for 10 minutes and bony swellings of the DIP joints. The primary tissue affected is:
+  A. Synovium | B. Articular cartilage | C. Enthesis | D. Subcutaneous tissue | E. Joint capsule
+  KEY B — OA begins with degeneration of articular cartilage; Heberden nodes are osteophytes.
+MCQ2: The autoantibody most specific for rheumatoid arthritis is directed against:
+  A. Citrullinated peptides | B. Fc portion of IgG | C. Double-stranded DNA | D. Centromere proteins | E. Acetylcholine receptor
+  KEY A — Anti-CCP (ACPA) is highly specific; RF (anti-Fc IgG) is not.
+MCQ3: Central fibrinoid necrosis surrounded by palisading epithelioid macrophages in a nodule over the elbow is a:
+  A. Tophus | B. Caseating granuloma | C. Heberden node | D. Rheumatoid nodule | E. Gumma
+  KEY D — Classic rheumatoid nodule in seropositive RA.
+MCQ4: A 25-year-old man has low back stiffness, sacroiliitis and recurrent anterior uveitis. The most likely genetic association is:
+  A. HLA-DR3 | B. HLA-B27 | C. HLA-DRB1 shared epitope | D. HLA-DQ2 | E. HLA-B51
+  KEY B — Ankylosing spondylitis: HLA-B27 in about 90%.
+MCQ5: A sexually active 20-year-old woman has an acutely swollen knee and pustular skin lesions. She has had two episodes of neisserial meningitis. She most likely has deficiency of:
+  A. C1 inhibitor | B. C3 | C. Properdin factor B | D. C5–C9 (membrane attack complex) | E. C2
+  KEY D — Terminal complement deficiency predisposes to disseminated neisserial infection.
+MCQ6: Synovial fluid shows needle-shaped crystals that are yellow when parallel to the compensator axis. The crystals are:
+  A. Monosodium urate | B. Calcium pyrophosphate | C. Cholesterol | D. Hydroxyapatite | E. Calcium oxalate
+  KEY A — Strong negative birefringence = urate (gout).
+MCQ7: The inflammatory mediator central to acute gout, released after crystals activate the NLRP3 inflammasome, is:
+  A. IL-4 | B. Histamine | C. IL-1β | D. Interferon-γ | E. Leukotriene E4
+  KEY C — Caspase-1 cleaves pro-IL-1β; IL-1 blockers abort attacks.
+MCQ8: A muscle biopsy shows patches of fibres of a single histochemical type and groups of small angular atrophic fibres. The disease is most likely:
+  A. Duchenne dystrophy | B. Polymyositis | C. Spinal muscular atrophy | D. Myotonic dystrophy | E. Steroid myopathy
+  KEY C — Fibre-type grouping and grouped atrophy are neurogenic.
+MCQ9: Perifascicular atrophy on muscle biopsy is characteristic of:
+  A. Polymyositis | B. Inclusion body myositis | C. Becker dystrophy | D. Myasthenia gravis | E. Dermatomyositis
+  KEY E — Capillary injury hits the periphery of fascicles in dermatomyositis.
+MCQ10: A man has myotonia, frontal balding, cataracts and a hatchet face; his son is more severely affected. The mutation is:
+  A. CTG repeat expansion in DMPK | B. Out-of-frame deletion of dystrophin | C. CAG repeat in huntingtin | D. Point mutation in SMN1 | E. Sarcoglycan mutation
+  KEY A — Myotonic dystrophy: CTG expansion with anticipation.
+MCQ11: Becker muscular dystrophy differs from Duchenne in that:
+  A. It is autosomal dominant | B. Dystrophin is completely absent | C. Calf pseudohypertrophy never occurs | D. CK is normal | E. Dystrophin is reduced or truncated but partly functional
+  KEY E — In-frame mutations produce a partly working dystrophin.
+MCQ12: Fatigable ptosis and diplopia that improve with an anticholinesterase are due to antibodies against:
+  A. Presynaptic calcium channels | B. Postsynaptic acetylcholine receptors | C. Dystrophin | D. Myelin basic protein | E. Ganglioside GM1
+  KEY B — Myasthenia gravis: anti-AChR in about 85%; thymic hyperplasia or thymoma.
+VIVA1: What is eburnation? → Polished ivory-like subchondral bone exposed after full-thickness cartilage loss in osteoarthritis.
+VIVA2: What are Heberden nodes? → Osteophytes at the DIP joints in osteoarthritis.
+VIVA3: Define pannus. → Inflamed hyperplastic synovium with granulation tissue that grows over and erodes articular cartilage in RA.
+VIVA4: What is rheumatoid factor? → IgM (or IgA) autoantibody against the Fc portion of IgG.
+VIVA5: Name the triad of reactive arthritis. → Arthritis, non-gonococcal urethritis or cervicitis, and conjunctivitis.
+VIVA6: Commonest organism in septic arthritis of adults? → Staphylococcus aureus; gonococcus in sexually active young adults.
+VIVA7: What is a tophus? → A mass of urate crystals surrounded by macrophages, lymphocytes and foreign-body giant cells.
+VIVA8: Why fix a gouty specimen in alcohol? → Urate crystals dissolve in aqueous formalin.
+VIVA9: Crystals of pseudogout? → Calcium pyrophosphate: rhomboid, weakly positively birefringent.
+VIVA10: What is Gowers sign? → Using the hands to climb up the thighs to stand: proximal (pelvic girdle) weakness, as in Duchenne.
+VIVA11: What is pseudohypertrophy? → Calf enlargement due to fat and fibrous tissue replacing muscle in Duchenne dystrophy.
+VIVA12: What is grouped atrophy? → Clusters of atrophic fibres of one type when a reinnervating motor neuron dies: neurogenic disease.
+
+=== ch29 CNS I: Cerebrovascular Disease, Infections, Demyelinating &amp; Degenerative Disease ===
+MCQ1: A 70-year-old man dies 4 days after a sudden left hemiplegia. Microscopy of the infarcted cortex is most likely to show:
+  A. Only neutrophils with normal neurons | B. A dense glial scar around a cyst | C. Numerous lipid-laden macrophages, red neurons and oedema | D. Fibrous tissue with collagen deposition | E. Caseating granulomas
+  KEY C — From 48 h to 2–3 weeks macrophages dominate the infarct.
+MCQ2: The commonest site of hypertensive intracerebral haemorrhage is the:
+  A. Cerebellar hemisphere | B. Pons | C. Occipital cortex | D. Thalamus | E. Putamen
+  KEY E — Putamen accounts for 50–60% of hypertensive bleeds.
+MCQ3: A 45-year-old woman develops a sudden ‘worst headache of my life’; CT shows blood in the basal cisterns. The underlying lesion most often lies at the:
+  A. Tip of the basilar artery | B. Junction of the anterior cerebral and anterior communicating arteries | C. Posterior inferior cerebellar artery | D. Middle meningeal artery | E. Vertebral artery
+  KEY B — Berry aneurysms are commonest at the ACA–ACoA junction.
+MCQ4: CSF: turbid, 2,500 cells/mm³ (mostly neutrophils), protein 250 mg/dL, glucose 15 mg/dL. The most likely diagnosis is:
+  A. Viral meningitis | B. Tuberculous meningitis | C. Multiple sclerosis | D. Acute bacterial meningitis | E. Subarachnoid haemorrhage
+  KEY D — Neutrophils with very low glucose = pyogenic meningitis.
+MCQ5: The most common cause of bacterial meningitis in a 10-day-old baby is:
+  A. Group B streptococcus | B. Neisseria meningitidis | C. Streptococcus pneumoniae | D. Haemophilus influenzae type b | E. Mycobacterium tuberculosis
+  KEY A — Neonates: E. coli and group B streptococci.
+MCQ6: At autopsy a child has a thick gelatinous exudate at the base of the brain encasing cranial nerves, obliterative endarteritis and hydrocephalus. The diagnosis is:
+  A. Pneumococcal meningitis | B. Viral meningitis | C. Tuberculous meningitis | D. Brain abscess | E. Acute disseminated encephalomyelitis
+  KEY C — Basal exudate with endarteritis and granulomas is typical of TB.
+MCQ7: Oligoclonal IgG bands in the CSF but not in the serum are most characteristic of:
+  A. Alzheimer disease | B. Parkinson disease | C. Huntington disease | D. Acute bacterial meningitis | E. Multiple sclerosis
+  KEY E — Intrathecal IgG from CNS plasma cells is found in most MS patients.
+MCQ8: A 26-year-old woman had painful visual loss in one eye; two years later she has leg weakness and urinary urgency. Her brain lesions will show:
+  A. Neuritic plaques with tangles | B. Sharply defined myelin loss with relatively preserved axons | C. Perivenular demyelination all of one age after a viral illness | D. Spongiform change without inflammation | E. Caseating granulomas
+  KEY B — Multiple sclerosis: demyelinated plaques with axonal sparing.
+MCQ9: Lewy bodies are composed mainly of:
+  A. Tau | B. Aβ amyloid | C. Huntingtin | D. α-synuclein | E. TDP-43
+  KEY D — Lewy bodies are α-synuclein aggregates in nigral neurons.
+MCQ10: A 42-year-old man has chorea, depression and progressive dementia; his father had the same illness. The most striking atrophy will be in the:
+  A. Substantia nigra | B. Hippocampus | C. Caudate nucleus | D. Anterior horn of the spinal cord | E. Cerebellar vermis
+  KEY C — Huntington disease: CAG expansion in HTT; caudate atrophy.
+MCQ11: In transtentorial (uncal) herniation, compression of the oculomotor nerve produces:
+  A. A dilated pupil on the opposite side | B. A dilated pupil with impaired eye movement on the same side | C. Bilateral pinpoint pupils | D. Leg weakness from anterior cerebral artery compression | E. Sudden respiratory arrest
+  KEY B — CN III is compressed against the tentorium on the side of the mass.
+MCQ12: A 45-year-old man with Down syndrome develops progressive memory loss. The extra gene that explains his early Alzheimer disease encodes:
+  A. Amyloid precursor protein | B. Presenilin 1 | C. Apolipoprotein E | D. Tau | E. α-synuclein
+  KEY A — APP lies on chromosome 21; three copies increase Aβ production.
+VIVA1: What are red neurons? → Neurons 12–24 h after lethal hypoxia: shrunken, eosinophilic, pyknotic nucleus, no nucleolus or Nissl substance.
+VIVA2: Which neurons are most sensitive to hypoxia? → Hippocampal CA1 pyramidal cells, cerebellar Purkinje cells, neocortical pyramidal neurons.
+VIVA3: What is a watershed infarct? → Infarct at the border zone between two arterial territories (ACA–MCA) after global hypoperfusion.
+VIVA4: Why is cerebral infarction liquefactive? → Little stroma, much lipid; enzymes from neutrophils and microglia digest it into a cavity.
+VIVA5: What are Charcot–Bouchard aneurysms? → Microaneurysms of small penetrating arteries in hypertension; rupture causes ganglionic haemorrhage.
+VIVA6: What is a Duret haemorrhage? → Linear or flame-shaped bleed in midbrain or pons secondary to transtentorial herniation.
+VIVA7: CSF in viral meningitis? → Clear; lymphocytes; normal or mildly raised protein; normal glucose.
+VIVA8: What is Waterhouse–Friderichsen syndrome? → Meningococcal septicaemia with bilateral adrenal haemorrhage, shock and purpura.
+VIVA9: Layers of a brain abscess wall? → Central necrosis, granulation tissue with collagen capsule, outer reactive gliosis and oedema.
+VIVA10: What is a shadow plaque? → An MS plaque with thin, partly regenerated myelin and an ill-defined border.
+VIVA11: Hallmark lesions of Alzheimer disease? → Neuritic plaques with an Aβ core and neurofibrillary tangles of hyperphosphorylated tau.
+VIVA12: What is a Lewy body? → Round eosinophilic cytoplasmic inclusion with a pale halo, made of α-synuclein, in nigral neurons.
+
+=== ch30 CNS II: Brain Tumours &amp; Nerve Sheath Tumours ===
+MCQ1: A 62-year-old man has a rapidly enlarging frontal mass crossing the corpus callosum. Which microscopic feature defines it as grade 4?
+  A. Rosenthal fibres | B. Perinuclear halos | C. Psammoma bodies | D. Pseudopalisading necrosis | E. Verocay bodies
+  KEY D — Necrosis with pseudopalisading (or microvascular proliferation) marks glioblastoma.
+MCQ2: A 40-year-old has a calcified frontal white-matter tumour composed of round cells with clear halos and branching capillaries. Which finding defines this tumour?
+  A. IDH mutation with 1p/19q codeletion | B. EGFR amplification | C. KIAA1549–BRAF fusion | D. MYC amplification | E. ZFTA–RELA fusion
+  KEY A — Oligodendroglioma = IDH-mutant and 1p/19q-codeleted.
+MCQ3: A cystic cerebellar tumour with a mural nodule in a 9-year-old shows piloid cells and bright eosinophilic corkscrew fibres. The diagnosis is:
+  A. Medulloblastoma | B. Ependymoma | C. Pilocytic astrocytoma | D. Haemangioblastoma | E. Glioblastoma
+  KEY C — Rosenthal fibres in a cyst-with-nodule tumour = pilocytic astrocytoma.
+MCQ4: A midline cerebellar tumour in a 5-year-old consists of sheets of small blue cells with rosettes around fibrillary cores. The rosettes are:
+  A. Flexner–Wintersteiner rosettes | B. True ependymal rosettes | C. Perivascular pseudorosettes | D. Psammoma bodies | E. Homer Wright rosettes
+  KEY E — Medulloblastoma: Homer Wright rosettes around neuropil.
+MCQ5: Which medulloblastoma group has the best prognosis?
+  A. SHH-activated, TP53-mutant | B. WNT-activated | C. Group 3 with MYC amplification | D. Group 4 | E. All have equal outcome
+  KEY B — WNT (CTNNB1-mutant) tumours have the best survival.
+MCQ6: Perivascular pseudorosettes in a tumour of the fourth ventricle of a child indicate:
+  A. Medulloblastoma | B. Meningioma | C. Ependymoma | D. Pilocytic astrocytoma | E. Choroid plexus papilloma
+  KEY C — Cells around vessels with a nucleus-free zone = ependymoma.
+MCQ7: A dura-based parasagittal mass in a 50-year-old woman shows whorls of cells and laminated calcified bodies. The cell of origin is the:
+  A. Arachnoid (meningothelial) cap cell | B. Astrocyte | C. Ependymal cell | D. Schwann cell | E. Fibroblast of the pia
+  KEY A — Meningioma arises from arachnoid cap cells; psammoma bodies are classic.
+MCQ8: A 25-year-old with bilateral vestibular schwannomas most likely has a mutation on chromosome:
+  A. 17 | B. 9 | C. 3 | D. 22 | E. 13
+  KEY D — NF2 (merlin) lies on 22q12.
+MCQ9: An encapsulated tumour on a spinal root shows cellular areas with nuclear palisading alternating with loose myxoid areas. The diagnosis is:
+  A. Neurofibroma | B. Schwannoma | C. MPNST | D. Meningioma | E. Ependymoma
+  KEY B — Antoni A and B areas with Verocay bodies = schwannoma.
+MCQ10: A ‘bag of worms’ thickening of the brachial plexus is pathognomonic of:
+  A. NF2 | B. Tuberous sclerosis | C. von Hippel–Lindau disease | D. Li–Fraumeni syndrome | E. NF1
+  KEY E — Plexiform neurofibroma is diagnostic of NF1.
+MCQ11: The commonest CNS tumour in a patient with advanced AIDS is:
+  A. Glioblastoma | B. Meningioma | C. Metastatic carcinoma | D. EBV-positive primary CNS lymphoma | E. Medulloblastoma
+  KEY D — Immunosuppression-related PCNSL is almost always EBV-driven DLBCL.
+MCQ12: A 60-year-old smoker has three well-circumscribed masses at the grey–white junction with marked oedema. The most likely diagnosis is:
+  A. Glioblastoma | B. Oligodendroglioma | C. Metastatic carcinoma | D. Meningioma | E. Pilocytic astrocytoma
+  KEY C — Multiple sharply demarcated grey–white junction lesions = metastases (lung).
+VIVA1: Why do brain tumours rarely metastasise outside the CNS? → There are no lymphatics in the brain; spread is mainly local and through the CSF.
+VIVA2: Commonest site of brain tumours in children and adults? → Children: posterior fossa (about 70%). Adults: supratentorial, cerebral hemispheres.
+VIVA3: Two hallmarks of glioblastoma? → Pseudopalisading necrosis and microvascular (glomeruloid) proliferation.
+VIVA4: What are Rosenthal fibres? → Bright eosinophilic, corkscrew-shaped GFAP-rich structures in astrocytic processes; pilocytic astrocytoma and chronic gliosis.
+VIVA5: Why are oligodendroglioma cells called fried eggs? → Round nuclei surrounded by a clear cytoplasmic halo, an artefact of delayed fixation.
+VIVA6: Pseudorosette vs true rosette in ependymoma? → Pseudorosette: cells around a vessel with a nucleus-free zone. True rosette: cells around a central lumen.
+VIVA7: What is a Homer Wright rosette? → Tumour cells around a central core of fibrillary neuropil without a lumen; medulloblastoma, neuroblastoma.
+VIVA8: What are drop metastases? → CSF seeding of tumour to the spinal cord and cauda equina, e.g. medulloblastoma.
+VIVA9: Cell of origin of meningioma? → Meningothelial (arachnoid cap) cells.
+VIVA10: What are Verocay bodies? → Two rows of palisaded nuclei separated by a nucleus-free zone of processes, in Antoni A areas of schwannoma.
+VIVA11: What does neurofibromin do? → It is a GTPase-activating protein that switches RAS off; lost in NF1.
+VIVA12: What are Lisch nodules? → Pigmented hamartomas of the iris in NF1.
+
+=== ch31 Skin: Dermatoses, Blistering Diseases &amp; Skin Tumours ===
+MCQ1: Retention of nuclei in the stratum corneum is called:
+  A. Hyperkeratosis | B. Parakeratosis | C. Dyskeratosis | D. Acanthosis | E. Spongiosis
+  KEY B — Normal on mucosa, abnormal on skin (psoriasis).
+MCQ2: A biopsy of a silvery-scaled plaque on the elbow shows elongated rete ridges, thin suprapapillary plates and collections of neutrophils within the parakeratotic stratum corneum. These collections are:
+  A. Pautrier microabscesses | B. Civatte bodies | C. Kamino bodies | D. Munro microabscesses | E. Spongiform pustules of Kogoj
+  KEY D — Munro: stratum corneum; Kogoj: spinous layer.
+MCQ3: Itchy purple flat-topped papules on the wrists show a band-like lymphocytic infiltrate and sawtooth rete ridges. Anucleate eosinophilic bodies in the papillary dermis are:
+  A. Civatte (colloid) bodies | B. Russell bodies | C. Councilman bodies | D. Psammoma bodies | E. Negri bodies
+  KEY A — Necrotic basal keratinocytes of lichen planus.
+MCQ4: A 78-year-old woman has tense bullae on the inner thighs and groin; the mouth is spared. IF shows linear IgG and C3 along the basement membrane. The target antigen is:
+  A. Desmoglein 3 | B. Desmoglein 1 | C. BP180 (type XVII collagen) | D. Tissue transglutaminase | E. Type VII collagen
+  KEY C — Bullous pemphigoid: hemidesmosomal BP180/BP230.
+MCQ5: A 45-year-old man has painful oral erosions and flaccid skin blisters; Nikolsky sign is positive and biopsy shows suprabasal acantholysis. Direct IF will show:
+  A. Linear IgG along the basement membrane | B. Granular IgA at the dermal papillae | C. Intercellular net-like IgG between keratinocytes | D. Perivascular IgA | E. No immune deposits
+  KEY C — Pemphigus vulgaris: anti-desmoglein IgG.
+MCQ6: A young man with chronic diarrhoea has intensely itchy grouped vesicles on both elbows and buttocks. Skin IF would most likely show:
+  A. Linear IgG and C3 | B. Intercellular IgG | C. Linear IgA in the epidermis | D. Negative staining | E. Granular IgA at the tips of dermal papillae
+  KEY E — Dermatitis herpetiformis, linked to coeliac disease.
+MCQ7: A waxy, ‘stuck-on’ brown plaque on the back of a 65-year-old shows basaloid cells with keratin-filled horn cysts. The diagnosis is:
+  A. Seborrhoeic keratosis | B. Actinic keratosis | C. Basal cell carcinoma | D. Melanoma | E. Keratoacanthoma
+  KEY A — Horn cysts + stuck-on look.
+MCQ8: The sudden appearance of numerous seborrhoeic keratoses (Leser–Trélat sign) should prompt a search for:
+  A. Melanoma | B. Gastrointestinal adenocarcinoma | C. Lymphoma of skin | D. Hypothyroidism | E. Coeliac disease
+  KEY B — A paraneoplastic sign, most often of GI adenocarcinoma.
+MCQ9: The naevoid basal cell carcinoma (Gorlin) syndrome results from germline mutation of:
+  A. BRAF | B. TP53 | C. CDKN2A | D. PTCH1 | E. KIT
+  KEY D — PTCH1 loss activates Hedgehog signalling.
+MCQ10: The single most important prognostic factor in a localised cutaneous melanoma is:
+  A. Colour of the lesion | B. Patient’s age | C. Clark level | D. Presence of melanin | E. Breslow thickness
+  KEY E — Depth in mm, granular layer to deepest cell.
+MCQ11: Which microscopic feature best distinguishes a melanoma from a benign compound naevus?
+  A. Presence of melanin pigment | B. Lack of maturation of cells with depth | C. Nests at the dermoepidermal junction | D. S-100 positivity | E. Location on sun-exposed skin
+  KEY B — Naevus cells mature with depth; melanoma cells do not.
+MCQ12: Recurrent erythema multiforme with target lesions is most often triggered by:
+  A. Herpes simplex infection | B. Nickel contact | C. Dietary gluten | D. IgE to pollen | E. Ultraviolet light
+  KEY A — HSV and drugs (sulfonamides) trigger EM.
+VIVA1: What is parakeratosis? → Nuclei retained in the stratum corneum, e.g. psoriasis.
+VIVA2: What is acantholysis? → Keratinocytes lose cohesion as desmosomes fail; pemphigus.
+VIVA3: What is the Auspitz sign? → Pinpoint bleeding when psoriatic scale is lifted.
+VIVA4: What is the Koebner phenomenon? → New lesions at sites of trauma; psoriasis, lichen planus.
+VIVA5: What are Wickham striae? → White lines on lichen planus papules (hypergranulosis).
+VIVA6: What is the Nikolsky sign? → Epidermis shears off with sideways pressure; pemphigus.
+VIVA7: What is a ‘row of tombstones’? → Basal cells left on the BM in a pemphigus blister floor.
+VIVA8: What is a target lesion? → Red ring with a pale or blistered centre; erythema multiforme.
+VIVA9: What is peripheral palisading? → Nuclei lined up at the edge of basal cell carcinoma nests.
+VIVA10: Three IHC markers of melanoma? → S-100 (or SOX10), HMB-45, Melan-A.
+VIVA11: What is Breslow thickness? → Granular layer to deepest tumour cell in mm; key prognostic factor.
+VIVA12: Radial vs vertical growth? → Radial: sideways, cannot metastasise. Vertical: dermal nodule, can.

@@ -166,9 +166,11 @@ figcaption b{ color:var(--a); }
 /* ---------- exam sections ---------- */
 .exam-zone{ margin-top:6mm; }
 .exam-zone > .zone-title:first-child{ margin-top:0; }
-.zone-title{ display:flex; align-items:center; gap:3mm; margin:5mm 0 3mm; padding:2.2mm 3mm; background:var(--ink); color:#fff;
-             font-family:var(--head); font-weight:600; font-size:12.5pt; border-radius:1.4mm; break-after:avoid; }
-.zone-title .tag{ font-family:var(--ui); font-size:7.6pt; font-weight:700; letter-spacing:1pt; background:var(--a); padding:.8mm 2mm; border-radius:1mm; }
+.zone-title{ display:block; margin:5mm 0 3mm; padding:2.2mm 3mm; background:var(--ink); color:#fff;
+             font-family:var(--head); font-weight:600; font-size:12.5pt; border-radius:1.4mm; break-inside:avoid; page-break-inside:avoid; }
+/* keep-with-next without break-after:avoid (which makes Chromium push whole grids): reserve 38 mm under the bar */
+.zone-title::after{ content:""; display:block; height:38mm; margin-bottom:-38mm; }
+.zone-title .tag{ display:inline-block; vertical-align:2px; margin-right:3mm; font-family:var(--ui); font-size:7.6pt; font-weight:700; letter-spacing:1pt; background:var(--a); padding:.8mm 2mm; border-radius:1mm; }
 .zone-title.a{ background:var(--a); } .zone-title.a .tag{ background:var(--ink); }
 
 .seq{ margin:0 0 4.2mm; break-inside:avoid; border:.8pt solid var(--g20); border-radius:1.6mm; overflow:hidden; }

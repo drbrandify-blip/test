@@ -1,0 +1,514 @@
+
+=== ch01 Oral Cavity, Salivary Glands &amp; Oesophagus ===
+MCQ1: A 50-year-old naswar user has a white patch on the buccal mucosa that cannot be wiped off. The most appropriate next step is:
+  A. Biopsy of the lesion | B. Antifungal treatment and review | C. Reassurance only | D. Serology for EBV | E. Wide surgical excision without biopsy
+  KEY A — Leukoplakia is premalignant until histology excludes dysplasia.
+MCQ2: A 28-year-old supari chewer cannot open his mouth fully; the buccal mucosa is blanched with palpable vertical bands. The diagnosis is:
+  A. Leukoplakia | B. Sjögren syndrome | C. Oral submucous fibrosis | D. Lichen planus | E. Candidiasis
+  KEY C — Areca nut → collagen deposition → trismus and blanching (OSMF).
+MCQ3: p16 immunostaining in an oropharyngeal squamous carcinoma is used as a marker of:
+  A. EBV infection | B. Tobacco exposure | C. TP53 mutation | D. HPV infection | E. Areca nut exposure
+  KEY D — HPV E7 inactivates RB, causing p16 over-expression.
+MCQ4: A parotid tumour shows a double layer of oncocytic epithelial cells lining cysts over a lymphoid stroma with germinal centres. The patient is a 60-year-old smoker. Diagnosis?
+  A. Pleomorphic adenoma | B. Mucoepidermoid carcinoma | C. Adenoid cystic carcinoma | D. Acinic cell carcinoma | E. Warthin tumour
+  KEY E — Oncocytic double layer + lymphoid stroma = Warthin tumour.
+MCQ5: The commonest primary malignant tumour of the salivary glands is:
+  A. Mucoepidermoid carcinoma | B. Adenoid cystic carcinoma | C. Carcinoma ex pleomorphic adenoma | D. Squamous cell carcinoma | E. Lymphoma
+  KEY A — Squamous, mucous and intermediate cells; t(11;19).
+MCQ6: A palatal tumour with cribriform nests of small dark cells shows extensive perineural invasion. Which fusion gene is characteristic?
+  A. CRTC1–MAML2 | B. MYB–NFIB | C. PLAG1 rearrangement | D. BCR–ABL | E. EWS–FLI1
+  KEY B — Adenoid cystic carcinoma: t(6;9) MYB–NFIB.
+MCQ7: A man has dysphagia to both solids and liquids, regurgitation of undigested food and a bird-beak narrowing on barium swallow. The basic defect is:
+  A. Mucosal ring at the squamocolumnar junction | B. Squamous cell carcinoma of the middle third | C. Loss of inhibitory neurons of the myenteric plexus | D. Eosinophilic infiltration of the mucosa | E. Herniation of the fundus beside the oesophagus
+  KEY C — Achalasia: loss of NO/VIP neurons → LES fails to relax.
+MCQ8: After a night of heavy drinking and repeated retching, a 25-year-old vomits fresh blood. Endoscopy will most likely show:
+  A. Dilated submucosal veins | B. Barrett mucosa | C. A transmural rupture with mediastinitis | D. Longitudinal mucosal tears at the GE junction | E. Punched-out ulcers
+  KEY D — Mallory–Weiss: longitudinal mucosal tears; heal.
+MCQ9: An atopic young man presents with food impaction. Endoscopy shows rings throughout the oesophagus; biopsy shows 40 eosinophils per high-power field. He did not improve on proton-pump inhibitors. Diagnosis?
+  A. Reflux oesophagitis | B. Candida oesophagitis | C. Barrett oesophagus | D. Achalasia | E. Eosinophilic oesophagitis
+  KEY E — > 15 eosinophils/HPF, rings, atopy, PPI failure.
+MCQ10: The histological feature required by Robbins to diagnose Barrett oesophagus is:
+  A. Basal zone hyperplasia | B. Intraepithelial eosinophils | C. Goblet cells in columnar epithelium | D. Keratin pearls | E. Ganglion cell loss
+  KEY C — Barrett = intestinal metaplasia with goblet cells.
+MCQ11: A 60-year-old man from Balochistan, a heavy smoker who drinks very hot tea, has progressive dysphagia. The most likely tumour and site are:
+  A. Adenocarcinoma, distal third | B. Squamous cell carcinoma, middle third | C. Adenocarcinoma, upper third | D. Leiomyoma, distal third | E. Squamous cell carcinoma of the gastric cardia
+  KEY B — Hot drinks + tobacco → SCC, mostly middle third.
+MCQ12: Inclusions within endothelial and stromal cells at the base of an oesophageal ulcer in a transplant recipient indicate:
+  A. Cytomegalovirus | B. Herpes simplex virus | C. Candida | D. Pill injury | E. Reflux
+  KEY A — CMV: endothelium/stroma; HSV: squamous cells at the edge.
+VIVA1: Define leukoplakia. → White oral patch that cannot be scraped off or classified as another disease.
+VIVA2: Is oral hairy leukoplakia premalignant? → No: EBV-related lateral-tongue plaque in HIV/immunosuppression.
+VIVA3: What causes oral submucous fibrosis? → Areca nut: arecoline drives collagen synthesis; tannins block collagenase.
+VIVA4: What is field cancerisation? → Carcinogens mutate the whole mucosa, so independent second primaries arise.
+VIVA5: Commonest salivary gland tumour? → Pleomorphic adenoma, usually in the parotid.
+VIVA6: Which salivary tumour is almost confined to the parotid and linked to smoking? → Warthin tumour.
+VIVA7: Which salivary carcinoma is famous for perineural invasion? → Adenoid cystic carcinoma.
+VIVA8: Where do salivary stones form most often, and why? → Submandibular: long uphill duct, thick mucous saliva.
+VIVA9: Define achalasia. → Incomplete LES relaxation, raised LES tone, aperistalsis.
+VIVA10: Name three histological features of reflux oesophagitis. → Intraepithelial eosinophils, basal hyperplasia > 20%, elongated papillae.
+VIVA11: What is a goblet cell in Barrett oesophagus? → Columnar cell with a goblet-shaped blue mucin vacuole: intestinal metaplasia.
+VIVA12: Name four risk factors for oesophageal SCC. → Tobacco, alcohol, very hot drinks, achalasia (also Plummer–Vinson, lye).
+
+=== ch02 Stomach: Gastritis, Peptic Ulcer &amp; Gastric Tumours ===
+MCQ1: An antral biopsy shows neutrophils within pit epithelium, many plasma cells in the lamina propria and a lymphoid follicle with a germinal centre. The most likely cause is:
+  A. Helicobacter pylori | B. Autoimmune gastritis | C. NSAID gastropathy | D. Bile reflux | E. Cytomegalovirus
+  KEY A — Active chronic antral gastritis with follicles = H. pylori.
+MCQ2: The H. pylori enzyme that forms the basis of the breath test is:
+  A. Catalase | B. Urease | C. Protease | D. Lipase | E. Phospholipase
+  KEY B — Urease splits labelled urea, releasing labelled CO2.
+MCQ3: A 60-year-old woman with vitiligo has megaloblastic anaemia and a raised serum gastrin. Gastric biopsy will most likely show:
+  A. Antral neutrophils with curved rods | B. Foveolar hyperplasia only | C. Loss of parietal cells in the body with antral sparing | D. Granulomas in the antrum | E. Signet-ring cells
+  KEY C — Autoimmune gastritis destroys body/fundus parietal cells.
+MCQ4: A patient with 40% burns develops haematemesis on day 3. The lesion is most likely a:
+  A. Cushing ulcer in the stomach | B. Mallory–Weiss tear | C. Chronic gastric ulcer | D. Curling ulcer in the proximal duodenum | E. Dieulafoy lesion
+  KEY D — Curling ulcers follow severe burns and affect the proximal duodenum.
+MCQ5: The commonest complication of peptic ulcer disease is:
+  A. Perforation | B. Gastric outlet obstruction | C. Malignant change | D. Penetration into pancreas | E. Haemorrhage
+  KEY E — Bleeding occurs in 15–20%; perforation causes most deaths.
+MCQ6: The base of an active chronic peptic ulcer, from the lumen outward, shows:
+  A. Necrotic debris, neutrophils, granulation tissue, fibrous scar | B. Fibrous scar, granulation tissue, neutrophils, debris | C. Granulation tissue, debris, scar, neutrophils | D. Neutrophils, scar, debris, granulation tissue | E. Lymphoid follicles, debris, scar, mucosa
+  KEY A — Four zones from the surface: debris → exudate → granulation → scar.
+MCQ7: A gastric ulcer is most likely to be malignant if it has:
+  A. A smooth clean base | B. Folds radiating to its edge | C. Heaped-up, everted margins | D. A round punched-out shape | E. Location on the lesser curvature
+  KEY C — Raised, rolled margins and interrupted folds suggest carcinoma.
+MCQ8: A 35-year-old woman with a strong family history of gastric cancer has a rigid, thickened stomach full of signet-ring cells. The germline mutation is most likely in:
+  A. APC | B. CDH1 | C. TP53 | D. MLH1 | E. KIT
+  KEY B — Hereditary diffuse gastric cancer: E-cadherin (CDH1).
+MCQ9: A woman has bilateral solid ovarian masses composed of mucin-filled signet-ring cells. The most likely primary site is:
+  A. Breast | B. Colon | C. Endometrium | D. Stomach | E. Pancreas
+  KEY D — Krukenberg tumour: classically metastatic diffuse gastric carcinoma.
+MCQ10: Which feature defines early gastric cancer?
+  A. Size under 2 cm | B. Absence of lymph node metastasis | C. Intestinal histological type | D. Absence of ulceration | E. Confinement to mucosa and submucosa
+  KEY E — Depth alone defines it, regardless of nodal status.
+MCQ11: A gastric MALT lymphoma that does not regress after H. pylori eradication most likely carries:
+  A. t(11;18) API2–MALT1 | B. t(14;18) IGH–BCL2 | C. t(8;14) MYC–IGH | D. t(9;22) BCR–ABL | E. t(11;14) CCND1–IGH
+  KEY A — t(11;18) lymphomas are independent of H. pylori antigen drive.
+MCQ12: A gastric wall spindle-cell tumour is positive for CD117 and DOG1. The best targeted drug is:
+  A. Trastuzumab | B. Rituximab | C. Imatinib | D. Octreotide | E. Tamoxifen
+  KEY C — GIST: KIT tyrosine kinase inhibitor imatinib.
+MCQ13: Small gastric nodules showing uniform cells with salt-and-pepper chromatin, positive for chromogranin, arise in a patient with autoimmune gastritis. They are driven by:
+  A. H. pylori | B. KIT mutation | C. EBV | D. Hypergastrinaemia | E. CDH1 loss
+  KEY D — Achlorhydria → high gastrin → ECL hyperplasia → NET.
+MCQ14: A left supraclavicular lymph node enlarged by metastatic adenocarcinoma in a patient with weight loss is called:
+  A. Irish node | B. Sister Mary Joseph nodule | C. Krukenberg node | D. Blumer shelf | E. Virchow node
+  KEY E — Virchow node may be the first sign of an occult gastric cancer.
+VIVA1: Name four gastric mucosal defences. → Mucus, bicarbonate, epithelial barrier with restitution, blood flow (all supported by prostaglandins).
+VIVA2: How do NSAIDs cause ulcers? → COX inhibition lowers prostaglandins, so mucus, bicarbonate and blood flow fall; also direct injury.
+VIVA3: What is an erosion? → Loss of surface epithelium that does not cross the muscularis mucosae.
+VIVA4: Where do you find H. pylori in a biopsy? → In surface mucus over antral epithelium and in gastric pits; not invading tissue.
+VIVA5: Which stains show H. pylori best? → Giemsa, Warthin–Starry silver, or immunohistochemistry.
+VIVA6: Why is gastrin high in autoimmune gastritis? → Achlorhydria removes acid feedback, so antral G cells oversecrete gastrin.
+VIVA7: What is the commonest site of peptic ulcer? → First part of the duodenum, anterior wall, within a few cm of the pylorus.
+VIVA8: Which complication of peptic ulcer kills most patients? → Perforation (about two-thirds of ulcer deaths).
+VIVA9: Define linitis plastica. → Diffuse-type gastric carcinoma making the wall thick, rigid and leather-bottle-like.
+VIVA10: What is a signet-ring cell? → Tumour cell with intracytoplasmic mucin pushing the nucleus to the periphery.
+VIVA11: What is a Sister Mary Joseph nodule? → Periumbilical subcutaneous metastasis of an abdominal or pelvic cancer, classically gastric.
+VIVA12: Cell of origin of GIST? → Interstitial cells of Cajal; KIT (CD117) positive.
+VIVA13: What is a lymphoepithelial lesion? → Neoplastic B cells infiltrating and destroying gastric glands: hallmark of MALT lymphoma.
+
+=== ch03 Malabsorption &amp; Inflammatory Bowel Disease ===
+MCQ1: A 30-year-old woman has bulky, foul-smelling floating stools. Faecal fat is high; the D-xylose test is normal. The defect most likely lies in:
+  A. Intraluminal digestion (pancreas or bile) | B. Brush-border lactase | C. Enterocyte chylomicron assembly | D. Lacteal drainage | E. Ileal B12 absorption
+  KEY A — Normal D-xylose means the mucosa absorbs; the problem is digestion in the lumen.
+MCQ2: The HLA alleles almost always present in coeliac disease are:
+  A. HLA-B27 and HLA-B51 | B. HLA-DQ2 and HLA-DQ8 | C. HLA-DR3 and HLA-DR4 only | D. HLA-A3 and HLA-B14 | E. HLA-DR2 and HLA-DR15
+  KEY B — DQ2/DQ8 present gliadin to CD4+ T cells; absence excludes the disease.
+MCQ3: Which enzyme deamidates gliadin, increasing its affinity for HLA molecules?
+  A. Lactase | B. Trypsin | C. Tissue transglutaminase | D. Enterokinase | E. Pepsin
+  KEY C — tTG is also the target of the most sensitive serological test.
+MCQ4: The earliest histological change in coeliac disease is:
+  A. Total villous atrophy | B. Crypt abscesses | C. Non-caseating granulomas | D. Intraepithelial lymphocytosis | E. Foamy macrophages
+  KEY D — IEL increase precedes crypt hyperplasia and villous atrophy.
+MCQ5: The malignancy most characteristic of long-standing coeliac disease is:
+  A. MALT lymphoma | B. Burkitt lymphoma | C. Gastric adenocarcinoma | D. Carcinoid tumour | E. Enteropathy-associated T-cell lymphoma
+  KEY E — EATL arises from intraepithelial T lymphocytes.
+MCQ6: A small-bowel biopsy shows lamina propria packed with foamy macrophages containing PAS-positive, diastase-resistant granules that are acid-fast negative. The patient has arthralgia and weight loss. Diagnosis?
+  A. Mycobacterium avium complex | B. Abetalipoproteinaemia | C. Whipple disease | D. Coeliac disease | E. Tropical sprue
+  KEY C — T. whipplei; MAC would be acid-fast positive.
+MCQ7: An infant with steatorrhoea has enterocytes with clear lipid vacuoles and acanthocytes in the blood. The defective protein is:
+  A. Microsomal triglyceride transfer protein | B. Lactase | C. CFTR | D. Tissue transglutaminase | E. NOD2
+  KEY A — Abetalipoproteinaemia: MTTP mutation, no apoB lipoproteins.
+MCQ8: A man who returned from a long stay in the tropics has chronic diarrhoea and megaloblastic anaemia. Biopsies show villous blunting in jejunum and ileum. The best treatment is:
+  A. Gluten-free diet | B. Broad-spectrum antibiotic plus folic acid | C. Pancreatic enzyme supplements | D. Corticosteroids | E. Lactose-free diet
+  KEY B — Tropical sprue involves the whole small bowel and responds to antibiotics + folate.
+MCQ9: Which feature favours Crohn disease over ulcerative colitis?
+  A. Continuous involvement from the rectum | B. Toxic megacolon | C. Inflammation limited to the mucosa | D. Transmural inflammation with fistulae | E. Marked pseudopolyps
+  KEY D — Transmural disease causes fissures, fistulae and strictures.
+MCQ10: A colectomy specimen shows continuous disease from the rectum to the splenic flexure with broad shallow ulcers and pseudopolyps; the wall is thin. Which is true of this condition?
+  A. Granulomas are seen in about a third | B. Smoking is a strong risk factor | C. It recurs in the remaining bowel after colectomy | D. Perianal fistulae are typical | E. It is associated with primary sclerosing cholangitis
+  KEY E — Ulcerative colitis: PSC association; colectomy cures the bowel disease.
+MCQ11: A gene whose loss-of-function variants impair sensing of bacterial peptidoglycan and predispose to Crohn disease is:
+  A. APC | B. NOD2 | C. CDH1 | D. HLA-B27 | E. MTTP
+  KEY B — NOD2 activates NF-κB in response to muramyl dipeptide.
+MCQ12: After a course of cephalosporins, an elderly inpatient has watery diarrhoea and fever. Colonoscopy shows yellow-white plaques. Biopsy will most likely show:
+  A. Flask-shaped ulcers with trophozoites | B. Caseating granulomas | C. Volcano-like eruption of neutrophils, mucin and fibrin from damaged crypts | D. Transmural lymphoid aggregates | E. Foamy macrophages in the lamina propria
+  KEY C — C. difficile pseudomembranous colitis.
+MCQ13: Ileocaecal ulcers that run transversely around the bowel, with confluent caseating granulomas, suggest:
+  A. Typhoid fever | B. Crohn disease | C. Amoebiasis | D. Yersiniosis | E. Intestinal tuberculosis
+  KEY E — TB ulcers follow circumferential lymphatics; typhoid ulcers are longitudinal.
+MCQ14: The risk of colitis-associated carcinoma is LEAST influenced by:
+  A. Duration of colitis | B. Extent of colitis | C. Coexisting primary sclerosing cholangitis | D. Patient’s blood group | E. Severity of active inflammation
+  KEY D — Duration, extent, activity and PSC drive the risk.
+VIVA1: Define steatorrhoea. → Excess fat in stool (over about 7 g/day): pale, bulky, greasy, foul, floating stools.
+VIVA2: Name the four phases of absorption. → Intraluminal digestion, terminal (brush-border) digestion, transepithelial transport, lymphatic transport.
+VIVA3: Which cereals contain toxic gluten? → Wheat, barley and rye.
+VIVA4: Most sensitive serological test for coeliac disease? → IgA anti-tissue transglutaminase (check total IgA first).
+VIVA5: Where is the biopsy taken in coeliac disease? → Second part of duodenum or proximal jejunum.
+VIVA6: Skin disease associated with coeliac disease? → Dermatitis herpetiformis.
+VIVA7: Why is the biopsy normal in lactase deficiency? → The defect is biochemical in the brush-border enzyme, not structural.
+VIVA8: Causative organism of Whipple disease? → Tropheryma whipplei, a Gram-positive actinomycete.
+VIVA9: What is creeping fat? → Mesenteric fat wrapping around the serosa of bowel affected by Crohn disease.
+VIVA10: What is a pseudopolyp? → An island of regenerating mucosa between ulcers, typical of ulcerative colitis.
+VIVA11: What is toxic megacolon? → Acute colonic dilatation in severe colitis from muscle and nerve damage; risk of perforation.
+VIVA12: Which ulcer is longitudinal: typhoid or TB? → Typhoid (over Peyer patches); TB ulcers are transverse.
+VIVA13: When does surveillance colonoscopy start in UC? → About 8 years after onset; at diagnosis if PSC coexists.
+
+=== ch04 Intestinal Polyps &amp; Colorectal Carcinoma ===
+MCQ1: The commonest site of distant haematogenous metastasis from colonic carcinoma is the:
+  A. Liver | B. Lung | C. Bone | D. Brain | E. Adrenal
+  KEY A — Venous drainage via the portal vein delivers tumour cells to the liver first.
+MCQ2: Serum CEA in colorectal carcinoma is most useful for:
+  A. Population screening | B. Diagnosing early cancer | C. Distinguishing adenoma from carcinoma | D. Identifying Lynch syndrome | E. Detecting recurrence after resection
+  KEY E — CEA lacks sensitivity and specificity for diagnosis; a rising level after surgery signals recurrence.
+MCQ3: A 15-year-old boy has hundreds of colonic adenomas at colonoscopy. His father died of colon cancer at 34. Which gene is most likely mutated?
+  A. MLH1 | B. APC | C. STK11 | D. SMAD4 | E. MUTYH
+  KEY B — Autosomal dominant inheritance with ≥ 100 adenomas = classic FAP (APC, 5q21).
+MCQ4: A girl of 10 has dark macules on her lips and an intussusception caused by a polyp with branching bands of smooth muscle. The mutated gene is:
+  A. STK11 | B. PTEN | C. APC | D. BMPR1A | E. MSH2
+  KEY A — Peutz–Jeghers syndrome: STK11 (LKB1); arborising smooth muscle.
+MCQ5: Which feature of a colonic adenoma correlates best with the risk that it contains invasive carcinoma?
+  A. Presence of a stalk | B. Tubular architecture | C. Size | D. Location in the rectum | E. Age of the patient
+  KEY C — Size is the most important; nearly 40% of adenomas over 4 cm contain cancer.
+MCQ6: A 44-year-old woman has a mucinous carcinoma of the ascending colon with microsatellite instability. Her mother had endometrial carcinoma at 47. The germline defect most likely involves:
+  A. APC | B. TP53 | C. KRAS | D. MSH2 | E. BRAF
+  KEY D — Lynch syndrome: mismatch-repair genes (MSH2, MLH1); endometrium is the commonest extracolonic site.
+MCQ7: The earliest genetic event in the classic adenoma–carcinoma sequence is:
+  A. KRAS activation | B. TP53 loss | C. SMAD4 loss | D. Telomerase activation | E. Loss of APC
+  KEY E — APC loss starts the sequence; TP53 loss marks the step to invasion.
+MCQ8: A 70-year-old woman with a large rectal villous adenoma has watery mucous diarrhoea and a serum potassium of 2.8 mmol/L. The best explanation is:
+  A. Secretion of mucus rich in protein and potassium | B. Chronic bleeding from the tumour | C. Partial obstruction with overflow | D. Aldosterone secretion by the tumour | E. Bacterial overgrowth
+  KEY A — Large villous adenomas can secrete K⁺- and protein-rich mucus.
+MCQ9: A flat 1.5 cm right-colon polyp shows serrated crypts extending to the crypt base, with dilated, boot-shaped crypts and no cytological dysplasia. It is best classified as:
+  A. Hyperplastic polyp with no malignant potential | B. Juvenile polyp | C. Sessile serrated lesion | D. Tubular adenoma | E. Inflammatory pseudopolyp
+  KEY C — Full-length serration with a dilated, laterally growing base = sessile serrated lesion; premalignant.
+MCQ10: A 72-year-old man has fatigue and iron-deficiency anaemia but no change in bowel habit. A colonic carcinoma is most likely located in the:
+  A. Rectum | B. Caecum and ascending colon | C. Sigmoid colon | D. Descending colon | E. Anal canal
+  KEY B — Right-sided tumours are exophytic, bleed occultly and rarely obstruct.
+MCQ11: A 30-year-old man has multiple colonic adenomas, an osteoma of the mandible and a desmoid tumour of the abdominal wall. The diagnosis is:
+  A. Turcot syndrome | B. Gardner syndrome | C. Peutz–Jeghers syndrome | D. Cowden syndrome | E. Lynch syndrome
+  KEY B — Gardner = FAP + osteomas, epidermoid cysts, desmoids, dental anomalies.
+MCQ12: The most important prognostic factor in a resected colorectal carcinoma is:
+  A. Tumour diameter | B. Histological grade alone | C. Site within the colon | D. Depth of invasion and lymph node status | E. Pre-operative CEA
+  KEY D — Stage (depth of invasion and nodal metastasis) outweighs all other factors.
+VIVA1: Define a polyp. → A mass projecting above the mucosal surface into the lumen; sessile or pedunculated.
+VIVA2: Which serrated polyp has no malignant potential? → Hyperplastic polyp: left colon, serration confined to the upper crypt, no dysplasia.
+VIVA3: What is the hallmark of an adenoma? → Epithelial dysplasia: crowded, elongated, hyperchromatic, stratified nuclei with loss of mucin.
+VIVA4: How many adenomas define classic FAP? → At least 100.
+VIVA5: Why is APC called the gatekeeper? → It controls β-catenin; its loss is the first step that lets crypt cells proliferate.
+VIVA6: Name the genes of Lynch syndrome. → DNA mismatch-repair genes: MSH2 and MLH1 mostly; MSH6 and PMS2.
+VIVA7: Commonest extracolonic cancer in Lynch syndrome? → Endometrial carcinoma.
+VIVA8: What is a napkin-ring carcinoma? → Annular, encircling carcinoma of the left colon that narrows the lumen and obstructs.
+VIVA9: What is pseudo-invasion? → Adenomatous glands displaced into the stalk of a twisted polyp; mimics invasive carcinoma.
+VIVA10: What does Dukes C mean? → Lymph node metastasis, whatever the depth (TNM stage III).
+VIVA11: Which bacteraemia should prompt a colonoscopy? → Streptococcus gallolyticus (S. bovis) bacteraemia or endocarditis.
+VIVA12: Is CEA a screening test? → No. It is insensitive for early cancer and raised in smokers, IBD and cirrhosis; used for follow-up.
+
+=== ch05 Jaundice &amp; Viral Hepatitis ===
+MCQ1: A child with hereditary spherocytosis is jaundiced. Which urine finding is expected?
+  A. Bilirubin present, urobilinogen absent | B. Bilirubin absent, urobilinogen increased | C. Bilirubin present, urobilinogen increased | D. Bilirubin absent, urobilinogen absent | E. Haemoglobinuria with bilirubinuria
+  KEY B — Unconjugated bilirubin cannot enter urine (acholuric); extra pigment reaching the gut raises urobilinogen.
+MCQ2: A 21-year-old student becomes mildly yellow after fasting during Ramadan. Total bilirubin 2.8 mg/dL, almost all unconjugated; Hb, reticulocytes and liver enzymes are normal. The underlying defect is:
+  A. Absent MRP2 | B. Haemolysis | C. Reduced UGT1A1 activity | D. Bile duct obstruction | E. Absent UGT1A1
+  KEY C — Gilbert syndrome: mild, fasting-induced unconjugated hyperbilirubinaemia.
+MCQ3: A liver biopsy from a young woman with mild conjugated hyperbilirubinaemia is jet black, with coarse dark granules in hepatocytes. The defective protein is:
+  A. UGT1A1 | B. ATP7B | C. HFE | D. MRP2 | E. Ferroportin
+  KEY D — Dubin–Johnson syndrome: failure of canalicular export of bilirubin glucuronides.
+MCQ4: In obstructive jaundice, which finding best distinguishes it from hepatocellular jaundice?
+  A. Prolonged PT that corrects with parenteral vitamin K | B. Raised conjugated bilirubin | C. Bilirubin in urine | D. Raised ALT | E. Low serum albumin
+  KEY A — Fat-soluble vitamin K is malabsorbed but the liver can still use it; a damaged liver cannot.
+MCQ5: A patient recovering from acute hepatitis B is negative for HBsAg and anti-HBs. The only positive marker is:
+  A. HBeAg | B. IgG anti-HBc alone | C. HBV DNA | D. Anti-HBs | E. IgM anti-HBc
+  KEY E — Window period: HBsAg has gone, anti-HBs not yet detectable.
+MCQ6: A nursing student’s serology shows anti-HBs positive; HBsAg and anti-HBc negative. She is:
+  A. Immune after vaccination | B. In the window period | C. A chronic carrier | D. Recovered from natural infection | E. Acutely infected
+  KEY A — Vaccine contains only HBsAg, so only anti-HBs appears.
+MCQ7: Chronic hepatitis B is defined by persistence of which marker for more than 6 months?
+  A. Anti-HBs | B. HBsAg | C. IgM anti-HBc | D. Anti-HBe | E. IgG anti-HAV
+  KEY B — HBsAg beyond 6 months means chronic infection.
+MCQ8: Ground-glass hepatocytes in a liver biopsy owe their appearance to:
+  A. Glycogen | B. Fat droplets | C. Endoplasmic reticulum packed with HBsAg | D. Copper | E. Mallory–Denk bodies
+  KEY C — Finely granular cytoplasm of HBsAg-laden ER; stains with orcein.
+MCQ9: A liver biopsy shows portal lymphoid follicles, bile-duct injury and scattered macrovesicular fat. The most likely cause is:
+  A. Hepatitis A | B. Hepatitis E | C. Alcohol | D. Hepatitis C | E. Gilbert syndrome
+  KEY D — The classic triad of chronic HCV.
+MCQ10: During a waterborne epidemic, a woman in her third trimester develops fulminant hepatitis. The likely virus is:
+  A. HAV | B. HCV | C. HDV | D. HBV | E. HEV
+  KEY E — HEV mortality approaches 20% in pregnant women.
+MCQ11: Acidophil (Councilman) bodies in acute viral hepatitis represent:
+  A. Viral inclusions | B. Apoptotic hepatocytes | C. Hyaline in alcoholic injury | D. Bile plugs | E. Kupffer cells with debris
+  KEY B — Shrunken, eosinophilic hepatocytes dying by apoptosis.
+MCQ12: The morphological hallmark that separates chronic from acute viral hepatitis is:
+  A. Interface hepatitis with portal-based fibrosis | B. Ballooning degeneration | C. Cholestasis | D. Kupffer cell hyperplasia | E. Lobular disarray
+  KEY A — Chronic hepatitis is portal-centred, erodes the limiting plate and lays down fibrosis.
+VIVA1: At what level is jaundice clinically visible? → Serum bilirubin above about 2.0–2.5 mg/dL; first seen in the sclerae.
+VIVA2: Which enzyme conjugates bilirubin? → UGT1A1 (bilirubin uridine diphosphate-glucuronosyltransferase) in the hepatocyte ER.
+VIVA3: Why is haemolytic jaundice acholuric? → Unconjugated bilirubin is albumin-bound and water-insoluble, so it is not filtered into urine.
+VIVA4: What causes kernicterus? → Free unconjugated bilirubin crossing the immature blood–brain barrier and staining basal ganglia.
+VIVA5: Why are stools pale in obstruction? → No bilirubin reaches the gut, so no stercobilin forms.
+VIVA6: Which hereditary jaundice gives a black liver? → Dubin–Johnson syndrome (MRP2 defect).
+VIVA7: Which hepatitis virus has a DNA genome? → Hepatitis B (partially double-stranded DNA, hepadnavirus).
+VIVA8: Marker of HBV replication and infectivity? → HBeAg (and HBV DNA).
+VIVA9: What is the window period? → Interval after HBsAg disappears and before anti-HBs appears; only IgM anti-HBc is positive.
+VIVA10: Why is there no vaccine for HCV? → Its envelope proteins mutate constantly (quasispecies), escaping neutralising antibodies.
+VIVA11: What is interface hepatitis? → Portal inflammation crossing the limiting plate and destroying periportal hepatocytes; hallmark of chronic hepatitis.
+VIVA12: Grade vs stage? → Grade = necroinflammatory activity; stage = extent of fibrosis up to cirrhosis.
+
+=== ch06 Cirrhosis, Haemochromatosis &amp; Hepatocellular Carcinoma ===
+MCQ1: The cell chiefly responsible for collagen deposition in cirrhosis is the:
+  A. Kupffer cell | B. Hepatic stellate cell | C. Sinusoidal endothelial cell | D. Cholangiocyte | E. Hepatocyte
+  KEY B — Activated stellate (Ito) cells become collagen-secreting myofibroblasts.
+MCQ2: A cirrhotic man vomits a large amount of fresh blood. The most likely source is:
+  A. Oesophageal varices | B. Mallory–Weiss tear | C. Duodenal ulcer | D. Gastric carcinoma | E. Rectal varices
+  KEY A — Portosystemic shunting at the oesophagogastric junction; rupture causes massive haematemesis.
+MCQ3: Spider angiomas, palmar erythema and gynaecomastia in a cirrhotic man are due to:
+  A. Hypoalbuminaemia | B. Portal hypertension | C. Hyperammonaemia | D. Hyperoestrogenism | E. Vitamin K deficiency
+  KEY D — The failing liver cannot metabolise oestrogens.
+MCQ4: A cirrhotic patient becomes oliguric. Urine sodium is under 10 mmol/L and urine sediment is bland; renal biopsy is normal. The diagnosis is:
+  A. Acute tubular necrosis | B. Membranoproliferative GN | C. Hepatorenal syndrome | D. Renal vein thrombosis | E. Pyelonephritis
+  KEY C — Functional renal failure from renal vasoconstriction; the kidneys are structurally normal.
+MCQ5: Ascitic fluid in a patient with abdominal distension gives a serum–ascites albumin gradient of 1.8 g/dL. The most likely cause is:
+  A. Tuberculous peritonitis | B. Peritoneal carcinomatosis | C. Pancreatic ascites | D. Nephrotic syndrome | E. Cirrhosis with portal hypertension
+  KEY E — SAAG ≥ 1.1 g/dL indicates portal hypertension.
+MCQ6: A liver biopsy shows ballooned hepatocytes with ropy eosinophilic cytoplasmic inclusions surrounded by neutrophils. The inclusions are composed of:
+  A. HBsAg | B. Keratin 8 and 18 | C. α1-antitrypsin | D. Copper-binding protein | E. Lipofuscin
+  KEY B — Mallory–Denk bodies: aggregated intermediate filaments, typical of alcoholic hepatitis.
+MCQ7: Hereditary haemochromatosis caused by HFE mutation results in excess iron absorption because of:
+  A. Increased transferrin synthesis | B. Loss of ferroportin | C. Decreased hepcidin | D. Increased erythropoietin | E. Defective ceruloplasmin
+  KEY C — Low hepcidin leaves ferroportin active on enterocytes.
+MCQ8: The stain that best demonstrates haemosiderin in a liver biopsy is:
+  A. PAS with diastase | B. Rhodanine | C. Congo red | D. Prussian blue | E. Ziehl–Neelsen
+  KEY D — Perls Prussian blue turns ferric iron blue.
+MCQ9: A 15-year-old with tremor and chronic hepatitis has a golden-brown corneal ring. Which finding is expected?
+  A. Low serum ceruloplasmin | B. High transferrin saturation | C. PAS-positive globules in hepatocytes | D. Raised α-fetoprotein | E. Anti-mitochondrial antibody
+  KEY A — Wilson disease: Kayser–Fleischer ring, low ceruloplasmin, high hepatic copper.
+MCQ10: A man with emphysema and cirrhosis has round PAS-positive, diastase-resistant globules in periportal hepatocytes. The disease is:
+  A. Haemochromatosis | B. α1-antitrypsin deficiency | C. Wilson disease | D. Glycogen storage disease | E. Alcoholic hepatitis
+  KEY B — Misfolded PiZ protein retained in hepatocyte ER; low serum α1-AT causes emphysema.
+MCQ11: A specific TP53 codon 249 mutation in hepatocellular carcinoma points to exposure to:
+  A. Vinyl chloride | B. Thorotrast | C. Oral contraceptives | D. Alcohol | E. Aflatoxin B1
+  KEY E — Aflatoxin from Aspergillus flavus on stored grain and nuts.
+MCQ12: A 24-year-old woman has a large, hard liver mass in a non-cirrhotic liver; AFP is normal. Microscopy shows large eosinophilic cells separated by parallel bands of collagen. The diagnosis is:
+  A. Fibrolamellar carcinoma | B. Hepatoblastoma | C. Hepatocellular adenoma | D. Focal nodular hyperplasia | E. Cholangiocarcinoma
+  KEY A — Young adult, no cirrhosis, oncocytic cells in collagen lamellae; DNAJB1–PRKACA fusion.
+VIVA1: Define cirrhosis. → Diffuse replacement of liver architecture by regenerative nodules surrounded by bridging fibrous septa.
+VIVA2: Size cut-off for micronodular cirrhosis? → Nodules under 3 mm; macronodular above 3 mm.
+VIVA3: What are stellate cells? → Vitamin A-storing cells in the space of Disse that become collagen-producing myofibroblasts in injury.
+VIVA4: What is capillarisation of sinusoids? → Loss of endothelial fenestrae with collagen in the space of Disse, blocking plasma–hepatocyte exchange.
+VIVA5: Four consequences of portal hypertension? → Ascites, portosystemic shunts (varices), congestive splenomegaly, hepatic encephalopathy.
+VIVA6: What is asterixis? → Flapping tremor of outstretched hands in hepatic encephalopathy.
+VIVA7: Why gynaecomastia in cirrhosis? → Hyperoestrogenism: the failing liver cannot inactivate oestrogens.
+VIVA8: Gene and chromosome in hereditary haemochromatosis? → HFE on chromosome 6p; C282Y mutation.
+VIVA9: What is bronze diabetes? → Haemochromatosis: skin pigmentation plus diabetes from pancreatic iron, with cirrhosis.
+VIVA10: Kayser–Fleischer ring? → Copper deposited in Descemet membrane of the cornea in Wilson disease.
+VIVA11: Tumour marker for HCC? → α-Fetoprotein; raised in about half or more, but not specific.
+VIVA12: Most specific microscopic proof that a tumour is hepatocellular? → Bile production by tumour cells (bile in canaliculi).
+
+=== ch07 Gallbladder &amp; Pancreas: Gallstones, Cholecystitis &amp; Pancreatitis ===
+MCQ1: A 42-year-old obese mother of four has recurrent right upper quadrant pain after fatty meals. Ultrasound shows many faceted stones. These stones are most likely composed mainly of:
+  A. Calcium bilirubinate | B. Cholesterol monohydrate | C. Calcium oxalate | D. Uric acid | E. Magnesium ammonium phosphate
+  KEY B — Cholesterol stones: female, fat, fertile, forty; faceted and multiple.
+MCQ2: Black pigment gallstones are most typically associated with:
+  A. Ascaris in the bile ducts | B. Rapid weight loss | C. Oral contraceptive use | D. Chronic haemolysis, e.g. hereditary spherocytosis | E. Obesity
+  KEY D — Excess unconjugated bilirubin from haemolysis precipitates in sterile gallbladder bile.
+MCQ3: Rokitansky–Aschoff sinuses in a cholecystectomy specimen are a feature of:
+  A. Chronic cholecystitis | B. Acute acalculous cholecystitis | C. Choledochal cyst | D. Mucocele only | E. Gallbladder adenocarcinoma
+  KEY A — Mucosal outpouchings through the muscle wall reflect chronic inflammation and raised pressure.
+MCQ4: A patient with 40% burns develops fever and RUQ tenderness on day 6 in ICU. Ultrasound shows a distended gallbladder without stones. The main mechanism is:
+  A. Stone impacted in the cystic duct | B. Salmonella carriage | C. Ischaemia and stasis of the gallbladder | D. IgG4-mediated inflammation | E. Tumour obstructing the neck
+  KEY C — Acalculous cholecystitis: the cystic artery is an end artery; ischaemia leads to gangrene.
+MCQ5: The single most important risk factor for carcinoma of the gallbladder is:
+  A. Hepatitis B infection | B. Alcohol abuse | C. Cigarette smoking | D. Haemochromatosis | E. Gallstones
+  KEY E — Gallstones accompany the great majority of gallbladder carcinomas.
+MCQ6: In acute pancreatitis, the enzyme whose premature activation sets off activation of the other proenzymes is:
+  A. Lipase | B. Trypsin | C. Amylase | D. Elastase | E. Phospholipase A2
+  KEY B — Trypsin activates proelastase, prophospholipase, kallikrein, clotting and complement.
+MCQ7: At autopsy of a patient who died of acute pancreatitis, chalky white foci are seen in the omentum. They are due to:
+  A. Caseous necrosis with dystrophic calcification | B. Coagulative necrosis | C. Amyloid deposits | D. Calcium soaps formed in enzymatic fat necrosis | E. Metastatic calcification from hypercalcaemia
+  KEY D — Lipases release fatty acids that combine with calcium (saponification).
+MCQ8: A 50-year-old with severe acute pancreatitis has serum calcium of 7.0 mg/dL. This finding:
+  A. Reflects calcium trapped in fat necrosis and is a poor prognostic sign | B. Indicates primary hyperparathyroidism | C. Means the attack is mild | D. Is caused by vomiting alone | E. Suggests pancreatic carcinoma
+  KEY A — Persistent hypocalcaemia signals extensive fat necrosis and a severe attack.
+MCQ9: Five weeks after alcoholic acute pancreatitis a man has an epigastric mass; CT shows a 7-cm fluid collection beside the pancreas. Its wall would show:
+  A. Mucinous columnar epithelium | B. Stratified squamous epithelium | C. Cuboidal epithelium with ovarian-type stroma | D. Glycogen-rich serous epithelium | E. Granulation and fibrous tissue without epithelium
+  KEY E — Pseudocyst: no epithelial lining, by definition.
+MCQ10: Which histological picture is characteristic of chronic pancreatitis?
+  A. Haemorrhagic necrosis of acini with neutrophils | B. Fat necrosis with calcium soaps only | C. Loss of acini, fibrosis and relative sparing of islets | D. Selective destruction of islets with insulitis | E. Sheets of malignant glands with perineural invasion
+  KEY C — Exocrine tissue is lost first; islets survive in the scar until late.
+MCQ11: The gene most frequently mutated in pancreatic ductal adenocarcinoma is:
+  A. TP53 | B. KRAS | C. SMAD4 | D. BRCA2 | E. APC
+  KEY B — Activating KRAS mutations occur in more than 90% of cases.
+MCQ12: A 65-year-old smoker has painless progressive jaundice, weight loss and a palpable non-tender gallbladder. The most likely cause is:
+  A. Stone in the common bile duct | B. Acute viral hepatitis | C. Chronic calculous cholecystitis | D. Carcinoma of the head of the pancreas | E. Gilbert syndrome
+  KEY D — Courvoisier law: a distended gallbladder with jaundice suggests malignant obstruction.
+VIVA1: What are the 4 Fs of gallstones? → Female, fat, fertile, forty: classic risk factors for cholesterol stones.
+VIVA2: Which four conditions produce a cholesterol stone? → Cholesterol supersaturation, gallbladder hypomotility, crystal nucleation, and mucus hypersecretion trapping the crystals.
+VIVA3: Black vs brown pigment stones? → Black: sterile gallbladder bile, haemolysis, often radiopaque. Brown: infected ducts, soft and greasy, radiolucent.
+VIVA4: What are Rokitansky–Aschoff sinuses? → Outpouchings of gallbladder mucosa through the muscle coat, seen in chronic cholecystitis.
+VIVA5: What is a porcelain gallbladder? → Chronic cholecystitis with calcification of the wall; it carries an increased risk of carcinoma.
+VIVA6: What is gallstone ileus? → A large stone passes through a cholecystoenteric fistula and obstructs the small bowel, usually at the ileocaecal valve.
+VIVA7: Why does fat necrosis look chalky white? → Released fatty acids bind calcium to form insoluble soaps (saponification).
+VIVA8: Amylase or lipase: which is more specific? → Lipase: it stays raised longer and has fewer non-pancreatic sources.
+VIVA9: Why is hypocalcaemia a bad sign in acute pancreatitis? → It reflects extensive fat necrosis trapping calcium, so the attack is severe.
+VIVA10: Why is a pseudocyst called “pseudo”? → It has no epithelial lining; the wall is granulation and fibrous tissue.
+VIVA11: Genes in hereditary pancreatitis? → PRSS1 (cationic trypsinogen, gain of function) and SPINK1 (trypsin inhibitor, loss of function).
+VIVA12: What is Trousseau sign of malignancy? → Migratory thrombophlebitis caused by tumour procoagulants, classically with pancreatic carcinoma.
+
+=== ch08 Pneumonia &amp; Tuberculosis ===
+MCQ1: A 60-year-old man has sudden fever, rigors, pleuritic pain and rusty sputum. X-ray shows consolidation of the whole right lower lobe. The most likely organism is:
+  A. Mycoplasma pneumoniae | B. Streptococcus pneumoniae | C. Pneumocystis jirovecii | D. Legionella pneumophila | E. Influenza virus
+  KEY B — Pneumococcus is the commonest cause of community-acquired and lobar pneumonia.
+MCQ2: At autopsy a lobe is grey-brown, dry and firm. Alveoli contain fibrin and neutrophils with disintegrating red cells. The stage is:
+  A. Congestion | B. Red hepatisation | C. Grey hepatisation | D. Resolution | E. Organisation
+  KEY C — Red cells break down while the fibrinosuppurative exudate persists.
+MCQ3: A malnourished chronic alcoholic has lobar consolidation and thick, mucoid “red-currant jelly” sputum. The likely organism is:
+  A. Staphylococcus aureus | B. Haemophilus influenzae | C. Pseudomonas aeruginosa | D. Klebsiella pneumoniae | E. Moraxella catarrhalis
+  KEY D — Klebsiella’s viscid capsule gives gelatinous sputum in debilitated alcoholics.
+MCQ4: In Mycoplasma pneumonia, the inflammation is mainly located in the:
+  A. Alveolar septa, with lymphocytes and macrophages | B. Alveolar spaces, with neutrophils | C. Bronchial lumen, with eosinophils | D. Pleural cavity | E. Hilar lymph nodes, with caseation
+  KEY A — Atypical pneumonia is interstitial; alveolar spaces are largely clear.
+MCQ5: Aspiration lung abscess is commoner in the right lung mainly because:
+  A. The right lung is larger | B. The right lung has three lobes | C. The right lung has a better blood supply | D. The left main bronchus is wider | E. The right main bronchus is wider and more vertical
+  KEY E — Aspirated material follows the straighter right main bronchus.
+MCQ6: Within alveolar macrophages, M. tuberculosis survives early infection mainly by:
+  A. Producing a powerful exotoxin | B. Blocking phagolysosome maturation | C. Lysing complement components | D. Antigenic variation of pili | E. Forming spores
+  KEY B — It arrests the phagosome before fusion with lysosomes and multiplies inside.
+MCQ7: The cytokine most essential for activating macrophages to kill M. tuberculosis is:
+  A. IL-4 | B. IL-5 | C. IL-10 | D. TGF-β | E. Interferon-γ
+  KEY E — Th1 cells secrete IFN-γ, which drives phagolysosome fusion and nitric oxide.
+MCQ8: The Ghon complex consists of:
+  A. An apical cavity and pleural effusion | B. Miliary nodules and meningitis | C. A subpleural parenchymal focus and caseous hilar lymph nodes | D. Bronchiectasis and fibrosis | E. An apical scar and calcified pleura
+  KEY C — Ghon focus plus involved hilar nodes = primary complex.
+MCQ9: A man with rheumatoid arthritis develops active TB three months after starting infliximab. The best explanation is that:
+  A. TNF is required to form and maintain granulomas | B. Infliximab raises IgE levels | C. Infliximab is contaminated with mycobacteria | D. Infliximab causes agranulocytosis | E. Infliximab destroys BCG immunity
+  KEY A — TNF blockade breaks down granulomas and reactivates latent TB.
+MCQ10: Secondary tuberculosis characteristically involves the lung apex. The usual explanation is:
+  A. Better lymphatic drainage | B. Highest oxygen tension | C. Greatest number of macrophages | D. Proximity to hilar nodes | E. Thinnest pleura
+  KEY B — Robbins attributes apical localisation probably to high oxygen tension.
+MCQ11: A positive tuberculin (Mantoux) test in an adult indicates:
+  A. Active pulmonary tuberculosis | B. Complete protection against TB | C. Sputum-positive infectious disease | D. Cell-mediated sensitisation from past infection or BCG | E. Humoral immunity to mycobacteria
+  KEY D — It shows T-cell hypersensitivity; it does not separate infection from disease.
+MCQ12: GeneXpert MTB/RIF performed on sputum detects:
+  A. Acid-fast bacilli by fluorescence | B. Antibodies to mycobacterial antigens | C. Interferon-γ release by T cells | D. M. tuberculosis DNA and rpoB mutations for rifampicin resistance | E. Isoniazid resistance through katG mutations
+  KEY D — Cartridge PCR for TB DNA and rifampicin resistance in about 2 hours.
+VIVA1: Define pneumonia. → Infection of the lung parenchyma, producing alveolar exudate (consolidation) or interstitial inflammation.
+VIVA2: Commonest cause of community-acquired pneumonia? → Streptococcus pneumoniae.
+VIVA3: Name the stages of lobar pneumonia. → Congestion, red hepatisation, grey hepatisation and resolution.
+VIVA4: Why is it called hepatisation? → The consolidated lobe is solid, airless and firm like liver.
+VIVA5: Why is bronchopneumonia basal and bilateral? → Secretions gravitate to the lower lobes and infection starts in many bronchioles at once.
+VIVA6: Why is atypical pneumonia ‘atypical’? → Scanty sputum, no consolidation signs, modest WBC; inflammation lies in alveolar septa, not alveolar spaces.
+VIVA7: What is a Ghon complex? → The subpleural Ghon focus of primary TB together with caseous hilar lymph nodes.
+VIVA8: What is a Ranke complex? → A healed Ghon complex that has fibrosed and calcified.
+VIVA9: Which cells form a tubercle? → Epithelioid histiocytes, Langhans giant cells, lymphocytes and fibroblasts around caseous necrosis.
+VIVA10: Why are mycobacteria acid-fast? → Their mycolic acid-rich waxy wall retains carbol fuchsin despite decolorising with acid-alcohol.
+VIVA11: What is miliary TB? → Haematogenous spread producing countless yellow-white foci about 2 mm across, like millet seeds, in lungs or other organs.
+VIVA12: What is a Rasmussen aneurysm? → Dilated pulmonary artery branch in a TB cavity wall; rupture causes massive haemoptysis.
+
+=== ch09 COPD, Asthma &amp; Interstitial Lung Disease ===
+MCQ1: A 58-year-old smoker has progressive dyspnoea. FEV1/FVC is 0.52, TLC is increased and DLCO is reduced. The most likely diagnosis is:
+  A. Asthma | B. Emphysema | C. Idiopathic pulmonary fibrosis | D. Sarcoidosis | E. Kyphoscoliosis
+  KEY B — Obstruction with hyperinflation and low DLCO (lost capillary bed) = emphysema.
+MCQ2: A 34-year-old non-smoker has basal panacinar emphysema and hepatic cirrhosis. The deficient protein normally inhibits:
+  A. Thrombin | B. Neutrophil elastase | C. Plasmin | D. Angiotensin-converting enzyme | E. Pancreatic lipase
+  KEY B — α1-antitrypsin (PiZZ) is the main inhibitor of neutrophil elastase.
+MCQ3: The Reid index is the ratio of:
+  A. Mucous gland layer thickness to wall thickness between epithelium and cartilage | B. Goblet cells to ciliated cells | C. Airway lumen to wall thickness | D. Smooth muscle to cartilage | E. Alveolar to capillary surface area
+  KEY A — Normal about 0.4; raised in chronic bronchitis.
+MCQ4: Charcot–Leyden crystals in the sputum of an asthmatic are derived from:
+  A. Neutrophils | B. Mast cells | C. Eosinophils | D. Shed epithelial cells | E. Mucus glycoproteins
+  KEY C — They are crystalloids of the eosinophil protein galectin-10.
+MCQ5: Curschmann spirals seen in asthma are:
+  A. Crystals of eosinophil protein | B. Fungal hyphae | C. Asbestos fibres coated with iron | D. Whorls of shed epithelium in mucus plugs | E. Laminated calcium concretions
+  KEY D — Spiral casts of shed epithelium within mucus plugs.
+MCQ6: A woman with nasal polyps develops severe bronchospasm after taking aspirin. The mechanism is:
+  A. IgE antibody against aspirin | B. Cyclooxygenase block shunting arachidonic acid to leukotrienes | C. Complement activation by aspirin | D. Direct histamine release from basophils | E. β2-receptor blockade
+  KEY B — Aspirin-sensitive asthma: more leukotrienes, fewer bronchodilator prostaglandins.
+MCQ7: A man with dextrocardia, chronic sinusitis, bronchiectasis and infertility most likely has a defect in:
+  A. CFTR chloride channel | B. α1-antitrypsin | C. Surfactant protein C | D. Fibrillin-1 | E. Dynein arms of cilia
+  KEY E — Kartagener syndrome: primary ciliary dyskinesia.
+MCQ8: The histological hallmark of usual interstitial pneumonia (UIP) is:
+  A. Non-caseating granulomas along lymphatics | B. Uniform interstitial inflammation of the same age | C. Patchy fibrosis with fibroblastic foci beside old collagen | D. Intra-alveolar foamy exudate | E. Hyaline membranes lining alveoli
+  KEY C — Temporal heterogeneity with honeycombing defines UIP/IPF.
+MCQ9: A stone crusher has upper-zone nodules and eggshell calcification of hilar nodes. Biopsy shows whorled hyalinised collagen nodules. The diagnosis is:
+  A. Asbestosis | B. Coal workers’ pneumoconiosis | C. Sarcoidosis | D. Silicosis | E. Hypersensitivity pneumonitis
+  KEY D — Silicotic nodules and eggshell calcification are classic; TB risk is raised.
+MCQ10: A shipyard worker who smokes has lower-lobe fibrosis with ferruginous bodies and calcified pleural plaques. Which malignancy is most strongly potentiated by his smoking?
+  A. Bronchogenic carcinoma | B. Malignant mesothelioma | C. Laryngeal papilloma | D. Hepatic angiosarcoma | E. Bladder carcinoma
+  KEY A — Asbestos and smoking multiply lung cancer risk; smoking does not raise mesothelioma risk.
+MCQ11: A 30-year-old woman has bilateral hilar lymphadenopathy, erythema nodosum and hypercalcaemia; biopsy shows non-caseating granulomas. The hypercalcaemia is due to:
+  A. PTH-related peptide from granulomas | B. Osteolytic bone deposits | C. Calcitriol made by activated granuloma macrophages | D. Primary hyperparathyroidism | E. Milk-alkali syndrome
+  KEY C — Macrophage 1α-hydroxylase converts vitamin D to active calcitriol.
+MCQ12: A farmer develops fever, cough and breathlessness 4–6 hours after handling mouldy hay. Biopsy shows bronchiolocentric interstitial lymphocytes with loose non-necrotising granulomas. The diagnosis is:
+  A. Atopic asthma | B. Silicosis | C. Sarcoidosis | D. Byssinosis | E. Hypersensitivity pneumonitis
+  KEY E — Farmer’s lung: thermophilic actinomycetes; type III and IV reactions in alveoli.
+VIVA1: Define emphysema. → Irreversible enlargement of airspaces distal to the terminal bronchiole with destruction of their walls, without significant fibrosis.
+VIVA2: Which emphysema occurs in smokers? → Centriacinar: respiratory bronchioles enlarged, distal alveoli spared, upper lobes.
+VIVA3: Which genotype causes α1-antitrypsin deficiency? → PiZZ (SERPINA1, chromosome 14): panacinar emphysema of the lower lobes plus liver disease.
+VIVA4: Define chronic bronchitis. → Persistent productive cough for at least 3 consecutive months in at least 2 consecutive years.
+VIVA5: What is the normal Reid index? → About 0.4; it rises in chronic bronchitis as mucous glands enlarge.
+VIVA6: Pink puffer vs blue bloater? → Emphysema: thin, breathless, well oxygenated. Chronic bronchitis: cyanosed, hypercapnic, oedematous, cor pulmonale.
+VIVA7: What are Curschmann spirals? → Whorls of shed epithelium in mucus plugs, seen in asthma.
+VIVA8: Name the Th2 cytokines in asthma and their roles. → IL-4: IgE; IL-5: eosinophils; IL-13: mucus secretion and IgE.
+VIVA9: What is Kartagener syndrome? → Primary ciliary dyskinesia with situs inversus, chronic sinusitis and bronchiectasis; male infertility.
+VIVA10: What is a honeycomb lung? → End-stage fibrosis with cystic spaces lined by bronchiolar or type II epithelium.
+VIVA11: What is an asbestos body? → An asbestos fibre coated with iron-containing protein: golden-brown, beaded, Prussian blue positive.
+VIVA12: Define cor pulmonale. → Right ventricular hypertrophy and dilatation from pulmonary hypertension caused by lung, pulmonary vascular or chest wall disease.
+
+=== ch10 Lung Tumours ===
+MCQ1: A 58-year-old heavy smoker has a cavitating central lung mass and a serum calcium of 13.2 mg/dL with low PTH. The hypercalcaemia is best explained by tumour secretion of:
+  A. Parathyroid hormone-related peptide | B. Calcitonin | C. Vitamin D binding protein | D. ACTH | E. Antidiuretic hormone
+  KEY A — SCC secretes PTHrP; native PTH is suppressed.
+MCQ2: A 45-year-old woman who has never smoked has a peripheral lung adenocarcinoma. Which molecular change is she most likely to have, with a tablet treatment available?
+  A. RB1 loss | B. KRAS mutation | C. Activating EGFR mutation | D. SOX2 amplification | E. MYC amplification
+  KEY C — EGFR mutants (women, non-smokers) respond to EGFR TKIs.
+MCQ3: Which microscopic feature best identifies small cell carcinoma of the lung?
+  A. Keratin pearls | B. Prominent cherry-red nucleoli | C. Mucin-filled glands | D. Nuclear moulding with finely granular chromatin | E. Psammoma bodies
+  KEY D — SCLC: scant cytoplasm, moulding, crush artefact.
+MCQ4: A smoker has proximal leg weakness that improves after repeated contraction. The antibodies are directed against:
+  A. Acetylcholine receptors | B. Presynaptic voltage-gated calcium channels | C. Muscle-specific kinase | D. Myelin basic protein | E. Thyroid peroxidase
+  KEY B — Lambert–Eaton syndrome, classically with SCLC.
+MCQ5: A man with an apical lung tumour has pain along the inner arm and ptosis with a small pupil on the same side. The eye signs result from invasion of the:
+  A. Phrenic nerve | B. Recurrent laryngeal nerve | C. Vagus nerve | D. Superior vena cava | E. Cervical sympathetic chain
+  KEY E — Pancoast tumour causing Horner syndrome.
+MCQ6: The organ most frequently involved by blood-borne metastasis from lung carcinoma is the:
+  A. Adrenal gland | B. Spleen | C. Kidney | D. Thyroid | E. Skin
+  KEY A — Adrenals in over half; then liver, brain, bone.
+MCQ7: A 30-year-old non-smoker has recurrent right lower lobe pneumonia. Bronchoscopy shows a smooth polypoid mass in the bronchus; biopsy shows nests of uniform cells with salt-and-pepper chromatin and rare mitoses. Diagnosis:
+  A. Small cell carcinoma | B. Squamous cell carcinoma | C. Bronchial carcinoid tumour | D. Pulmonary hamartoma | E. Adenocarcinoma in situ
+  KEY C — Young non-smoker, polyp, uniform NE cells: carcinoid.
+MCQ8: Which pair of tumour suppressor genes is inactivated in almost all small cell lung carcinomas?
+  A. APC and KRAS | B. BRCA1 and BRCA2 | C. VHL and PTEN | D. TP53 and RB1 | E. NF1 and NF2
+  KEY D — TP53 + RB1 loss is the signature of SCLC.
+MCQ9: A pleural tumour shows tubulopapillary epithelioid cells that stain for calretinin and WT1 but not TTF-1. The diagnosis is:
+  A. Metastatic adenocarcinoma | B. Solitary fibrous tumour | C. Pleural lymphoma | D. Squamous cell carcinoma | E. Malignant mesothelioma
+  KEY E — Calretinin, WT1, CK5/6, D2-40 = mesothelioma.
+MCQ10: Regarding asbestos exposure, which statement is correct?
+  A. Smoking multiplies the risk of mesothelioma | B. Smoking multiplies the risk of lung carcinoma but not of mesothelioma | C. Chrysotile is more carcinogenic than crocidolite | D. Mesothelioma usually follows within 5 years of exposure | E. Pleural plaques are premalignant
+  KEY B — Synergy is for carcinoma only; latency 25–40 years.
+MCQ11: A 2.5 cm peripheral adenocarcinoma grows purely along intact alveolar walls with no stromal invasion. It is classified as:
+  A. Atypical adenomatous hyperplasia | B. Adenocarcinoma in situ | C. Minimally invasive adenocarcinoma | D. Invasive mucinous adenocarcinoma | E. Large cell carcinoma
+  KEY B — AIS: 3 cm or less, pure lepidic growth, no invasion.
+MCQ12: A chest X-ray of a 70-year-old shows multiple round nodules of different sizes in both lungs, mostly peripheral. The most likely diagnosis is:
+  A. Metastatic tumour deposits | B. Multiple hamartomas | C. Bronchial carcinoid | D. Mesothelioma | E. Lobar pneumonia
+  KEY A — Cannonball metastases: commonest lung tumours.
+VIVA1: Commonest histological type of lung cancer? → Adenocarcinoma (also commonest in non-smokers).
+VIVA2: Which type has the strongest link with smoking? → Small cell carcinoma, then squamous cell carcinoma.
+VIVA3: Name two central lung carcinomas. → Squamous cell carcinoma and small cell carcinoma.
+VIVA4: Hallmarks of SCC on a slide? → Keratin pearls and intercellular bridges.
+VIVA5: IHC to prove SCLC? → Chromogranin, synaptophysin, CD56 (TTF-1).
+VIVA6: What is a Pancoast tumour? → Apical tumour: brachial plexus pain plus Horner syndrome.
+VIVA7: Features of Horner syndrome? → Ipsilateral ptosis, miosis, anhidrosis and apparent enophthalmos.
+VIVA8: Commonest paraneoplastic syndrome of SCC lung? → Hypercalcaemia due to PTH-related peptide.
+VIVA9: What is Lambert–Eaton syndrome? → Anti-calcium-channel weakness easing with use; SCLC.
+VIVA10: Typical vs atypical carcinoid? → Atypical: 2–10 mitoses/2 mm² or necrosis; worse.
+VIVA11: What are asbestos bodies? → Iron-coated fibres: golden-brown beaded rods.
+VIVA12: Two markers for mesothelioma? → Calretinin and WT1 (also CK5/6, D2-40).

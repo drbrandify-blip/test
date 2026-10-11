@@ -1,0 +1,512 @@
+
+=== ch11 Anaemias I: Approach, Iron Deficiency, Megaloblastic &amp; Aplastic Anaemia ===
+MCQ1: A 26-year-old woman with menorrhagia has Hb 8.4 g/dL and MCV 63 fL. Which result would confirm depleted iron stores most reliably?
+  A. Raised serum ferritin | B. Low serum ferritin | C. Low TIBC | D. Raised reticulocyte count | E. Raised HbA2
+  KEY B — Low ferritin always means low stores; TIBC is high in IDA.
+MCQ2: A 66-year-old man has iron deficiency anaemia but no visible bleeding and a normal diet. The most important next step is:
+  A. Start oral iron and review in a year | B. Bone marrow aspiration | C. Haemoglobin electrophoresis | D. Serum B12 assay | E. Endoscopy and colonoscopy for occult GI cancer
+  KEY E — In older adults, IDA is GI blood loss (e.g. colon cancer) until proved otherwise.
+MCQ3: Hepcidin lowers plasma iron by:
+  A. Binding ferroportin and causing its degradation | B. Blocking DMT1 in the ileum | C. Increasing ferritin excretion in urine | D. Inhibiting transferrin synthesis | E. Stimulating erythropoietin release
+  KEY A — Ferroportin loss traps iron in enterocytes and macrophages.
+MCQ4: A woman with active rheumatoid arthritis has Hb 9.8 g/dL, MCV 84 fL, low serum iron, low TIBC and high ferritin. The anaemia is due mainly to:
+  A. Occult GI bleeding | B. Folate deficiency | C. Hepcidin-mediated iron sequestration | D. Autoimmune haemolysis | E. β-thalassaemia trait
+  KEY C — Anaemia of chronic disease: IL-6 → hepcidin → iron locked in macrophages.
+MCQ5: A 20-year-old has Hb 11.2 g/dL, MCV 61 fL, RBC 6.1 million/µL, normal RDW and normal ferritin. The best next test is:
+  A. Bone marrow iron stain | B. Serum B12 | C. Coombs test | D. Haemoglobin electrophoresis for HbA2 | E. Osmotic fragility
+  KEY D — Mentzer index 10 (< 13) with normal ferritin suggests β-thalassaemia trait.
+MCQ6: A 68-year-old woman with MCV 116 fL has loss of vibration sense in both feet. Her spinal cord lesion involves the:
+  A. Anterior horn cells | B. Dorsal and lateral columns | C. Spinothalamic tracts only | D. Cerebellar Purkinje cells | E. Dorsal root ganglia only
+  KEY B — Subacute combined degeneration in B12 deficiency.
+MCQ7: Which test best separates vitamin B12 deficiency from folate deficiency?
+  A. Serum homocysteine | B. MCV | C. Hypersegmented neutrophils | D. Serum methylmalonic acid | E. Serum LDH
+  KEY D — MMA rises only in B12 deficiency; homocysteine rises in both.
+MCQ8: A patient on long-term methotrexate develops macrocytic anaemia. The mechanism is:
+  A. Inhibition of dihydrofolate reductase | B. Loss of intrinsic factor | C. Ileal malabsorption of B12 | D. Autoimmune haemolysis | E. Marrow infiltration
+  KEY A — Methotrexate is a folate antagonist that blocks THF regeneration.
+MCQ9: A peripheral smear shows oval macrocytes and neutrophils with six nuclear lobes. The marrow is expected to show:
+  A. Hypocellular fatty marrow | B. Absent erythroid precursors | C. Ring sideroblasts | D. Sheets of lymphoblasts | E. Megaloblasts and giant metamyelocytes
+  KEY E — Megaloblastic marrow: N/C asynchrony, giant metamyelocytes.
+MCQ10: A 19-year-old has pancytopenia, a dry tap on aspiration and a trephine showing 95% fat. Which finding would argue AGAINST aplastic anaemia?
+  A. Petechiae | B. Recurrent infections | C. Massive splenomegaly | D. Low reticulocyte count | E. History of chloramphenicol use
+  KEY C — Splenomegaly is characteristically absent in aplastic anaemia.
+MCQ11: A woman treated for breast cancer has anaemia, teardrop cells, nucleated red cells and myelocytes in her blood. The most likely diagnosis is:
+  A. Myelophthisic anaemia | B. Iron deficiency anaemia | C. Aplastic anaemia | D. Hereditary spherocytosis | E. Anaemia of chronic disease
+  KEY A — Leucoerythroblastic picture + teardrops = marrow infiltration by metastases.
+MCQ12: A child has pancytopenia, short stature, absent thumbs and a renal anomaly. The underlying defect is in:
+  A. Globin chain synthesis | B. Red cell membrane spectrin | C. DNA repair | D. GPI anchor synthesis | E. Intrinsic factor production
+  KEY C — Fanconi anaemia: inherited DNA repair defect causing marrow failure.
+VIVA1: Define anaemia. → Fall in O2-carrying capacity of blood, usually from reduced red cell mass; Hb below range.
+VIVA2: Normal MCV and its formula? → 82–96 fL; Hct divided by RBC count.
+VIVA3: What is RDW and when is it raised? → Variation in red cell size; raised in iron deficiency and megaloblastic anaemia.
+VIVA4: First test to become abnormal in iron deficiency? → Serum ferritin, as stores empty first.
+VIVA5: What are pencil cells? → Thin, elongated hypochromic red cells typical of iron deficiency.
+VIVA6: Plummer–Vinson syndrome? → Iron deficiency, atrophic glossitis and oesophageal webs.
+VIVA7: What does hepcidin do? → Degrades ferroportin, blocking gut absorption and macrophage iron release.
+VIVA8: Why is ferritin high in anaemia of chronic disease? → Iron is trapped in macrophages and ferritin is an acute-phase protein.
+VIVA9: Where and how is B12 absorbed? → Terminal ileum, bound to intrinsic factor, via cubilin receptors.
+VIVA10: Define a hypersegmented neutrophil. → Neutrophil with six or more lobes, or over 5% with five lobes.
+VIVA11: Why no splenomegaly in aplastic anaemia? → Marrow failure without infiltration or extramedullary haematopoiesis; a big spleen suggests another diagnosis.
+VIVA12: What is a leucoerythroblastic picture? → Nucleated red cells plus immature granulocytes in blood: marrow infiltration.
+
+=== ch12 Anaemias II: Haemolytic Anaemias &amp; Thalassaemias ===
+MCQ1: A patient develops fever, back pain and red-brown urine minutes into a blood transfusion. Which finding is expected?
+  A. Raised haptoglobin | B. Splenomegaly | C. Absent serum haptoglobin with haemoglobinuria | D. Spherocytes with negative Coombs test | E. Low reticulocytes and fatty marrow
+  KEY C — ABO mismatch causes complement-mediated intravascular haemolysis.
+MCQ2: A 10-year-old with jaundice and splenomegaly has small dark red cells without central pallor, raised MCHC and a negative direct Coombs test. The most useful confirmatory test is:
+  A. Osmotic fragility (or EMA binding) | B. Hb electrophoresis | C. G6PD assay | D. Sickling test | E. Bone marrow biopsy
+  KEY A — Hereditary spherocytosis: increased osmotic fragility, reduced EMA binding.
+MCQ3: Three days after starting primaquine, a man passes dark urine. Inclusions seen with crystal violet supravital stain are:
+  A. Howell–Jolly bodies | B. Pappenheimer bodies | C. Cabot rings | D. Heinz bodies | E. Basophilic stippling
+  KEY D — Oxidised, precipitated Hb in G6PD deficiency forms Heinz bodies.
+MCQ4: The molecular defect in sickle cell anaemia is:
+  A. Deletion of both β-globin genes | B. Valine replacing glutamic acid at position 6 of β-globin | C. Lysine replacing glutamic acid at position 6 of β-globin | D. Splicing mutation in α-globin | E. Deletion of three α-globin genes
+  KEY B — HbS: Glu6Val; lysine at 6 gives HbC.
+MCQ5: A 3-year-old with sickle cell anaemia suddenly becomes pale and shocked; the spleen has enlarged to the umbilicus. This is:
+  A. Aplastic crisis | B. Vaso-occlusive crisis | C. Acute chest syndrome | D. Hyperhaemolytic crisis | E. Splenic sequestration crisis
+  KEY E — Young children with intact spleens can pool much of their blood in the spleen.
+MCQ6: An adult with sickle cell anaemia has Howell–Jolly bodies. He is most at risk of severe infection by:
+  A. Streptococcus pneumoniae | B. Mycobacterium tuberculosis | C. Candida albicans | D. Pneumocystis jirovecii | E. Cytomegalovirus
+  KEY A — Autosplenectomy causes susceptibility to encapsulated bacteria.
+MCQ7: A healthy 22-year-old has Hb 11.8 g/dL, MCV 64 fL, RBC 5.9 million/µL and normal ferritin. The finding that confirms β-thalassaemia trait is:
+  A. HbF 90% | B. HbH inclusions | C. HbA2 5.2% | D. HbS 40% | E. Hb Barts 80%
+  KEY C — Raised HbA2 (4–8%) is the hallmark of β-thal minor.
+MCQ8: Symptoms of β-thalassaemia major usually begin at 6–9 months of age because:
+  A. Maternal antibodies disappear | B. Iron stores from birth are exhausted | C. The spleen matures | D. γ-chain (HbF) production falls and β chains are needed | E. Erythropoietin production starts
+  KEY D — The switch from γ to β chain synthesis exposes the β defect.
+MCQ9: Iron overload occurs in β-thalassaemia intermedia even without transfusion mainly because:
+  A. Haemolysis releases iron into urine | B. Ineffective erythropoiesis suppresses hepcidin | C. Ferroportin is mutated | D. Transferrin is absent | E. Dietary iron intake is high
+  KEY B — Low hepcidin increases gut iron absorption.
+MCQ10: A stillborn fetus has massive oedema and hepatosplenomegaly; most of its haemoglobin is γ4. The genotype is:
+  A. −α/αα | B. −−/αα | C. −−/−α | D. β0/β0 | E. −−/−−
+  KEY E — Loss of all four α genes: Hb Barts hydrops fetalis.
+MCQ11: Two weeks after Mycoplasma pneumonia, a student has anaemia and blue fingertips in the cold. The antibody is most likely:
+  A. IgG warm autoantibody | B. IgE against red cells | C. IgA against band 3 | D. IgM cold agglutinin fixing complement | E. Donath–Landsteiner IgG haemolysin
+  KEY D — Cold agglutinin disease: IgM (anti-I), C3 on cells, acrocyanosis.
+MCQ12: A man with haemoglobinuria and hepatic vein thrombosis has red cells lacking CD55 and CD59. The mutated gene is:
+  A. PIGA | B. JAK2 | C. HFE | D. ANK1 | E. G6PD
+  KEY A — PNH: acquired PIGA mutation blocks GPI anchor synthesis.
+VIVA1: Normal red cell life span? → About 120 days.
+VIVA2: Two signs of intravascular haemolysis? → Haemoglobinuria and haemosiderinuria, with absent haptoglobin.
+VIVA3: Commonest protein defect in HS? → Ankyrin (also spectrin, band 3, band 4.2).
+VIVA4: Why is MCHC raised in HS? → Membrane loss and cell dehydration concentrate the haemoglobin.
+VIVA5: What are bite cells? → Red cells from which splenic macrophages removed Heinz bodies; G6PD deficiency.
+VIVA6: What is favism? → Acute haemolysis after eating fava beans in G6PD deficiency.
+VIVA7: Why are sickle cell infants well at first? → High HbF inhibits HbS polymerisation until about 5–6 months.
+VIVA8: What is autosplenectomy? → Spleen shrunk to a fibrous nubbin by repeated infarcts in sickle cell disease.
+VIVA9: Cause of aplastic crisis? → Parvovirus B19 infecting red cell precursors.
+VIVA10: Crew-cut skull: why? → Marrow expansion widens diploë; new bone forms perpendicular spicules.
+VIVA11: What is HbH? → β4 tetramer in three-gene-deletion α-thalassaemia; golf-ball inclusions.
+VIVA12: Direct vs indirect Coombs? → Direct: antibody on patient’s cells. Indirect: free antibody in patient’s serum.
+
+=== ch13 Leukaemias &amp; Myeloproliferative Neoplasms ===
+MCQ1: A 4-year-old boy has fever, pallor, bone pain and petechiae. The smear shows many small blasts with scant agranular cytoplasm and inconspicuous nucleoli. Which marker best confirms that these are precursor lymphoid cells?
+  A. Myeloperoxidase | B. CD117 | C. TdT | D. Non-specific esterase | E. CD13
+  KEY C — TdT is expressed by pre-B and pre-T lymphoblasts in over 95% of ALL.
+MCQ2: A 32-year-old woman has gum bleeding and ecchymoses. PT and aPTT are prolonged and fibrinogen is low. The marrow is full of heavily granular cells containing bundles of Auer rods. The genetic lesion is:
+  A. t(9;22) | B. t(8;21) | C. inv(16) | D. t(15;17) | E. t(12;21)
+  KEY D — APL: PML–RARA fusion from t(15;17), with DIC.
+MCQ3: The drug that makes the leukaemic cells in the previous patient mature is:
+  A. Imatinib | B. All-trans retinoic acid | C. Rituximab | D. Hydroxyurea | E. Ruxolitinib
+  KEY B — Pharmacological doses of ATRA overcome the PML–RARA block.
+MCQ4: Which finding on a Romanowsky-stained smear establishes that blasts are myeloid?
+  A. Auer rods | B. Smudge cells | C. Döhle bodies | D. Teardrop cells | E. Rouleaux
+  KEY A — Auer rods are aggregates of azurophilic granules found only in myeloid blasts.
+MCQ5: A 68-year-old man has a lymphocyte count of 42,000/µL. The smear shows small mature lymphocytes and many smudge cells. Flow cytometry will most likely show:
+  A. CD10+, CD19+, TdT+ | B. CD5+, CD23−, cyclin D1+ | C. CD3+, CD4+, CD7+ | D. CD13+, CD33+, CD117+ | E. CD5+, CD23+, CD19+
+  KEY E — CLL: B cells that co-express CD5 and CD23.
+MCQ6: The BCR–ABL protein of chronic myeloid leukaemia acts as a:
+  A. Repressor of retinoic acid target genes | B. Constitutively active tyrosine kinase | C. Mitochondrial anti-apoptotic protein | D. Cyclin driving G1 to S transition | E. Defective DNA mismatch-repair enzyme
+  KEY B — Permanent kinase activity drives growth-factor-independent proliferation.
+MCQ7: A 40-year-old man with severe pneumonia has WBC 62,000/µL with many band forms and metamyelocytes. Which finding favours a leukaemoid reaction over CML?
+  A. Basophilia | B. Massive splenomegaly | C. High LAP score with toxic granulation | D. Myelocytes outnumbering metamyelocytes | E. Philadelphia chromosome
+  KEY C — Reactive neutrophils show toxic changes and a high LAP score.
+MCQ8: A 62-year-old man has itching after hot baths, a ruddy face, Hb 20.5 g/dL, platelets 640,000/µL, splenomegaly and a low serum erythropoietin. The most likely mutation is:
+  A. BCR–ABL | B. PML–RARA | C. KIT | D. JAK2 V617F | E. NPM1
+  KEY D — Polycythaemia vera: JAK2 V617F in over 95%; EPO is suppressed.
+MCQ9: The smear shows teardrop cells, nucleated red cells and myelocytes. Marrow aspiration yields a dry tap and the spleen is massive. The diagnosis is:
+  A. Primary myelofibrosis | B. Chronic lymphocytic leukaemia | C. Immune thrombocytopenic purpura | D. Iron deficiency anaemia | E. Acute promyelocytic leukaemia
+  KEY A — Marrow fibrosis gives leukoerythroblastosis, dacrocytes and a dry tap.
+MCQ10: Which is a favourable prognostic feature in childhood ALL?
+  A. Age under 1 year | B. WBC over 100,000/µL | C. t(9;22) | D. Hypodiploidy | E. t(12;21) ETV6–RUNX1
+  KEY E — t(12;21) and hyperdiploidy predict an excellent outcome.
+MCQ11: A 70-year-old has pancytopenia. The marrow is hypercellular with ring sideroblasts, pseudo-Pelger–Huët neutrophils, micromegakaryocytes and 6% blasts. The diagnosis is:
+  A. Acute myeloid leukaemia | B. Aplastic anaemia | C. Myelodysplastic syndrome | D. Vitamin B12 deficiency | E. CML in blast crisis
+  KEY C — Dysplasia in several lineages with blasts below 20% = MDS.
+MCQ12: A 55-year-old with AML has swollen, bleeding gums and nodular skin infiltrates. The blasts are most likely:
+  A. Monoblasts, non-specific esterase positive | B. Lymphoblasts, TdT positive | C. Promyelocytes with t(15;17) | D. Megakaryoblasts with marrow fibrosis | E. Erythroblasts, PAS positive
+  KEY A — Monocytic AML (M4/M5) infiltrates gums and skin; NSE positive.
+VIVA1: Define leukaemia. → A clonal malignant proliferation of haematopoietic cells that replaces the marrow and usually floods the blood.
+VIVA2: What blast count defines AML? → At least 20% myeloid blasts in marrow or blood.
+VIVA3: What are Auer rods? → Red, needle-like aggregates of azurophilic granules in myeloblasts; MPO-positive and specific for the myeloid lineage.
+VIVA4: What is a faggot cell? → An abnormal promyelocyte with bundles of Auer rods, typical of APL.
+VIVA5: Why does APL cause DIC? → Its granules release tissue factor-like procoagulants and fibrinolytic activators.
+VIVA6: What is the Philadelphia chromosome? → The shortened chromosome 22 produced by t(9;22), carrying the BCR–ABL fusion gene.
+VIVA7: What are smudge cells? → Fragile CLL lymphocytes crushed during smear preparation.
+VIVA8: What are proliferation centres? → Pale nodal foci of prolymphocytes and paraimmunoblasts; pathognomonic of CLL/SLL.
+VIVA9: What is Richter transformation? → Transformation of CLL into diffuse large B-cell lymphoma, presenting as a rapidly enlarging mass.
+VIVA10: Name the phases of CML. → Chronic, accelerated (blasts 10–19%) and blast crisis (blasts 20% or more).
+VIVA11: What is a dry tap? → Failed marrow aspiration because of fibrosis (myelofibrosis) or packed marrow; a trephine biopsy is needed.
+VIVA12: What is a pseudo-Pelger–Huët cell? → A bilobed, hypogranular neutrophil: a dysplastic feature of MDS.
+
+=== ch14 Lymphomas ===
+MCQ1: A 24-year-old woman has a mediastinal mass. Node biopsy shows nodules separated by collagen bands and large cells lying in clear spaces. These cells are most likely:
+  A. CD20+, CD15−, CD30− | B. CD3+, CD4+ | C. CD15+, CD30+, CD45− | D. CD5+, CD23+ | E. CD138+, CD38+
+  KEY C — Lacunar cells of nodular sclerosis HL have the classical RS phenotype.
+MCQ2: The ‘popcorn’ cells of nodular lymphocyte predominant Hodgkin lymphoma characteristically express:
+  A. CD20 and BCL6 | B. CD15 and CD30 | C. Cyclin D1 | D. TdT | E. ALK
+  KEY A — LP cells keep the B-cell programme: CD20+, BCL6+, CD15−, CD30−.
+MCQ3: Of the following Hodgkin lymphoma subtypes, EBV is most often found in the Reed–Sternberg cells of:
+  A. Nodular sclerosis | B. Mixed cellularity | C. Nodular lymphocyte predominant | D. Lymphocyte-rich | E. All equally
+  KEY B — EBV is present in about 70% of mixed cellularity HL (the rare lymphocyte-depleted type is higher still).
+MCQ4: A patient has involved nodes in the neck and the para-aortic region, and an enlarged involved spleen; marrow is clear. The Ann Arbor stage is:
+  A. IE | B. IIS | C. IIE | D. IIIS | E. IV
+  KEY D — Nodes on both sides of the diaphragm with splenic involvement = IIIS.
+MCQ5: An abdominal mass in a 9-year-old shows sheets of intermediate cells with numerous mitoses and scattered pale macrophages. Ki-67 is near 100%. The key gene is:
+  A. BCL2 | B. CCND1 | C. ALK | D. BCL6 | E. MYC
+  KEY E — Starry-sky Burkitt lymphoma: MYC translocation, usually t(8;14).
+MCQ6: In follicular lymphoma, t(14;18) causes overexpression of a protein that:
+  A. Inhibits apoptosis | B. Drives aerobic glycolysis | C. Activates NF-κB | D. Pushes cells from G1 to S | E. Is a constitutive tyrosine kinase
+  KEY A — BCL2 blocks the mitochondrial pathway of apoptosis.
+MCQ7: A 65-year-old man has generalised lymphadenopathy and multiple colonic polyps. The lymphoma cells are CD5+, CD23− and cyclin D1+. The diagnosis is:
+  A. CLL/SLL | B. Follicular lymphoma | C. Mantle cell lymphoma | D. MALT lymphoma | E. Burkitt lymphoma
+  KEY C — CD5+, CD23−, cyclin D1+ with lymphomatoid polyposis = mantle cell lymphoma.
+MCQ8: An early, localised gastric MALT lymphoma without t(11;18) is best treated first with:
+  A. Total gastrectomy | B. Eradication of Helicobacter pylori | C. High-dose chemotherapy | D. Radiotherapy alone | E. Imatinib
+  KEY B — Antigen-dependent clones often regress when H. pylori is killed.
+MCQ9: Bence Jones protein in the urine of a patient with myeloma consists of:
+  A. Intact IgG | B. IgM pentamers | C. Free immunoglobulin light chains | D. β2-microglobulin | E. Albumin
+  KEY C — Free κ or λ light chains filtered into urine.
+MCQ10: A 70-year-old has an IgM M protein, blurred vision with engorged retinal veins and no lytic bone lesions. The diagnosis is:
+  A. Multiple myeloma | B. MGUS | C. Solitary plasmacytoma | D. Heavy-chain disease | E. Waldenström macroglobulinaemia
+  KEY E — IgM → hyperviscosity; lymphoplasmacytic lymphoma lacks lytic lesions.
+MCQ11: A 60-year-old has an M protein of 1.5 g/dL, 6% marrow plasma cells, normal calcium, renal function and haemoglobin, and no bone lesions. The best label is:
+  A. Smouldering myeloma | B. Plasma cell leukaemia | C. Multiple myeloma | D. MGUS | E. Waldenström macroglobulinaemia
+  KEY D — M protein < 3 g/dL, plasma cells < 10%, no CRAB = MGUS.
+MCQ12: A Japanese man has skin lesions, lymphadenopathy, hypercalcaemia and circulating CD4+ cells with flower-shaped nuclei. The causative agent is:
+  A. EBV | B. HHV-8 | C. HIV | D. HTLV-1 | E. Hepatitis C virus
+  KEY D — Adult T-cell leukaemia/lymphoma is caused by HTLV-1.
+VIVA1: What is a Reed–Sternberg cell? → A large binucleate or bilobed cell with owl-eye eosinophilic nucleoli; CD15+, CD30+, CD45−.
+VIVA2: What is a lacunar cell? → An RS variant in a clear space from cytoplasmic retraction; nodular sclerosis HL.
+VIVA3: Commonest subtype of Hodgkin lymphoma? → Nodular sclerosis.
+VIVA4: What are B symptoms? → Fever, drenching night sweats and loss of over 10% body weight in 6 months.
+VIVA5: How does Hodgkin lymphoma spread? → Predictably, to anatomically contiguous node groups, then spleen, liver and marrow.
+VIVA6: Commonest non-Hodgkin lymphoma? → Diffuse large B-cell lymphoma.
+VIVA7: What is the starry-sky pattern? → Tingible-body macrophages scattered among sheets of tumour cells in Burkitt lymphoma.
+VIVA8: Which marker separates follicular lymphoma from reactive follicles? → BCL2: positive in neoplastic follicles, negative in reactive germinal centres.
+VIVA9: Name a lymphoma that can regress with antibiotics. → Gastric MALT lymphoma, after eradication of H. pylori.
+VIVA10: What does CRAB stand for? → HyperCalcaemia, Renal failure, Anaemia, Bone lesions: end-organ damage in myeloma.
+VIVA11: What are Russell and Dutcher bodies? → Immunoglobulin inclusions in plasma cells: cytoplasmic (Russell) and intranuclear (Dutcher).
+VIVA12: What are rouleaux? → Red cells stacked like coins because M protein reduces their surface charge.
+VIVA13: Which IgM disorder causes hyperviscosity? → Waldenström macroglobulinaemia (lymphoplasmacytic lymphoma).
+
+=== ch15 Bleeding Disorders ===
+MCQ1: Adhesion of platelets to exposed subendothelial collagen depends mainly on von Willebrand factor binding to:
+  A. GpIIb/IIIa | B. GpIb–IX | C. The ADP (P2Y12) receptor | D. Fibrinogen | E. The thromboxane receptor
+  KEY B — vWF bridges collagen to platelet GpIb–IX; GpIIb/IIIa mediates aggregation.
+MCQ2: A 7-year-old has petechiae and epistaxis two weeks after a viral illness. Platelets are 12,000/µL; haemoglobin and WBC are normal; there is no splenomegaly. The marrow would most likely show:
+  A. Reduced megakaryocytes | B. Increased megakaryocytes | C. Reticulin fibrosis | D. Sheets of blasts | E. Ring sideroblasts
+  KEY B — In ITP, peripheral destruction drives megakaryocytic hyperplasia.
+MCQ3: A 32-year-old woman has fever, confusion, schistocytes, platelets of 18,000/µL and a raised creatinine. PT and aPTT are normal. The deficient enzyme is:
+  A. ADAMTS13 | B. Factor VIII | C. Antithrombin | D. Protein C | E. Plasminogen
+  KEY A — TTP: loss of the vWF-cleaving protease ADAMTS13, usually from an autoantibody.
+MCQ4: A 10-year-old boy has recurrent knee haemarthroses; his maternal uncle was similarly affected. aPTT is prolonged; PT, bleeding time and platelet count are normal. The diagnosis is:
+  A. von Willebrand disease type 1 | B. Glanzmann thrombasthenia | C. Vitamin K deficiency | D. Haemophilia A | E. Immune thrombocytopenia
+  KEY D — X-linked deep bleeding with isolated long aPTT = factor VIII (or IX) deficiency.
+MCQ5: A child’s platelets are normal in number and size and fail to aggregate with ADP, collagen and adrenaline, but agglutinate normally with ristocetin. The missing molecule is:
+  A. von Willebrand factor | B. GpIb–IX | C. GpIIb/IIIa | D. Factor VIII | E. Cyclo-oxygenase
+  KEY C — Glanzmann thrombasthenia: no fibrinogen receptor, so no aggregation.
+MCQ6: A boy has giant platelets, a mildly low count and absent ristocetin-induced agglutination that does not correct with normal plasma. The diagnosis is:
+  A. von Willebrand disease | B. Glanzmann thrombasthenia | C. Aspirin effect | D. Immune thrombocytopenia | E. Bernard–Soulier syndrome
+  KEY E — Bernard–Soulier: the GpIb–IX receptor itself is missing.
+MCQ7: The commonest inherited bleeding disorder is:
+  A. Haemophilia A | B. Haemophilia B | C. von Willebrand disease | D. Glanzmann thrombasthenia | E. Factor VII deficiency
+  KEY C — vWD affects about 1% in some surveys, mostly mildly.
+MCQ8: Desmopressin helps in type 1 von Willebrand disease and mild haemophilia A because it:
+  A. Releases vWF (and factor VIII) from endothelial stores | B. Inhibits fibrinolysis | C. Supplies vitamin K | D. Stimulates megakaryocytes | E. Neutralises factor VIII inhibitors
+  KEY A — It releases vWF from Weibel–Palade bodies; vWF also stabilises factor VIII.
+MCQ9: An ICU patient on broad-spectrum antibiotics and nil by mouth starts bleeding. PT is markedly prolonged, aPTT mildly prolonged, platelets normal. The factor that falls first is:
+  A. Factor VIII | B. Fibrinogen | C. Factor XII | D. Factor VII | E. von Willebrand factor
+  KEY D — Vitamin K deficiency: factor VII has the shortest half-life, so PT rises first.
+MCQ10: Which finding best separates DIC from the coagulopathy of liver disease?
+  A. Prolonged PT | B. Low platelet count | C. Low factor VIII | D. Prolonged aPTT | E. Raised bilirubin
+  KEY C — VIII is consumed in DIC but normal or high in liver disease.
+MCQ11: After abruptio placentae a woman oozes from venepuncture sites. Platelets 40,000/µL, PT and aPTT prolonged, fibrinogen low, D-dimer very high. The initiating mechanism is:
+  A. Antibodies to GpIIb/IIIa | B. Release of tissue factor into the circulation | C. Vitamin K deficiency | D. ADAMTS13 deficiency | E. An acquired factor VIII inhibitor
+  KEY B — Placental tissue factor triggers DIC.
+MCQ12: On day 8 of unfractionated heparin, a patient’s platelets fall from 250,000 to 90,000/µL and a new leg DVT appears. The mechanism is:
+  A. Direct toxicity of heparin to platelets | B. Splenic sequestration | C. Marrow suppression | D. Vitamin K antagonism | E. Antibodies to platelet factor 4–heparin complexes
+  KEY E — HIT: activating antibodies cause thrombosis despite thrombocytopenia.
+VIVA1: What does the bleeding time test? → The platelet plug: platelet number and function, vWF and the vessel wall.
+VIVA2: What does the PT measure? → Extrinsic and common pathways: factors VII, X, V, II and fibrinogen.
+VIVA3: What does the aPTT measure? → Intrinsic and common pathways: XII, XI, IX, VIII, X, V, II and fibrinogen.
+VIVA4: Name the vitamin K-dependent factors. → II, VII, IX and X, plus proteins C and S.
+VIVA5: Target antigens in chronic ITP? → Platelet GpIIb/IIIa or GpIb–IX.
+VIVA6: Pentad of TTP? → Fever, thrombocytopenia, MAHA, neurological deficits and renal failure.
+VIVA7: Cause of typical HUS? → Shiga-like toxin of E. coli O157:H7 after bloody diarrhoea, mainly in children.
+VIVA8: Defect in Glanzmann thrombasthenia? → Absent GpIIb/IIIa, so platelets cannot aggregate.
+VIVA9: Two functions of von Willebrand factor? → Links platelet GpIb to collagen; carries and stabilises factor VIII.
+VIVA10: Grading of haemophilia A? → Factor VIII below 1% severe, 2–5% moderate, 6–50% mild.
+VIVA11: Laboratory picture of DIC? → Low platelets and fibrinogen; long PT, aPTT and TT; high D-dimer; schistocytes.
+VIVA12: What is Waterhouse–Friderichsen syndrome? → Massive bilateral adrenal haemorrhage in meningococcal septicaemia with DIC.
+
+=== ch16 Glomerular Diseases: Nephritic &amp; Nephrotic Syndromes ===
+MCQ1: A 6-year-old has generalised oedema, 4+ proteinuria and no haematuria. Light microscopy of the biopsy is normal. Which electron-microscopic finding is expected?
+  A. Subepithelial humps | B. Diffuse effacement of podocyte foot processes | C. Split, laminated GBM | D. Subendothelial deposits | E. Intramembranous ribbon-like deposits
+  KEY B — Minimal change disease: the only lesion is foot-process effacement.
+MCQ2: Which immunofluorescence pattern is characteristic of anti-GBM disease?
+  A. Granular IgG and C3 | B. Mesangial IgA | C. Linear IgG along the GBM | D. C3 only, no immunoglobulin | E. Negative staining
+  KEY C — Antibody coats the GBM evenly, giving linear staining.
+MCQ3: Silver stain of a renal biopsy from a 50-year-old with nephrotic syndrome shows spikes projecting from the GBM. The most likely target antigen is:
+  A. α3 chain of type IV collagen | B. Myeloperoxidase | C. Proteinase 3 | D. Nephrin | E. Phospholipase A2 receptor
+  KEY E — Primary membranous nephropathy: anti-PLA2R in most cases.
+MCQ4: A 9-year-old has cola-coloured urine and periorbital oedema 2 weeks after impetigo. Which serum finding is most likely?
+  A. Low C3 | B. Raised IgA | C. Positive c-ANCA | D. Anti-GBM antibody | E. Normal complement with high IgE
+  KEY A — PSGN consumes complement; C3 is low and recovers in 6–8 weeks.
+MCQ5: A 20-year-old man has visible haematuria one day after each upper respiratory infection. Serum C3 is normal. The biopsy is most likely to show:
+  A. Crescents with linear IgG | B. Subepithelial humps | C. Mesangial IgA deposits | D. Kimmelstiel–Wilson nodules | E. Tram-track GBM with low C3
+  KEY C — Synpharyngitic haematuria with normal C3 = IgA nephropathy.
+MCQ6: The collapsing variant of FSGS is most strongly associated with:
+  A. Hepatitis B | B. HIV infection | C. Penicillamine | D. Hodgkin lymphoma | E. Streptococcal pharyngitis
+  KEY B — HIV-associated nephropathy is the classic collapsing glomerulopathy.
+MCQ7: Which of the following is NOT a feature of nephrotic syndrome?
+  A. Hypoalbuminaemia | B. Hyperlipidaemia | C. Lipiduria | D. RBC casts | E. Hypercoagulability
+  KEY D — RBC casts indicate glomerular inflammation: a nephritic feature.
+MCQ8: C3 nephritic factor is an autoantibody that:
+  A. Binds PLA2R on podocytes | B. Destroys C1 inhibitor | C. Targets type IV collagen | D. Activates neutrophils directly | E. Stabilises the alternative-pathway C3 convertase
+  KEY E — Persistent C3 activation causes dense deposit disease with low C3.
+MCQ9: A 28-year-old man has haemoptysis and rapidly rising creatinine. Biopsy shows crescents in 80% of glomeruli. The first-line specific treatment is:
+  A. Plasmapheresis | B. Oral penicillin | C. Dietary protein restriction | D. Gluten-free diet | E. ACE inhibitor alone
+  KEY A — Goodpasture: remove circulating anti-GBM antibody plus immunosuppression.
+MCQ10: Pauci-immune crescentic GN with c-ANCA (anti-PR3) positivity suggests:
+  A. Microscopic polyangiitis | B. Lupus nephritis | C. Granulomatosis with polyangiitis | D. IgA vasculitis | E. Alport syndrome
+  KEY C — PR3/c-ANCA is the marker of GPA (Wegener).
+MCQ11: A boy has haematuria, sensorineural deafness and anterior lenticonus. The defect lies in:
+  A. Nephrin | B. Podocin | C. Fibrillin | D. Type IV collagen | E. Type I collagen
+  KEY D — Alport syndrome: usually X-linked COL4A5 mutation.
+MCQ12: Crescents in RPGN are formed mainly by:
+  A. Mesangial cells and IgA | B. Endothelial cells and platelets | C. Podocytes and amyloid | D. Tubular cells and casts | E. Parietal epithelial cells and macrophages
+  KEY E — Fibrin in Bowman’s space triggers parietal cell proliferation and monocyte influx.
+MCQ13: Hepatitis C infection is most typically associated with which glomerular lesion?
+  A. Membranoproliferative GN with cryoglobulins | B. Minimal change disease | C. Alport syndrome | D. Anti-GBM disease | E. Thin basement membrane disease
+  KEY A — HCV → mixed cryoglobulinaemia → immune-complex MPGN.
+MCQ14: End-stage kidneys of chronic glomerulonephritis are typically:
+  A. Enlarged with multiple cysts | B. Small with coarse irregular U-shaped scars | C. Symmetrically small with a diffusely granular surface | D. Enlarged, pale and waxy | E. Normal-sized with papillary necrosis
+  KEY C — Symmetric contraction and fine granularity; coarse scars suggest chronic pyelonephritis.
+MCQ15: Hypercoagulability in nephrotic syndrome is mainly due to urinary loss of:
+  A. Fibrinogen | B. Platelets | C. Factor VIII | D. Antithrombin III | E. Von Willebrand factor
+  KEY D — Loss of antithrombin III favours renal vein and deep vein thrombosis.
+VIVA1: Define nephrotic syndrome. → Proteinuria > 3.5 g/day, serum albumin < 3 g/dL, generalised oedema, hyperlipidaemia and lipiduria.
+VIVA2: Commonest cause of nephrotic syndrome in children? → Minimal change disease.
+VIVA3: Why is MCD called lipoid nephrosis? → Proximal tubular cells are loaded with lipid reabsorbed from filtered lipoproteins.
+VIVA4: What is selective proteinuria? → Loss mainly of small proteins like albumin, not globulins; typical of MCD.
+VIVA5: What do you see in Bowman’s space in RPGN? → Crescents: proliferating parietal epithelial cells with macrophages and fibrin.
+VIVA6: Name the three immunological types of RPGN. → Anti-GBM (linear), immune complex (granular), pauci-immune (ANCA, no deposits).
+VIVA7: What are ‘humps’? → Large subepithelial immune deposits seen on EM in PSGN.
+VIVA8: What are ‘spikes’? → GBM projections between subepithelial deposits on silver stain in membranous nephropathy.
+VIVA9: What is a tram-track appearance? → Duplicated GBM from mesangial interposition in MPGN.
+VIVA10: What are wire loops? → Thickened capillary walls from subendothelial deposits in lupus nephritis class IV.
+VIVA11: Which GNs have low serum C3? → PSGN, MPGN/C3 glomerulopathy, lupus nephritis, cryoglobulinaemic GN.
+VIVA12: Most common GN worldwide? → IgA nephropathy (Berger disease).
+VIVA13: Antigen in Goodpasture syndrome? → NC1 domain of the α3 chain of type IV collagen.
+VIVA14: Which nephrotic disease is linked to renal vein thrombosis? → Membranous nephropathy.
+
+=== ch17 Tubulointerstitial Disease, Cystic Kidney &amp; Renal Function ===
+MCQ1: After 10 hours trapped under rubble with crushed legs, a man passes scanty dark urine with pigmented granular casts. The renal lesion is most likely:
+  A. Acute pyelonephritis | B. Acute tubular injury | C. Post-streptococcal glomerulonephritis | D. Drug-induced interstitial nephritis | E. Renal papillary necrosis
+  KEY B — Myoglobin from crushed muscle causes pigment ATN.
+MCQ2: In ischaemic acute tubular injury, the nephron segments most vulnerable are:
+  A. Glomerulus and Bowman capsule | B. Distal convoluted tubule and collecting duct | C. Straight proximal tubule and thick ascending limb | D. Thin descending limb only | E. Juxtaglomerular apparatus
+  KEY C — Highest oxygen demand; outer medulla is hypoxic.
+MCQ3: Recovering from ATN, a patient passes 3.5 L of urine a day. The main electrolyte risk is:
+  A. Hyperkalaemia | B. Hypercalcaemia | C. Hypermagnesaemia | D. Hypokalaemia | E. Hypernatraemia
+  KEY D — The diuretic phase wastes potassium.
+MCQ4: After 3 days of diarrhoea, an elderly woman has a raised creatinine. Which finding favours prerenal azotaemia over ATN?
+  A. Fractional excretion of sodium below 1% | B. Urine sodium above 40 mEq/L | C. Muddy brown granular casts | D. Urine osmolality below 350 mOsm/kg | E. Specific gravity fixed at 1.010
+  KEY A — Healthy tubules conserve sodium: FENa < 1%.
+MCQ5: A pregnant woman has fever, loin pain and dysuria. Which urinary finding proves the kidney itself is infected?
+  A. Nitrites | B. Leukocyte esterase | C. Bacteria on Gram stain | D. Uniform red cells | E. White cell casts
+  KEY E — Casts form only in tubules: renal origin.
+MCQ6: A small scarred kidney shows coarse polar scars over blunted calyces; microscopy shows dilated tubules filled with eosinophilic colloid. The diagnosis is:
+  A. Chronic glomerulonephritis | B. Chronic pyelonephritis | C. Benign nephrosclerosis | D. ADPKD | E. Acute tubular injury
+  KEY B — Thyroidisation + calyceal deformity.
+MCQ7: Two weeks after starting a penicillin, a man develops fever, rash, eosinophilia and a rising creatinine. Biopsy is most likely to show:
+  A. Interstitial oedema with eosinophils and granulomas | B. Crescents in Bowman space | C. Subepithelial humps | D. Massive cortical necrosis | E. Glomerular wire loops
+  KEY A — Hypersensitivity AIN: eosinophils, tubulitis, granulomas.
+MCQ8: Renal papillary necrosis is most typically associated with:
+  A. Minimal change disease | B. Medullary sponge kidney | C. Diabetes mellitus with pyelonephritis | D. IgA nephropathy | E. Simple renal cysts
+  KEY C — DOSA: diabetes, obstruction, sickle cell, analgesics.
+MCQ9: The gene most often mutated in autosomal dominant polycystic kidney disease encodes:
+  A. Fibrocystin | B. Nephrin | C. Uromodulin | D. Polycystin-2 | E. Polycystin-1
+  KEY E — PKD1 (16p13.3) causes about 85%.
+MCQ10: A neonate with enlarged smooth kidneys and radially arranged collecting-duct cysts will also have:
+  A. Berry aneurysms | B. Mitral valve prolapse | C. Colonic diverticula | D. Congenital hepatic fibrosis | E. Pancreatic cysts only
+  KEY D — ARPKD always has congenital hepatic fibrosis.
+MCQ11: A man on dialysis for 12 years has multiple bilateral renal cysts. The most serious complication is:
+  A. Berry aneurysm rupture | B. Congenital hepatic fibrosis | C. Renal cell carcinoma | D. Papillary necrosis | E. Medullary nephrocalcinosis
+  KEY C — Acquired cystic disease predisposes to RCC.
+MCQ12: ABG: pH 7.25, PaCO2 26 mmHg, HCO3 12 mEq/L; Na 140, Cl 104. The best interpretation is:
+  A. Respiratory acidosis with renal compensation | B. High anion gap metabolic acidosis with appropriate compensation | C. Normal anion gap metabolic acidosis | D. Metabolic alkalosis | E. Mixed respiratory and metabolic acidosis
+  KEY B — AG 24; expected PaCO2 1.5 × 12 + 8 = 26 ± 2.
+VIVA1: Commonest cause of AKI? → Acute tubular injury (necrosis).
+VIVA2: Why is FENa low in prerenal azotaemia? → Healthy tubules avidly reabsorb sodium.
+VIVA3: Which casts suggest ATN? → Muddy brown granular and epithelial cell casts.
+VIVA4: What is tubulorrhexis? → Rupture of tubular basement membrane (ischaemic ATN).
+VIVA5: Three nephrotoxins causing ATN? → Gentamicin, radiocontrast, mercury (also ethylene glycol).
+VIVA6: Commonest organism of acute pyelonephritis? → Escherichia coli, ascending infection.
+VIVA7: What is thyroidisation of the kidney? → Dilated tubules filled with colloid casts: chronic pyelonephritis.
+VIVA8: What is reflux nephropathy? → Chronic pyelonephritis from childhood reflux plus infection.
+VIVA9: Causes of papillary necrosis? → Diabetes, obstruction, sickle cell disease, analgesics.
+VIVA10: Extrarenal lesions of ADPKD? → Liver cysts, berry aneurysm, mitral valve prolapse.
+VIVA11: Normal anion gap? → About 8–12 mEq/L, mostly albumin.
+VIVA12: Two causes of normal-AG acidosis? → Diarrhoea and renal tubular acidosis.
+
+=== ch18 Renal Tumours, Urothelial Carcinoma &amp; Urolithiasis ===
+MCQ1: A 30-year-old man with cerebellar haemangioblastoma develops bilateral renal tumours. The tumours most likely show:
+  A. Papillae with foamy macrophages | B. Clear cells with delicate vasculature | C. Triphasic blastemal histology | D. Cells with perinuclear halos | E. Vessels, smooth muscle and fat
+  KEY B — VHL syndrome: bilateral, multiple clear cell RCC.
+MCQ2: A 60-year-old man with a renal mass has a haemoglobin of 19 g/dL. The cause is tumour secretion of:
+  A. Renin | B. PTH-related peptide | C. ACTH | D. Erythropoietin | E. Gonadotrophin
+  KEY D — EPO from RCC causes polycythaemia.
+MCQ3: Papillary renal cell carcinoma is linked to activation of:
+  A. MET | B. VHL | C. WT1 | D. TSC2 | E. FGFR3
+  KEY A — MET proto-oncogene; trisomy 7, 16, 17.
+MCQ4: A well-circumscribed mahogany-brown renal tumour with a central stellate scar, made of large eosinophilic cells full of mitochondria, is:
+  A. Chromophobe RCC | B. Clear cell RCC | C. Angiomyolipoma | D. Wilms tumour | E. Oncocytoma
+  KEY E — Benign oncocytoma from intercalated cells.
+MCQ5: A young woman with seizures, facial angiofibromas and a fatty renal mass is at risk of which complication of the mass?
+  A. Polycythaemia | B. Hypercalcaemia | C. Spontaneous retroperitoneal haemorrhage | D. Lung metastases | E. Renal vein thrombosis
+  KEY C — Angiomyolipoma of tuberous sclerosis bleeds.
+MCQ6: A 4-year-old with aniridia and genital anomalies is most at risk of a tumour caused by deletion at:
+  A. 11p15.5 | B. 3p25 | C. 17p13 | D. 11p13 | E. 13q14
+  KEY D — WAGR: 11p13 deletion of WT1 and PAX6.
+MCQ7: An 18-month-old has an irregular abdominal mass crossing the midline with stippled calcification and raised urinary VMA. The diagnosis is:
+  A. Wilms tumour | B. Neuroblastoma | C. Mesoblastic nephroma | D. Hepatoblastoma | E. ARPKD
+  KEY B — Neuroblastoma: adrenal, crosses midline, calcified, catecholamines.
+MCQ8: The single most important risk factor for urothelial carcinoma of the bladder is:
+  A. Cigarette smoking | B. Cyclophosphamide | C. Schistosomiasis | D. Radiation | E. Chronic catheterisation
+  KEY A — Smoking raises risk 3- to 7-fold.
+MCQ9: A farmer from the Nile valley with long-standing haematuria has an invasive bladder tumour. Histology most likely shows:
+  A. Low-grade papillary urothelial carcinoma | B. Adenocarcinoma | C. Small cell carcinoma | D. Keratinising squamous cell carcinoma | E. Urothelial papilloma
+  KEY D — Schistosoma haematobium → squamous metaplasia → SCC.
+MCQ10: Flat urothelial carcinoma in situ differs from low-grade papillary carcinoma in that CIS:
+  A. Has FGFR3 mutations | B. Never sheds cells into urine | C. Is always solitary | D. Rarely progresses | E. Is high grade with TP53 changes and often invades
+  KEY E — CIS: TP53/RB pathway; 50–75% become invasive untreated.
+MCQ11: A woman with recurrent Proteus UTIs has a large branching stone filling the pelvis and calyces. It is composed of:
+  A. Calcium oxalate | B. Uric acid | C. Magnesium ammonium phosphate | D. Cystine | E. Xanthine
+  KEY C — Urease-split urea makes alkaline urine: struvite staghorn.
+MCQ12: A man with gout has renal colic; the stone is invisible on plain X-ray. Its most likely composition is:
+  A. Calcium oxalate | B. Struvite | C. Calcium phosphate | D. Cystine | E. Uric acid
+  KEY E — Uric acid stones are radiolucent and form in acid urine.
+VIVA1: Commonest type of RCC and its gene? → Clear cell carcinoma; VHL on 3p.
+VIVA2: What does VHL protein normally do? → Targets HIF for destruction in normoxia.
+VIVA3: Classic triad of RCC? → Haematuria, flank pain, palpable mass (only ~10%).
+VIVA4: Why is RCC called the internist’s tumour? → Fever and many paraneoplastic syndromes.
+VIVA5: Commonest sites of RCC metastasis? → Lungs and bones.
+VIVA6: Benign renal tumour with central scar? → Oncocytoma.
+VIVA7: Name the three components of Wilms tumour. → Blastema, epithelium (tubules), stroma.
+VIVA8: Adverse histology in Wilms tumour? → Anaplasia (TP53 mutation).
+VIVA9: Two molecular pathways of urothelial carcinoma? → FGFR3 papillary (low grade); TP53/RB flat CIS (invasive).
+VIVA10: Most important prognostic factor in bladder cancer? → Depth of invasion (muscularis propria) and stage.
+VIVA11: Which stone is radiolucent? → Uric acid.
+VIVA12: Organism behind staghorn calculi? → Proteus (urease producers).
+
+=== ch19 Prostate &amp; Testis ===
+MCQ1: A 68-year-old with nocturia and poor stream improves after months of finasteride. The drug acts by inhibiting:
+  A. Androgen receptor | B. α1-adrenergic receptor | C. 5α-reductase type 2 | D. Aromatase | E. GnRH receptor
+  KEY C — Blocks testosterone → DHT conversion.
+MCQ2: A prostate biopsy shows small crowded glands. Which finding most strongly supports carcinoma?
+  A. Absent basal cell layer with prominent nucleoli | B. Corpora amylacea | C. Papillary infolding | D. Two-layered epithelium | E. Stromal nodules
+  KEY A — Loss of basal cells (p63-negative) with nucleoli; AMACR positive.
+MCQ3: A 72-year-old man has back pain; X-ray shows sclerotic lesions in the lumbar spine and pelvis. The most likely primary is:
+  A. Kidney | B. Lung | C. Thyroid | D. Prostate | E. Stomach
+  KEY D — Prostate cancer gives osteoblastic bone metastases.
+MCQ4: A biopsy has Gleason pattern 4 as the commonest and pattern 3 as the second. The ISUP grade group is:
+  A. 1 | B. 3 | C. 2 | D. 4 | E. 5
+  KEY B — 4 + 3 = 7 is grade group 3.
+MCQ5: Which statement about PSA is correct?
+  A. It is specific for cancer | B. It is never raised in BPH | C. Values below 4 ng/mL exclude cancer | D. It is produced by seminal vesicles | E. It is organ-specific and useful for follow-up after treatment
+  KEY E — Organ-, not cancer-specific; best in monitoring.
+MCQ6: An undescended testis removed from a 10-year-old shows small tubules with thick hyaline basement membranes and prominent Leydig cells. This patient also has an increased risk of:
+  A. Leydig cell tumour | B. Testicular lymphoma | C. Germ cell tumour in either testis | D. Adenomatoid tumour | E. Mumps orchitis
+  KEY C — Cryptorchidism raises GCT risk 3–5-fold, both sides.
+MCQ7: A 15-year-old wakes with sudden severe scrotal pain; the cremasteric reflex is absent. The underlying mechanism of testicular damage is:
+  A. Venous obstruction causing haemorrhagic infarction | B. Arterial embolism | C. Bacterial suppuration | D. Immune-complex vasculitis | E. Granulomatous inflammation
+  KEY A — Torsion blocks veins first: haemorrhagic infarction.
+MCQ8: A 35-year-old has a homogeneous grey-white lobulated testicular mass. Histology: sheets of clear cells with central nuclei, septa with lymphocytes. Which marker profile fits?
+  A. AFP very high | B. hCG very high with normal AFP | C. AFP and hCG both very high | D. Normal AFP, normal or mildly raised hCG | E. Raised PSA
+  KEY D — Pure seminoma never raises AFP.
+MCQ9: A 2-year-old has a testicular mass and a raised AFP. Histology shows glomeruloid structures with a central vessel. The tumour is:
+  A. Seminoma | B. Embryonal carcinoma | C. Choriocarcinoma | D. Teratoma | E. Yolk sac tumour
+  KEY E — Schiller–Duval bodies; commonest testicular tumour in infants.
+MCQ10: A 25-year-old with haemoptysis and gynaecomastia has a tiny haemorrhagic testicular nodule. The most likely tumour is:
+  A. Seminoma | B. Choriocarcinoma | C. Leydig cell tumour | D. Yolk sac tumour | E. Teratoma
+  KEY B — Very high hCG; early haematogenous spread to lungs.
+MCQ11: Genital tuberculosis in men most typically begins in the:
+  A. Testis | B. Tunica vaginalis | C. Epididymis | D. Penile urethra | E. Spermatic cord veins
+  KEY C — TB starts in the epididymis; syphilis in the testis.
+MCQ12: The commonest testicular neoplasm in a 70-year-old man is:
+  A. Seminoma | B. Yolk sac tumour | C. Leydig cell tumour | D. Diffuse large B-cell lymphoma | E. Choriocarcinoma
+  KEY D — Lymphoma is the commonest testicular tumour over 60.
+VIVA1: Zone of origin of BPH and of carcinoma? → BPH: transition zone. Carcinoma: peripheral zone.
+VIVA2: Hormone essential for BPH? → Dihydrotestosterone, made by 5α-reductase type 2.
+VIVA3: What are corpora amylacea? → Laminated eosinophilic concretions in prostatic gland lumens.
+VIVA4: Precursor of prostate cancer? → High-grade prostatic intraepithelial neoplasia (HGPIN).
+VIVA5: Commonest gene fusion in prostate cancer? → TMPRSS2–ERG (ETS family).
+VIVA6: On what is Gleason grading based? → Glandular architecture at low power, not cytology.
+VIVA7: Type of bone metastasis in prostate cancer? → Osteoblastic (sclerotic).
+VIVA8: Why is varicocele usually left-sided? → Left testicular vein drains at a right angle into the left renal vein.
+VIVA9: Precursor of most testicular GCTs? → Germ cell neoplasia in situ (GCNIS).
+VIVA10: Chromosomal marker of GCTs? → Isochromosome 12p, i(12p).
+VIVA11: What are Schiller–Duval bodies? → Glomeruloid structures of yolk sac tumour.
+VIVA12: First lymph nodes involved by testicular tumours? → Retroperitoneal para-aortic nodes.
+
+=== ch20 Vulva, Cervix &amp; Endometrium ===
+MCQ1: The HPV E7 oncoprotein promotes cell proliferation chiefly by binding and inactivating:
+  A. p53 | B. RB | C. BCL2 | D. TERT | E. E-cadherin
+  KEY B — E7 binds hypophosphorylated RB and releases E2F; E6 targets p53.
+MCQ2: A Pap smear shows superficial squamous cells with enlarged, wrinkled hyperchromatic nuclei surrounded by a clear perinuclear halo. These cells indicate:
+  A. Candida infection | B. Atrophic vaginitis | C. Squamous metaplasia | D. Cytopathic effect of HPV | E. Invasive carcinoma
+  KEY D — Koilocytes are the hallmark of productive HPV infection (LSIL).
+MCQ3: Nearly all cervical intraepithelial neoplasia arises in the:
+  A. Transformation zone | B. Ectocervix far from the os | C. Endometrial cavity | D. Vaginal fornix | E. Endocervical crypt base
+  KEY A — Immature metaplastic squamous cells of the transformation zone are most susceptible to HPV.
+MCQ4: The commonest cause of death in advanced carcinoma of the cervix is:
+  A. Pulmonary metastasis | B. Haemorrhage | C. Brain metastasis | D. Sepsis from fistula | E. Renal failure from ureteric obstruction
+  KEY E — Parametrial spread compresses the ureters, causing hydronephrosis and uraemia.
+MCQ5: An endometrial biopsy from a woman with an intrauterine device and pelvic pain shows numerous plasma cells in the stroma. The diagnosis is:
+  A. Normal secretory endometrium | B. Atypical hyperplasia | C. Chronic endometritis | D. Adenomyosis | E. Endometrial polyp
+  KEY C — Plasma cells are not present in normal endometrium; they define chronic endometritis.
+MCQ6: The commonest site of endometriosis is the:
+  A. Ovary | B. Umbilicus | C. Lung | D. Appendix | E. Cervix
+  KEY A — Ovaries (often bilateral, with chocolate cysts), then uterine ligaments and pouch of Douglas.
+MCQ7: Histological diagnosis of endometriosis requires two of three features. Which set is correct?
+  A. Glands, smooth muscle, plasma cells | B. Stroma, granulomas, neutrophils | C. Glands, psammoma bodies, mucin | D. Endometrial glands, endometrial stroma, haemosiderin | E. Stroma, keratin, giant cells
+  KEY D — Glands, stroma and haemosiderin-laden macrophages: any two suffice.
+MCQ8: A 70-year-old thin woman has postmenopausal bleeding. Hysterectomy shows a papillary tumour with marked nuclear atypia, psammoma bodies and an atrophic background endometrium. The gene most likely mutated is:
+  A. PTEN | B. TP53 | C. KRAS | D. MLH1 | E. CTNNB1
+  KEY B — Serous (type II) carcinoma: TP53 in nearly all cases; no hyperplasia background.
+MCQ9: The most frequently altered gene in type I (endometrioid) endometrial carcinoma and its precursor is:
+  A. TP53 | B. BRCA1 | C. HER2 | D. RB | E. PTEN
+  KEY E — PTEN loss is the commonest change in endometrioid carcinoma and atypical hyperplasia.
+MCQ10: A 30-year-old woman develops sudden severe pain over a known fibroid in the second trimester of pregnancy. The fibroid most likely shows:
+  A. Sarcomatous change | B. Calcification | C. Red (carneous) degeneration | D. Hyaline change | E. Cystic change
+  KEY C — Red degeneration is haemorrhagic infarction of a fibroid, typically in pregnancy.
+MCQ11: Which feature best supports leiomyosarcoma over leiomyoma?
+  A. Coagulative tumour cell necrosis with atypia and brisk mitoses | B. Multiple well-circumscribed nodules | C. Whorled grey-white cut surface | D. Hyaline degeneration | E. MED12 mutation
+  KEY A — Necrosis, atypia and mitoses together define malignancy; the others favour leiomyoma.
+MCQ12: A 75-year-old woman with long-standing lichen sclerosus develops an ulcerated vulvar mass. The tumour is most likely:
+  A. HPV 16-positive basaloid carcinoma | B. Melanoma | C. Extramammary Paget disease | D. Keratinising SCC with TP53 mutation, from differentiated VIN | E. Condyloma acuminatum
+  KEY D — Older women with lichen sclerosus get HPV-negative keratinising SCC via differentiated VIN.
+VIVA1: Which HPV types cause cervical cancer most often? → HPV 16 (almost 60%) and HPV 18 (about 10%).
+VIVA2: What do E6 and E7 do? → E6 degrades p53 and activates telomerase; E7 binds RB, releasing E2F.
+VIVA3: What is a koilocyte? → HPV-infected squamous cell with perinuclear halo and enlarged, wrinkled hyperchromatic nucleus.
+VIVA4: LSIL and HSIL correspond to which CIN grades? → LSIL = CIN I; HSIL = CIN II and CIN III (including carcinoma in situ).
+VIVA5: Which IHC marker supports HSIL? → Diffuse block-type p16 staining.
+VIVA6: Commonest histological type of cervical cancer? → Squamous cell carcinoma, about 80%.
+VIVA7: Can a vaccinated girl skip screening? → No. Vaccines do not cover all oncogenic types and do not treat existing infection.
+VIVA8: Hallmark of chronic endometritis? → Plasma cells in the endometrial stroma.
+VIVA9: What is a chocolate cyst? → Ovarian endometriotic cyst filled with altered brown blood.
+VIVA10: Why does adenomyosis rarely bleed cyclically? → The misplaced tissue comes from the basalis, which does not respond fully to hormones.
+VIVA11: Precursor of serous endometrial carcinoma? → Serous endometrial intraepithelial carcinoma, on an atrophic endometrium.
+VIVA12: Commonest secondary change in a fibroid? → Hyaline degeneration; red degeneration is typical in pregnancy.
