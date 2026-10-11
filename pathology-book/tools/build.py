@@ -117,6 +117,12 @@ def process(fragment, name="?"):
             d = el.find("div", class_=part, recursive=False)
             if d and not d.find("div", class_="mh", recursive=False):
                 d.insert(0, frag(f'<div class="mh">{D.MORPH_ICONS[part]}<span>{d.get("data-label", lab)}</span></div>'))
+    # Greek letters keep their lower-case form inside upper-cased labels (captions, h4, box labels)
+    for el in soup.select("caption, h4, div.lbl, div.mh, .zone-title, .osce .hd"):
+        for t in list(el.find_all(string=True)):
+            if re.search(r"[α-ω]", t) and t.parent.name != "script":
+                new = re.sub(r"([α-ω]+)", r'<span style="text-transform:none">\1</span>', _html.escape(str(t), quote=False))
+                t.replace_with(frag(new))
     for el in soup.select("div.mcqset"):
         items = jload(el.get_text(), name + " mcqset")
         qs, ks = [], []

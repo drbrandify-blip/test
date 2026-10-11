@@ -189,7 +189,7 @@ def flow(text, direction="TB", width=26):
             g.append(f'{nid} [label="{lab}"];')
     for a, b, lab, op in edges:
         attrs = []
-        if lab: attrs.append(f'xlabel="{lab}"')
+        if lab: attrs.append(f'label=" {lab} "')
         if op == "--": attrs.append('arrowhead=none style=dashed')
         if op == "<->": attrs.append('dir=both')
         g.append(f'{a} -> {b} [{" ".join(attrs)}];')
